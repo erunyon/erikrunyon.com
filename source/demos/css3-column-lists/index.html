@@ -1,0 +1,225 @@
+---
+title: CSS3 Column Lists
+author: Erik Runyon
+layout: simple
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<title>CSS3 Column Lists | Demos | weedygarden.net</title>
+<style>
+* { -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+body, html {margin:0; padding:0;}
+body {padding:0.5em 1em; font-family:Helvetica,Verdana,Arial,sans-serif;}
+.columnlist {margin:1em 0; padding-left:1em;
+  -moz-column-count:2; -moz-column-gap:2.5em;
+  -webkit-column-count:2; -webkit-column-gap:2.5em;
+  column-count:2; column-gap:2.5em;
+}
+.demolist2 li {display:inline-block; *display:inline; *zoom:1;}
+
+.demolist3 li {display:inline-block; *display:inline; *zoom:1;}
+.demolist3 li:before {content:'\2022'; margin-right:0.75em; font-weight:bold; font-size:1.3em;}
+
+.demolist4 li {display:inline-block; *display:inline; *zoom:1; width:100%; padding-left:2em; text-indent:-2em;}
+.demolist4 li:before {content:'\2022'; margin-right:0.75em; font-weight:bold; font-size:1.3em;}
+.demolist4 ul {margin-left:0;}
+.demolist4 li li {display:block;}
+.demolist4 li li:before {content:'\B7';}
+
+.demolistfinal {margin:1em 0; padding-left:1em;}
+.demolistfinal li {display:inline-block; *display:inline; *zoom:1; width:100%; padding-left:2em; text-indent:-2em;}
+.demolistfinal li:before {content:'\2022'; margin-right:0.75em; font-weight:bold; font-size:1.3em;}
+.demolistfinal ul {margin-left:0;}
+.demolistfinal li li {display:block;}
+.demolistfinal li li:before {content:'\B7';}
+
+@media only screen and (min-width:48em) {
+  .demolistfinal {
+    -moz-column-count:2; -moz-column-gap:2.5em;
+    -webkit-column-count:2; -webkit-column-gap:2.5em;
+    column-count:2; column-gap:2.5em;
+  }
+}
+
+@media only screen and (min-width:60em) {
+  .demolistfinal {
+    -moz-column-count:3; -moz-column-gap:2.5em;
+    -webkit-column-count:3; -webkit-column-gap:2.5em;
+    column-count:3; column-gap:2.5em;
+  }
+}
+</style>
+</head>
+
+<body>
+<h2>Original List</h2>
+<p>Multi-column list where content can break over columns.</p>
+<ul class="columnlist">
+	<li>Praesent vitae ligula nec orci</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Quam ac tellus</li>
+	<li>Donec eros</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Quisque venenatis ante sit amet dolor</li>
+	<li>Nulla porta tempus sapien</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Fusce luctus convallis justo</li>
+	<li>Etiam eu ante non leo</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Vivamus convallis urna id felis</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Orci tincidunt fermentum</li>
+	<li>Quisque in wisi quis orci tincidunt fermentum</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Eros eget quam aliquam gravida</li>
+	<li>Etiam eu ante non leo egestas nonummy</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Curabitur quis dui sit amet elit luctus aliquam</li>
+	<li>Cras aliquam massa ullamcorper sapien</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Praesent posuere nunc at neque blandit pretium</li>
+</ul>
+<h2>With display:inline-block</h2>
+<p>Content no longer breaks over columns, but we lose the bullets.</p>
+<ul class="columnlist demolist2">
+	<li>Praesent vitae ligula nec orci</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Quam ac tellus</li>
+	<li>Donec eros</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Quisque venenatis ante sit amet dolor</li>
+	<li>Nulla porta tempus sapien</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Fusce luctus convallis justo</li>
+	<li>Etiam eu ante non leo</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Vivamus convallis urna id felis</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Orci tincidunt fermentum</li>
+	<li>Quisque in wisi quis orci tincidunt fermentum</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Eros eget quam aliquam gravida</li>
+	<li>Etiam eu ante non leo egestas nonummy</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Curabitur quis dui sit amet elit luctus aliquam</li>
+	<li>Cras aliquam massa ullamcorper sapien</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Praesent posuere nunc at neque blandit pretium</li>
+</ul>
+<h2>With bullets added</h2>
+<p>Bullets are back, but short list items may appear on the same line.</p>
+<ul class="columnlist demolist3">
+	<li>Praesent vitae ligula nec orci</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Quam ac tellus</li>
+	<li>Donec eros</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Quisque venenatis ante sit amet dolor</li>
+	<li>Nulla porta tempus sapien</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Fusce luctus convallis justo</li>
+	<li>Etiam eu ante non leo</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Vivamus convallis urna id felis</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Orci tincidunt fermentum</li>
+	<li>Quisque in wisi quis orci tincidunt fermentum</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Eros eget quam aliquam gravida</li>
+	<li>Etiam eu ante non leo egestas nonummy</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Curabitur quis dui sit amet elit luctus aliquam</li>
+	<li>Cras aliquam massa ullamcorper sapien</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Praesent posuere nunc at neque blandit pretium</li>
+</ul>
+<h2>With width:100% and sub-li&rsquo;s styled</h2>
+<ul class="columnlist demolist4">
+	<li>Praesent vitae ligula nec orci</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Quam ac tellus</li>
+	<li>Donec eros</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Quisque venenatis ante sit amet dolor</li>
+	<li>Nulla porta tempus sapien</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Fusce luctus convallis justo</li>
+	<li>Etiam eu ante non leo</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Vivamus convallis urna id felis</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Orci tincidunt fermentum</li>
+	<li>Quisque in wisi quis orci tincidunt fermentum
+<ul>
+	<li>Quam ac tellus</li>
+	<li>Donec eros</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Quisque venenatis ante sit amet dolor</li>
+	<li>Nulla porta tempus sapien</li>
+</ul>
+</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Eros eget quam aliquam gravida</li>
+	<li>Etiam eu ante non leo egestas nonummy</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Curabitur quis dui sit amet elit luctus aliquam</li>
+	<li>Cras aliquam massa ullamcorper sapien</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Praesent posuere nunc at neque blandit pretium</li>
+</ul>
+<h2>Final with @mediaqueries</h2>
+<ul class="demolistfinal">
+	<li>Praesent vitae ligula nec orci</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Quam ac tellus</li>
+	<li>Donec eros</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Quisque venenatis ante sit amet dolor</li>
+	<li>Nulla porta tempus sapien</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Fusce luctus convallis justo</li>
+	<li>Etiam eu ante non leo</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Vivamus convallis urna id felis</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Orci tincidunt fermentum</li>
+	<li>Quisque in wisi quis orci tincidunt fermentum
+<ul>
+	<li>Quam ac tellus</li>
+	<li>Donec eros</li>
+	<li>Vestibulum interdum magna sed quam</li>
+	<li>Quisque venenatis ante sit amet dolor</li>
+	<li>Nulla porta tempus sapien</li>
+</ul>
+</li>
+	<li>Sed accumsan quam ac tellus</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Eros eget quam aliquam gravida</li>
+	<li>Etiam eu ante non leo egestas nonummy</li>
+	<li>Donec id eros eget quam aliquam gravida</li>
+	<li>Curabitur quis dui sit amet elit luctus aliquam</li>
+	<li>Cras aliquam massa ullamcorper sapien</li>
+	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit</li>
+	<li>Praesent posuere nunc at neque blandit pretium</li>
+</ul>
+
+{% include analytics.html %}
+</body>
+</html>

@@ -1,0 +1,26 @@
+<nav id="nav" class="section navigation" role="navigation">
+  <h2>Navigation</h2>
+  <ul>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/contact/">Contact</a></li>
+    <li><a href="/highered-rwd-directory/">HigherEd RWD Directory</a></li>
+    <li><a href="/highered-adaptive-directory/">HigherEd Adaptive Directory</a></li>
+    <li><a href="/archives">Archives</a></li>
+  </ul>
+</nav>
+
+{% include social_links.html %}
+
+<form action="{{ site.simple_search }}" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
+    <input type="search" name="q" results="0" placeholder="Search" class="search">
+    <input type="submit" value="Search">
+  </fieldset>
+</form>
+
+{% if site.blog_index_asides.size %}
+  {% include_array blog_index_asides %}
+{% else %}
+  {% include_array default_asides %}
+{% endif %}

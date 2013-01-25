@@ -1,0 +1,84 @@
+/* Updated: 2012.8.4
+   Author: Erik Runyon
+   ----------------------------------------------------*/
+@media only screen {
+    #site_content table tr.top {cursor:pointer; /* This is what allows the Browser Data rows to be "clickable" on iOS */}
+    #site_content table.special tr.top td {line-height:32px;}  
+}
+
+@media only screen and (orientation : portrait) {
+
+  /* Lets do some resetting, shall we?
+     ----------------------------------------------------*/
+  * { -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+  
+  body {padding:1em 2em;}
+  #wrapper {position:relative; overflow:hidden; top:53px;}
+  
+  header {left:auto; overflow:hidden; width:100%; margin:0 -2em; padding:0 2em;
+    -webkit-box-shadow:0 0 5px 3px rgba(0, 0, 0, 0.5);
+            box-shadow:0 0 5px 3px rgba(0, 0, 0, 0.5);
+  }
+    header p {position:relative; float:left; width:auto;}
+    header a.map_view {position:relative; float:left; left:auto; margin-left:1em;}
+
+  #sites:after,
+  #sites:before {background:none;}
+  #sites {position:relative; top:auto; left:auto; width:100%; margin:0; padding:0;}
+    #sites div.site {display:inline-block; *display:inline; *zoom:1; height:60px; margin:1px 1em 1em 1px;}
+    #sites.meld div.site.current {width:226px;
+      -webkit-border-radius:5px;
+         -moz-border-radius:5px;
+              border-radius:5px;
+    }
+    #sites.meld div.site.current:before,
+    #sites.meld div.site.current:after,
+    #sites.meld div.site.current:first-child:before {display:none; background:none;}
+    #sites.meld div.site.current ul {right:8px;}
+    #sites.meld div.site.current:after {position:relative; top:auto; right:auto; width:0; height:0; background:none;
+      -webkit-border-radius:0;
+         -moz-border-radius:0;
+              border-radius:0;
+      -webkit-box-shadow:none;
+         -moz-box-shadow:none;
+              box-shadow:none;
+    }
+      
+    body.loaded #data {position:relative; display:table; left:auto; top:auto; bottom:auto; width:100%; margin:0;}
+      #data div.nav {position:relative; display:table-cell; top:auto; left:auto; bottom:auto; width:20%;}
+        #data div.nav li a {height:auto;}
+      #site_content {position:relative; display:table-cell; top:auto; right:auto; bottom:auto; left:auto; width:80%;}
+        div.toolbar {position:relative; overflow:hidden;}
+        #site_content div.display {position:relative; top:auto; bottom:auto; float:left; width:100%;}
+          #site_content div.graph {width:100%;}
+          canvas.base,
+          canvas.overlay {width:100%;}
+
+    footer:before {position:relative; left:auto; bottom:auto; width:100%; height:auto; margin:0; background:none;}
+    footer {clear:both; overflow:hidden; position:relative; bottom:auto; left:auto; height:auto; width:95%; margin:55px auto 0;}
+      footer p {float:left;}
+      footer ul {position:relative; right:auto; top:auto; float:right;}
+}
+
+/* Hi-res
+   ----------------------------------------------------*/
+@media
+  only screen and (-webkit-min-device-pixel-ratio:1.5),
+  only screen and (-o-min-device-pixel-ratio:3/2),
+  only screen and (min--moz-device-pixel-ratio:1.5),
+  only screen and (min-device-pixel-ratio:1.5) {
+  
+    header h1 a,
+    #signin form h2,
+    #signup form h2,
+    #forgot_password h2,
+    #password_reset_sent h2,
+    #full_map h1 {background:url(logo.png) left center no-repeat;
+      -webkit-background-size:84px 23px;
+         -moz-background-size:84px 23px;
+          -ie-background-size:84px 23px;
+           -o-background-size:84px 23px;
+              background-size:84px 23px;
+    }
+
+}
