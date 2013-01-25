@@ -11,7 +11,7 @@ Carousels. That gem of a web feature that clients love, and many developers hate
 3. Total clicks per position
 
 I'm also tracking interactions such as how many times the feature is switched using arrows vs. the dots (pagination), but that's not the focus of this article.
-<!-- more -->
+
 ## The Numbers
 
 These numbers were gathered from mid-October 2012 to January 22, 2013. The percentages are based on the number of clicks recorded through Google Analytics Events and compared to the number of visitors to the homepage. "Feature" refers to the individual calls-to-action that are either manually or automatically rototated in and out of view.
@@ -42,7 +42,7 @@ Finally, I'd suggest that the subject matter can make a big difference. For inst
 
 If anyone has been tracking similar interactions on carousels, I'd be interested to know how your numbers compare.
 
-### Update (five minutes after posting)
+## Update (five minutes after posting)
 
 I think perhaps we should all just take [@lukew](https://twitter.com/lukew/status/293857685546360834)'s advice.
 
@@ -51,6 +51,17 @@ I think perhaps we should all just take [@lukew](https://twitter.com/lukew/statu
 ### Update Two
 
 [Brad Frost](http://twitter.com/brad_frost) [posted a follow-up](http://bradfrostweb.com/blog/post/carousels/) with his thoughts on carousels.
+
+## Other Articles (updated 2013-01-25)
+
+I have been notified of other articles pertaining to carousels. [Contact me](/contact/) if you find others whether they're for or against. I'll include them here.
+
+* [**Carousels**: Brad Frost](http://bradfrostweb.com/blog/post/carousels/)
+* [**Slide Rules**: Bearded Studio](http://blog.bearded.com/post/41445520202/slide-rules)
+* [**Auto-Forwarding Carousels and Accordions Annoy Users and Reduce Visibility**: Neilsen Norman Group](http://www.nngroup.com/articles/auto-forwarding/)
+* [**That big sliding banner? Yeah, it’s rubbish**: Beantin](http://beantin.se/post/30991868949/sliding-banner-content-slider-carousel-rotator)
+* [**Sliders Suck**: Brian Krogsgard](http://krogsgard.com/2013/sliders-suck/)
+* [**Don’t Use Automatic Image Sliders or Carousels, Ignore the Fad**: ConversionXL](http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/)
 
  [1]: /images/2013/nd-feature-click-through.png "ND.edu Feature Click-through Rates"
  [2]: /images/2013/click-through-rates.png "Feature Click-through Rates for four ND properties"
