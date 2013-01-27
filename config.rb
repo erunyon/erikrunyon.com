@@ -9,7 +9,7 @@ css_dir = "public/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
-images_dir = "source/images"
+images_dir = "source/stylesheets/images"
 fonts_dir = "source/fonts"
 
 line_comments = false

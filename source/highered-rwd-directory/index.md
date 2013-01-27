@@ -18,6 +18,7 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 ## C
 
 * <a href="http://www.ucsd.edu/">California, San Diego, University of</a>
+* [Cameron University](http://www.cameron.edu/)
 * <a href="http://uca.edu">Central Arkansas, University of</a>
 * <a href="http://www.chapman.edu/">Chapman University</a>
 * <a href="http://uchicago.edu">Chicago, University of</a>
@@ -100,6 +101,10 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 
 * <a href="http://ucla.edu/">UCLA</a>
 * <a href="http://uncc.edu">UNC Charlotte</a>
+
+## V
+
+* [Vermont, University of](http://www.uvm.edu/)
 
 ## W
 

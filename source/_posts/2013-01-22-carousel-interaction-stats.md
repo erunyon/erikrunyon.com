@@ -11,7 +11,7 @@ Carousels. That gem of a web feature that clients love, and many developers hate
 3. Total clicks per position
 
 I'm also tracking interactions such as how many times the feature is switched using arrows vs. the dots (pagination), but that's not the focus of this article.
-
+<!-- more -->
 ## The Numbers
 
 These numbers were gathered from mid-October 2012 to January 22, 2013. The percentages are based on the number of clicks recorded through Google Analytics Events and compared to the number of visitors to the homepage. "Feature" refers to the individual calls-to-action that are either manually or automatically rototated in and out of view.

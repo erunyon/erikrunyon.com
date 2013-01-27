@@ -1,0 +1,108 @@
+/*************************************************************************************
+ * 2. Screen Styles
+ ************************************************************************************/
+@media screen,projection {
+  /* WRAPPER
+     ----------------------------------------------------*/
+  .wrapper {margin:40px 2% 0;}
+  .wrapper:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+  #skip-links {display:block; clip:auto; position:relative; width:auto; height:auto; overflow:hidden; margin:0;}
+  #skip-links ul {overflow:hidden; width:100%; margin:0; list-style:none; border:1px solid rgba(156,112,18,0.4); border-width:1px 0; background-color:#f6efd2;}
+  #skip-links li {float:left; margin:0; text-align:center; width:49%;}
+  #skip-links li a {display:block; float:left; width:100%; padding:5px 0; font-size:14px; border:1px solid rgba(156,112,18,0.4); border-width:0 0 0 1px; text-decoration:none;}
+
+  /* HEADER
+     ----------------------------------------------------*/
+  .site-header {margin:0 0 20px;}
+    .site-header h1 {margin:0; font-size:2.4em; font-weight:normal; text-shadow:0 1px 1px rgba(255,255,255,0.5);}
+    .site-header h1 a {text-decoration:none; border:0 none; color:#1f4919;}
+    .site-header h2 {margin:0 0 0 0.7em; font-size:0.9em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+
+  /* CONTENT
+     ----------------------------------------------------*/
+  .content {width:100%; margin:15px 0;}
+  .content img {clear:both; display:block; margin:1em auto; max-width:100%;}
+
+  /* SIDEBAR
+     ----------------------------------------------------*/
+  .sidebar {width:100%; padding:1em; border-top:1px solid #dadada; color:#777;}
+    .sidebar section {margin:10px 0; padding:10px 0;}
+  .sidebar h2 {margin:0 0 .25em 0; font-size:1.3em; line-height:1.4; text-transform:uppercase; color:#666;}
+  .sidebar a {color:#555;}
+  .sidebar a:hover {color:#111;}
+  .sidebar p {}
+  .sidebar ul {margin:0 0 1em; padding:0; list-style-type:none;}
+  .sidebar li {margin:0 0 .4em 0;}
+  .sidebar section,
+  .sidebar .section {margin:0 0 2em 0; padding:0;}
+  .sidebar .social-links li {margin:0 0 1em;}
+
+  /* FOOTER
+     ----------------------------------------------------*/
+  .site-footer {padding:10px 0; padding:20px 0; margin:30px 0 0; border-top:1px solid #999; clear:both; text-align:center;}
+  .site-footer p {line-height:1.5; color:#777;}
+  .site-footer .social-links li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0;}
+
+}
+
+/*************************************************************************************
+ * 3. Media Queries
+ ************************************************************************************/
+
+/* 580 */
+@media only screen and (min-width:36.25em) {
+  .content .alignleft {margin:0 2em 1em 0; float:left;}
+  .content .alignright {margin:0 0 1em 2em; float:right;}
+}
+
+/* 700px */
+@media only screen and (min-width:43.75em) {
+  body {
+    -webkit-background-size:80% auto;
+       -moz-background-size:80% auto;
+        -ie-background-size:80% auto;
+         -o-background-size:80% auto;
+            background-size:80% auto;
+  }
+
+  .columnlists .content ul {
+    -moz-column-count:2;
+    -moz-column-gap:2em;
+    -webkit-column-count:2;
+    -webkit-column-gap:2em;
+    column-count:2;
+    column-gap:2em;
+  }
+
+  .wrapper {max-width:1200px; margin:60px 0 0 6%; height:1%;}
+  #skip-links { border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px; }
+  #skip-links:active, #skip-links:focus { clip:auto; height:auto; margin:0; overflow:visible; position:static; width:auto; }
+
+  .site-header {margin:0 0 4em;}
+    .site-header h1 {margin:0; padding:0; font-size:3.5em;}
+
+  .content {float:left; width:65%; margin:0 5% 0 0; padding:0;}
+  .sidebar {float:right; width:30%; padding:1em; color:#777; border:none; background-color:rgba(255, 255, 255, 0.8);}
+  .site-footer {text-align:left;}
+}
+
+/* 960px */
+@media only screen and (min-width:60em) {
+  body {
+    -moz-background-size:auto auto;
+    -ie-background-size:auto auto;
+    -o-background-size:auto auto;
+    -webkit-background-size:auto auto;
+    background-size:auto auto;
+  }
+  .columnlists .content ul {
+    -moz-column-count:3;
+    -webkit-column-count:3;
+    column-count:3;
+  }
+  .post-header h2 {font-size:2.2em;}
+
+  .post p {width:80%;}
+  .post .alignright {margin-right:-20%;}
+
+}
