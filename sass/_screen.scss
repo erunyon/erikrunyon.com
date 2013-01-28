@@ -57,22 +57,9 @@
 
 /* 700px */
 @media only screen and (min-width:43.75em) {
-  body {
-    -webkit-background-size:80% auto;
-       -moz-background-size:80% auto;
-        -ie-background-size:80% auto;
-         -o-background-size:80% auto;
-            background-size:80% auto;
-  }
+  body {@include background-size(80% auto);}
 
-  .columnlists .content ul {
-    -moz-column-count:2;
-    -moz-column-gap:2em;
-    -webkit-column-count:2;
-    -webkit-column-gap:2em;
-    column-count:2;
-    column-gap:2em;
-  }
+  .columnlists .content ul {@include columns(2em 2);}
 
   .wrapper {max-width:1200px; margin:60px 0 0 6%; height:1%;}
   #skip-links { border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px; }
@@ -88,18 +75,8 @@
 
 /* 960px */
 @media only screen and (min-width:60em) {
-  body {
-    -moz-background-size:auto auto;
-    -ie-background-size:auto auto;
-    -o-background-size:auto auto;
-    -webkit-background-size:auto auto;
-    background-size:auto auto;
-  }
-  .columnlists .content ul {
-    -moz-column-count:3;
-    -webkit-column-count:3;
-    column-count:3;
-  }
+  body {@include background-size(auto auto);}
+  .columnlists .content ul {@include columns(2em 3);}
   .post-header h2 {font-size:2.2em;}
 
   .post p {width:80%;}

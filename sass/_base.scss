@@ -1,29 +1,18 @@
 /*************************************************************************************
  * 1. Common Styles
  ************************************************************************************/
-* {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+ * {@include box-sizing(border-box);}
 @-ms-viewport {width:device-width;}
 
-html {width:100%; margin:0; padding:0; font-size:100%; overflow-y:scroll;
+html {width:100%; margin:0; padding:0; font-size:100%; overflow-y:scroll; @include hyphens(auto);
   -webkit-text-size-adjust:100%;
   -ms-text-size-adjust:100%;
   text-size-adjust:100%;
   -webkit-font-smoothing:antialiased;
   -moz-font-smoothing:antialiased;
   font-smoothing:antialiased;
-  -webkit-hyphens:auto;
-     -moz-hyphens:auto;
-      -ms-hyphens:auto;
-       -o-hyphens:auto;
-          hyphens:auto;
 }
-body {width:100%; margin:0; padding:0; color:#333; font-size:1em; line-height:1.5em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; background:#fff url(/images/css/leaves-right.jpg) top right no-repeat;
-  -webkit-background-size:60% auto;
-     -moz-background-size:60% auto;
-      -ie-background-size:60% auto;
-       -o-background-size:60% auto;
-          background-size:60% auto;
-}
+body {width:100%; margin:0; padding:0; color:#333; font-size:1em; line-height:1.5em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; background:#fff url(/images/css/leaves-right.jpg) top right no-repeat; @include background-size(60% auto);}
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
 audio, canvas, video {display:inline-block; *display:inline; *zoom:1;}
 audio:not([controls]) {display:none;}
@@ -72,11 +61,7 @@ th, td {padding:0.25em;}
   .number {text-align:right;}
 td, td img {vertical-align:top;}
 
-img {border:none; vertical-align:bottom; -ms-interpolation-mode:bicubic;
-  -webkit-box-sizing:content-box;
-     -moz-box-sizing:content-box;
-          box-sizing:content-box;
-}
+img {border:none; vertical-align:bottom; -ms-interpolation-mode:bicubic; @include box-sizing(content-box);}
 
 sup {vertical-align:super; font-size:smaller;}
 sub {vertical-align:sub; font-size:smaller;}
