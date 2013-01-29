@@ -3,7 +3,7 @@ title: HigherEd RWD Directory
 layout: default
 bodyclass: columnlists
 ---
-I’m in the process of researching HigherEd homepages that use RWD. I’m making the list public in case others might find it useful. This is a non-exhaustive list, and include primary sites only (no department or sub sites). I’ve also added a [page for HigherEd adaptive sites][1] for reference. If you know of any that are missing from the list, [please let me know][2]. Special thanks to [Doug Gapinski][3] of [mStoner][4] for assisting in putting the list together. Updated **2013-01-26**.
+I’m in the process of researching HigherEd homepages that use RWD. I’m making the list public in case others might find it useful. This is a non-exhaustive list, and include primary sites only (no department or sub sites). I’ve also added a [page for HigherEd adaptive sites][1] for reference. If you know of any that are missing from the list, [please let me know][2]. Special thanks to [Doug Gapinski][3] of [mStoner][4] for assisting in putting the list together. Updated **2013-01-29**.
 
 ## A
 
@@ -22,6 +22,7 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 * <a href="http://uca.edu">Central Arkansas, University of</a>
 * <a href="http://www.chapman.edu/">Chapman University</a>
 * <a href="http://uchicago.edu">Chicago, University of</a>
+* [Claremont McKenna College](http://www.claremontmckenna.edu/)
 * <a href="http://colorado.edu">Colorado Boulder, University of</a>
 * <a href="http://coloradocollege.edu">Colorado College</a>
 * <a href="http://www.cui.edu/">Concordia University Irvine</a>
