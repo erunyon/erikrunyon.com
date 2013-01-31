@@ -3,7 +3,7 @@ title: HigherEd Adaptive Directory
 layout: default
 bodyclass: columnlists
 ---
-These are site that don’t quite [fit the definition](http://en.wikipedia.org/wiki/Responsive_web_design) of responsive, but deserve mentioning. Typically they only lack the fluid grid. **Updated 2013-01-17.**
+These are site that don’t quite [fit the definition](http://en.wikipedia.org/wiki/Responsive_web_design) of responsive, but deserve mentioning. Typically they only lack the fluid grid. **Updated 2013-01-31.**
 
 ## A
 
@@ -37,6 +37,7 @@ These are site that don’t quite [fit the definition](http://en.wikipedia.org/w
 ## O
 
 * [Occidental College](http://www.oxy.edu/)
+* [Oswego, State University of New York at](http://oswego.edu/)
 
 ## S
 
