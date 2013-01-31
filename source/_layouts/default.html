@@ -1,7 +1,7 @@
 {% if page.bodyclass.size > 0 %}{% assign bodyclass = page.bodyclass %}{% else %}{% assign bodyclass = '' %}{% endif %}
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
-<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %}  class="{{ bodyclass }}">
+<body {% if page.body_id %}id="{{ page.body_id }}"{% endif %} class="{{ bodyclass }}">
 <nav id="skip-links">
   <ul>
     <li><a href="#content">Skip to Content</a></li>
