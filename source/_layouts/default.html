@@ -17,10 +17,27 @@
   </div>
 
   <aside class="sidebar" role="complementary">
-    <nav role="navigation">{% include navigation.html %}</nav>
+    {% include navigation.html %}
+    {% include social_links.html %}
+
+    <form action="{{ site.simple_search }}" method="get" role="search">
+      <fieldset>
+        <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
+        <input type="search" name="q" results="0" placeholder="Search" class="search">
+        <input type="submit" value="Search">
+      </fieldset>
+    </form>
+
+    {% if site.blog_index_asides.size %}
+      {% include_array blog_index_asides %}
+    {% else %}
+      {% include_array default_asides %}
+    {% endif %}
   </aside>
 
   {% include footer.html %}
+  
+</div>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script src="/js/code-highlighter.js"></script>
 <script src="/js/common.js"></script>
