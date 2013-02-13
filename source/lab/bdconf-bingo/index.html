@@ -1,3 +1,8 @@
+---
+title: BDConf Bingo
+author: Erik Runyon
+layout: simple
+---
 <!doctype html>
 <!--[if lt IE 8]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
@@ -11,13 +16,14 @@
 <style>
 * {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
 @-ms-viewport {width:device-width;}
-body {margin:0; padding:2em; color:#333; font-size:1em; line-height:1.5em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+body {margin:0; padding:2em; color:#333; font-size:1em; line-height:1.5em; font-family:Helvetica, Arial, Verdana, sans-serif;}
 table {width:100%; border-collapse:collapse; text-align:center;}
   td {width:20%; padding:2em 1em; border:1px solid #dadada;}
 h1 {display:block; margin:0 auto 1em; text-align:center;}
   h1 img {display:block; margin:0 auto 0.25em; width:100px;}
 #free {text-transform:uppercase; font-weight:bold; background-color:#dadada;}
 </style>
+{% include analytics.html %}
 </head>
 
 <body>
@@ -86,7 +92,6 @@ var terms = [
 for(i=0;i<24;i++) {
   document.getElementById('s' + i).innerHTML = terms[i];
 }
-
 </script>
 </body>
 </html>
