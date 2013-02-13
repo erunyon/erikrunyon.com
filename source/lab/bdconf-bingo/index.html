@@ -1,0 +1,92 @@
+<!doctype html>
+<!--[if lt IE 8]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="author" content="ENR">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="description" content="">
+<title>@BDConf Bingo</title>
+<style>
+* {-moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box;}
+@-ms-viewport {width:device-width;}
+body {margin:0; padding:2em; color:#333; font-size:1em; line-height:1.5em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+table {width:100%; border-collapse:collapse; text-align:center;}
+  td {width:20%; padding:2em 1em; border:1px solid #dadada;}
+h1 {display:block; margin:0 auto 1em; text-align:center;}
+  h1 img {display:block; margin:0 auto 0.25em; width:100px;}
+#free {text-transform:uppercase; font-weight:bold; background-color:#dadada;}
+</style>
+</head>
+
+<body>
+  <h1><img src="twitter.png" alt="BDConf Logo"> @BDConf Bingo</h1>
+  <table>
+    <tr><td id="s0"></td><td id="s1"></td><td id="s2"></td><td id="s3"></td><td id="s4"></td></tr>
+    <tr><td id="s5"></td><td id="s6"></td><td id="s7"></td><td id="s8"></td><td id="s9"></td></tr>
+    <tr><td id="s10"></td><td id="s11"></td><td id="free">free</td><td id="s12"></td><td id="s13"></td></tr>
+    <tr><td id="s14"></td><td id="s15"></td><td id="s16"></td><td id="s17"></td><td id="s18"></td></tr>
+    <tr><td id="s19"></td><td id="s20"></td><td id="s21"></td><td id="s22"></td><td id="s23"></td></tr>
+  </table>
+  <h2>Rules</h2>
+  <ol>
+    <li>Print this page and bring it with you to <a href="http://bdconf.com/">BDConf</a>.</li>
+    <li>If one of your squares is mentioned from stage, mark it off.</li>
+    <li>If you get a bingo, mark the time at the top of the document.</li>
+    <li>DO NOT yell bingo. If you interrupt a speaker for this game, you will be disqualified, shunned by other attendees and generally considered a bad person.</li>
+    <li>Winner will be presented with a prize by Jeffrey Bruss. He does not know this yet.</li>
+    <li>&ldquo;Why do I have to print it out&rdquo; you ask? Because you&rsquo;re all hackers and I don't trust you.</li>
+  </ol>
+<script>
+Array.prototype.shuffle = function () {
+    for (var i = this.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = this[i];
+        this[i] = this[j];
+        this[j] = tmp;
+    }
+    return this;
+}
+
+var terms = [
+  "Android",
+  "Bingo",
+  "Blackberry",
+  "Bluetooth",
+  "Breakpoint",
+  "Content First",
+  "Diamonds",
+  "Device Agnostic",
+  "Device Library/Lab",
+  "Dirty Hippie",
+  "Dumb Phone",
+  "Feature Phone",
+  "FirefoxOS",
+  "Geolocation",
+  "iOS",
+  "Internet of Things",
+  "Latency",
+  "Metro",
+  "Mobile App",
+  "Mobile First",
+  "Mobile Perf",
+  "Mobile Web",
+  "NFC",
+  "One-web",
+  "Phablet",
+  "QR Code",
+  "RESS",
+  "RWD",
+  "Ubuntu OS",
+  "WebOS",
+  "Zombie Apocalypse"
+].shuffle();
+
+for(i=0;i<24;i++) {
+  document.getElementById('s' + i).innerHTML = terms[i];
+}
+
+</script>
+</body>
+</html>
