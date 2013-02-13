@@ -3,7 +3,7 @@ title: HigherEd RWD Directory
 layout: default
 bodyclass: columnlists
 ---
-I’m in the process of researching HigherEd homepages that use RWD. I’m making the list public in case others might find it useful. This is a non-exhaustive list, and include primary sites only (no department or sub sites). I’ve also added a [page for HigherEd adaptive sites][1] for reference. If you know of any that are missing from the list, [please let me know][2]. Special thanks to [Doug Gapinski][3] of [mStoner][4] for assisting in putting the list together. Updated **2013-01-29**.
+I’m in the process of researching HigherEd homepages that use RWD. I’m making the list public in case others might find it useful. This is a non-exhaustive list, and include primary sites only (no department or sub sites). I’ve also added a [page for HigherEd adaptive sites][1] for reference. If you know of any that are missing from the list, [please let me know][2]. Special thanks to [Doug Gapinski][3] of [mStoner][4] for assisting in putting the list together. Updated **2013-02-12**.
 
 ## A
 
@@ -39,20 +39,21 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 
 ## E
 
-* <a href="http://edgewood.edu">Edgewood College</a>
+* [Edgewood College](http://edgewood.edu)
 
 ## F
 
-* <a href="http://fiu.edu">Florida International University</a>
+* [Florida International University](http://fiu.edu)
 
 ## G
 
-* <a href="http://www.glam.ac.uk/">Glamorgan, University of</a>
-* <a href="http://gvsu.edu">Grand Valley State University</a>
+* [Gettysburg College](http://www.gettysburg.edu/)
+* [Glamorgan, University of](http://www.glam.ac.uk/)
+* [Grand Valley State University](http://gvsu.edu)
 
 ## H
 
-* <a href="http://www.hendrix.edu">Hendrix College</a>
+* [Hendrix College](http://www.hendrix.edu)
 
 ## L
 
@@ -76,7 +77,7 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 
 ## P
 
-* <a href="http://pitt.edu/">Pittsburgh, University of</a>
+* [Pittsburgh, University of](http://pitt.edu/)
 
 ## Q
 
