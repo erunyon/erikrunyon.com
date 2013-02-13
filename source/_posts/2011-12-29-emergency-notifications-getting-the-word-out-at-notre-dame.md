@@ -27,7 +27,7 @@ When we really want to grab the audiences’ attention, we do two things. First,
 
 Our mobile site monitors the same file, and in case of emergency the “Emergency” icon is tagged with a notification symbol. Viewing the section then displays the current message. Simple, but effective. We saw visits to this section jump exponentially during our snow closing back in February 2011.
 
-<img class="noborder" title="Side-by-side display of the m.nd.edu homescreen notification icon and the notification message in the Emergency section." src="/images/notice-mobile-combo.jpg" alt="m.nd.edu emergency active" />
+<img class="noborder" title="Side-by-side display of the m.nd.edu homescreen notification icon and the notification message in the Emergency section." src="/images/2011/notice-mobile-combo.jpg" alt="m.nd.edu emergency active" />
 
 ### Emergency Script
 
@@ -49,7 +49,7 @@ The huge advantage to this approach is that we can display emergency information
  [2]: http://grundyhome.com/2010/11/18/emergencies-and-web-design/
  [3]: http://emergency.nd.edu
  [4]: http://grundyhome.com/blog/archives/2010/11/18/emergencies-and-web-design/
- [5]: /images/notice-nd.jpg "ND.edu in Notification mode"
- [6]: /images/alert-nd.jpg "ND.edu in Emergency mode"
- [7]: /images/notice-newsinfo.jpg "newsinfo.nd.edu in Notification mode"
- [8]: /images/alert-newsinfo.jpg "newsinfo.nd.edu in Emergency mode"
+ [5]: /images/2011/notice-nd.jpg "ND.edu in Notification mode"
+ [6]: /images/2011/alert-nd.jpg "ND.edu in Emergency mode"
+ [7]: /images/2011/notice-newsinfo.jpg "newsinfo.nd.edu in Notification mode"
+ [8]: /images/2011/alert-newsinfo.jpg "newsinfo.nd.edu in Emergency mode"

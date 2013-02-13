@@ -12,7 +12,7 @@ I’ve always been a keyboard jockey, using shortcut keys and other tools to avo
 
 ## Magic Trackpad
 
-<img class="alignright noborder" src="/images/magic-trackpad.jpg" alt="Magic Trackpad" />
+<img class="alignright noborder" src="/images/2011/magic-trackpad.jpg" alt="Magic Trackpad" />
 
 Shorty after [Apple’s Magic Trackpad][3] came out, I figured I’d give it a shot to see if it would make a difference. My hope was that with the variety of ways to interact with it, the work of controlling that blasted cursor could be shared by all the phalanges and not just Mr. Pointer, whom I believe is the main culprit of my RSI.
 

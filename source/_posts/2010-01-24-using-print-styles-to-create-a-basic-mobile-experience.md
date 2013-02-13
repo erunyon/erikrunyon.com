@@ -15,7 +15,7 @@ First off, create an empty your mobile stylesheet and link it up:
 
 <pre>&lt;link href="/css/mobile.css" media="handheld" rel="stylesheet" type="text/css" /&gt;</pre>
 
-<img class="alignright" src="/images/basic-mobile.png" alt="Basic mobile display" />
+<img class="alignright" src="/images/2010/basic-mobile.png" alt="Basic mobile display" />
 
 Grab your print styles and paste them into your mobile stylesheet. You’ll need to take a few of the items you hid (such as navigation), bring them back and give them some style. As with print, focus on what’s important to this user experience and hide what’s not.
 
@@ -44,18 +44,12 @@ For screen and [basic mobile][3], I’m using:
 If recent trends tell us anything, it’s that an increasing percentage of web users are going to be accessing our sites on small screens. As developers, it’s our responsibility to to give at least a passing nod to these users and give them a pleasant experience. Offering basic mobile styles is the first step.
 
 <div class="note">
-  <p>
-    Two of the easiest way to test your newly crafted mobile view:
-  </p>
+
+Two of the easiest way to test your newly crafted mobile view:
   
-  <ul>
-    <li>
-      Opera 10′s small screen view (View > Small Screen)
-    </li>
-    <li>
-      Switching your style view if Firefox using the <a href="http://chrispederick.com/work/web-developer/">Web Developer extension</a>. (CSS > Display CSS By Media Type)
-    </li>
-  </ul>
+* Opera 10′s small screen view (View > Small Screen)
+* Switching your style view if Firefox using the <a href="http://chrispederick.com/work/web-developer/">Web Developer extension</a>. (CSS > Display CSS By Media Type)
+
 </div>
 
  [1]: /2010/01/18/print-styles-your-first-step-to-basic-mobile/

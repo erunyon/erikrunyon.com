@@ -26,8 +26,8 @@ Granted, that last one is a bit subtle, but you could experiment and come up wit
 
  [1]: http://www.eternalstorms.at/utilities/opaquemenubar/page52/page52.html
  [2]: http://www.manytricks.com/blog/?id=10
- [3]: /images/toolbar-transparent.png
- [4]: /images/toolbar-closeup.gif
- [5]: /images/toolbar-solid.png
- [6]: /images/toolbar-gradient.png
- [7]: /images/toolbar-desktop.png
+ [3]: /images/2007/toolbar-transparent.png
+ [4]: /images/2007/toolbar-closeup.gif
+ [5]: /images/2007/toolbar-solid.png
+ [6]: /images/2007/toolbar-gradient.png
+ [7]: /images/2007/toolbar-desktop.png

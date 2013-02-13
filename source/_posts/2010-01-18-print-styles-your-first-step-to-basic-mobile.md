@@ -17,7 +17,7 @@ There are several things to keep in mind when creating a print stylesheet:
 
 ### Background images and colors will not be seen\*
 
-[<img src="/images/print-preview.png" class="alignright" alt="Print Preview" />][2]
+[<img src="/images/2010/print-preview.png" class="alignright" alt="Print Preview" />][2]
 
 Yes, you've spent a lot of time making your site beautiful. When someone prints your page for future reading/reference, they don't need the glamour-shot version. They need something simple that's not going to cost them a hundred dollars worth of ink to print.
 
@@ -49,11 +49,11 @@ If you're a higher-ed developer, you can find some higher-ed specifics:
 ** By default, browsers don't print background colors or images. Here's a section of the print dialog in Firefox. Note that these check boxes are off by default.* ![Print Dialog][9]
 
  [1]: /2010/01/02/when-m-dot-is-not-an-option/
- [2]: /images/print-full.png "View Print Style"
+ [2]: /images/2010/print-full.png "View Print Style"
  [3]: /wp-content/themes/weedy-beta/css/print.css
  [4]: http://css-discuss.incutio.com/?page=PrintStylesheets
  [5]: http://css-tricks.com/css-tricks-finally-gets-a-print-stylesheet/
  [6]: http://printfancy.com/
  [7]: http://doteduguru.com/id3876-dont-loose-your-identity-create-an-effective-print-style-sheet.html
  [8]: http://cuwebd.ning.com/group/css/forum/topics/1763934:Topic:29074
- [9]: /images/print-dialog.png
+ [9]: /images/2010/print-dialog.png
