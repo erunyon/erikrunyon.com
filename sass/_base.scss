@@ -113,8 +113,9 @@ code span.method {color:#2c85cc;}
 
 acronym, abbr, span.caps {font-size:0.9em; letter-spacing:.07em;}
 
-.navigation {font-weight:bold;}
-  .navigation h2 {display:none;}
+.navigation {font-weight:bold;
+  h2 {display:none;}
+}
 
 .pagination {margin:0 0 3em; padding:0; list-style:none; font-weight:bold;}
   .pagination li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0;}

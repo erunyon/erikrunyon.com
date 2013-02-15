@@ -17,11 +17,13 @@ img         {max-width:100%; padding:2px; border:1px solid gray;}
 
 #skip-links li {margin:0; font-size:80%;}
 #wrapper      {font-size:100%;}
-#header       {}
-#header a     {border:none;}
-#header h4    {margin:0; font-size:85%; font-weight:normal;}
-#header h3    {margin:4px 0 0; font-size:200%;}
-#header h3 a  {text-decoration:none;}
+#header       {
+  a     {border:none;}
+  h4    {margin:0; font-size:85%; font-weight:normal;}
+  h3    {margin:4px 0 0; font-size:200%;
+    a  {text-decoration:none;}
+  }
+}
 
 #content        {width:100%; margin:10px 0; padding:10px 0; border-color:gray; border-style:solid; border-width:1px 0;}
 div.navigation  {padding:0 0 10px; border-bottom:1px solid gray;}
@@ -37,9 +39,10 @@ code span.tag         {color:#8c4a1c;}
 
 .alt {margin:10px 0; padding:10px 0; background-color:#f8f8f8; border-top:1px solid #ddd; border-bottom:1px solid #ddd; }
 
-#footer	  {padding:10px 0; position:relative; clear:both; font-size:92%;}
-#footer a	{border:none; text-decoration:none;}
-#footer ul,
-#footer p {margin:0;}
-#footer img {margin-right:4px; border:none;}
+#footer {padding:10px 0; position:relative; clear:both; font-size:92%;
+  a	{border:none; text-decoration:none;}
+  ul,
+  p {margin:0;}
+  img {margin-right:4px; border:none;}
+}
 #social_links li {float:left; display:inline; margin:0 10px 0 0;}
