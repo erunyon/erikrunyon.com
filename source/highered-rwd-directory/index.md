@@ -23,6 +23,7 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 * <a href="http://www.chapman.edu/">Chapman University</a>
 * <a href="http://uchicago.edu">Chicago, University of</a>
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
+* [Colgate University](http://www.colgate.edu)
 * <a href="http://colorado.edu">Colorado Boulder, University of</a>
 * <a href="http://coloradocollege.edu">Colorado College</a>
 * <a href="http://www.cui.edu/">Concordia University Irvine</a>
