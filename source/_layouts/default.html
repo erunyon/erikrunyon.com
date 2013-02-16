@@ -2,15 +2,18 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
 <body {% if page.body_id %}id="{{ page.body_id }}"{% endif %} class="{{ bodyclass }}">
-<nav id="skip-links">
-  <ul>
-    <li><a href="#content">Skip to Content</a></li>
-    <li><a href="#nav">Skip to Nav</a></li>
-  </ul>
-</nav>
 <div class="wrapper">
+  <nav class="skip-links">
+    <ul>
+      <li><a href="#content" class="s2c">Skip to Content</a></li>
+      <li><a href="#nav" class="s2n">Menu</a></li>
+    </ul>
+  </nav>
 
-  {% include header.html %}
+  <header id="header" class="site-header" role="banner">
+    <h1><a href="/">{{ site.title }}</a></h1>
+    {% if site.subtitle %}<h2>{{ site.subtitle }}</h2>{% endif %}
+  </header>
 
   <div id="content" class="content" role="main">
     {{ content | expand_urls: root_url }}
@@ -36,10 +39,10 @@
   </aside>
 
   {% include footer.html %}
-  
+
 </div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="/js/code-highlighter.js"></script>
-<script src="/js/common.js"></script>
+<script src="/js/site.js"></script>
 </body>
 </html>
