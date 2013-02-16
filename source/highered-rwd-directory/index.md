@@ -1,42 +1,48 @@
 ---
 title: HigherEd RWD Directory
 layout: default
-bodyclass: columnlists
+bodyclass: "columnlists rwd-directory"
 ---
-I’m in the process of researching HigherEd homepages that use RWD. I’m making the list public in case others might find it useful. This is a non-exhaustive list, and include primary sites only (no department or sub sites). I’ve also added a [page for HigherEd adaptive sites][1] for reference. If you know of any that are missing from the list, [please let me know][2]. Special thanks to [Doug Gapinski][3] of [mStoner][4] for assisting in putting the list together. Updated **2013-02-15**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-02-16**.
 
 ## A
 
-* <a href="http://amherst.edu/">Amherst College</a>
-* <a href="http://www.astate.edu/">Arkansas State University</a>
+* [Alaska Fairbanks, University of](http://www.uaf.edu/) _*[Adaptive](#adaptive)_
+* [Amherst College](http://amherst.edu/)
+* [Ancilla College](http://www.ancilla.edu/)
+* [Arkansas State University](http://www.astate.edu/)
 
 ## B
 
-* <a href="http://www.beds.ac.uk/">Bedfordshire, University of</a>
-* <a href="http://bju.edu">Bob Jones University</a>
+* [Bedfordshire, University of](http://www.beds.ac.uk/)
+* [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
+* [Bob Jones University](http://bju.edu)
+* [Boise State University](http://www.boisestate.edu/) _*[Adaptive](#adaptive)_
 
 ## C
 
-* <a href="http://www.ucsd.edu/">California, San Diego, University of</a>
+* [California, San Diego, University of](http://www.ucsd.edu/)
 * [Cameron University](http://www.cameron.edu/)
-* <a href="http://uca.edu">Central Arkansas, University of</a>
-* <a href="http://www.chapman.edu/">Chapman University</a>
-* <a href="http://uchicago.edu">Chicago, University of</a>
+* [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
+* [Central Arkansas, University of](http://uca.edu)
+* [Chapman University](http://www.chapman.edu/)
+* [Chicago, University of](http://uchicago.edu)
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
 * [Colgate University](http://www.colgate.edu)
-* <a href="http://colorado.edu">Colorado Boulder, University of</a>
-* <a href="http://coloradocollege.edu">Colorado College</a>
-* <a href="http://www.cui.edu/">Concordia University Irvine</a>
+* [Colorado Boulder, University of](http://colorado.edu)
+* [Colorado College](http://coloradocollege.edu)
+* [Concordia University Irvine](http://www.cui.edu/)
 
 ## D
 
-* <a href="http://daemen.edu">Daemen College</a>
-* <a href="http://www.dsu.edu/">Dakota State University</a>
-* <a href="http://udallas.edu">Dallas, University of</a>
-* <a href="http://www.delval.edu/">Delaware Valley College</a>
-* <a href="http://du.edu">Denver, University of</a>
-* <a href="http://www.drexel.edu/">Drexel University</a>
-* <a href="http://www.dur.ac.uk">Durham University</a>
+* [Daemen College](http://daemen.edu)
+* [Dartmouth College](http://www.dartmouth.edu/) _*[Adaptive](#adaptive)_
+* [Dakota State University](http://www.dsu.edu/)
+* [Dallas, University of](http://udallas.edu)
+* [Delaware Valley College](http://www.delval.edu/)
+* [Denver, University of](http://du.edu)
+* [Drexel University](http://www.drexel.edu/)
+* [Durham University](http://www.dur.ac.uk)
 
 ## E
 
@@ -49,61 +55,74 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 ## G
 
 * [Gettysburg College](http://www.gettysburg.edu/)
+* [Georgetown College](http://www.georgetowncollege.edu/) _*[Adaptive](#adaptive)_
 * [Glamorgan, University of](http://www.glam.ac.uk/)
 * [Grand Valley State University](http://gvsu.edu)
 
 ## H
 
+* [Harvard University](http://www.harvard.edu/) _*[Adaptive](#adaptive)_
 * [Hendrix College](http://www.hendrix.edu)
+
+## J
+
+* [Jefferson State University of New York](http://www.sunyjefferson.edu/) _*[Adaptive](#adaptive)_
 
 ## L
 
-* <a href="http://www.lancs.ac.uk/">Lancaster University</a>
-* <a href="http://www.lynn.edu/">Lynn University</a>
+* [Lancaster University](http://www.lancs.ac.uk/)
+* [Lynn University](http://www.lynn.edu/)
 
 ## M
 
-* <a href="http://www.unimelb.edu.au/">Melbourne, University of</a>
-* <a href="http://msj.edu">Mount St. Joseph, College of</a>
+* [Melbourne, University of](http://www.unimelb.edu.au/)
+* [Mount St. Joseph, College of](http://msj.edu)
 
 ## N
 
-* <a href="http://unl.edu">Nebraska – Lincoln, University  of</a>
-* <a href="http://nd.edu/">Notre Dame, University of</a>
+* [Nebraska – Lincoln, University  of](http://unl.edu)
+* [Notre Dame, University of](http://nd.edu/)
 
-## R
+## O
 
-* <a href="http://www.regent-college.edu/">Regent College</a>
-* <a href="http://uri.edu">Rhode Island, University of</a>
+* [Occidental College](http://www.oxy.edu/) _*[Adaptive](#adaptive)_
+* [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
 
 ## P
 
+* [Penn State University](http://www.psu.edu) _*[Hybrid](#hybrid)_
 * [Pittsburgh, University of](http://pitt.edu/)
 
 ## Q
 
-* <a href="http://www.qmul.ac.uk">Queen Mary, University of London</a>
+* [Queen Mary, University of London](http://www.qmul.ac.uk)
+
+## R
+
+* [Regent College](http://www.regent-college.edu/)
+* [Rhode Island, University of](http://uri.edu)
 
 ## S
 
-* <a href="http://www.sacredheart.edu/">Sacred Heart University</a>
-* <a href="http://www.sewanee.edu/">Sewanee</a>
-* <a href="http://skidmore.edu">Skidmore College</a>
-* <a href="http://www.usf.edu/">South Florida, University of</a>
-* <a href="http://smu.edu">Southern Methodist University </a>
-* <a href="http://sscc.edu/">Southern State Community College</a>
-* <a href="http://oswego.edu">State University of New York at Oswego</a>
-* <a href="http://www.stpaulsschool.org.uk/">St Paul’s School</a>
+* [Sacred Heart University](http://www.sacredheart.edu/)
+* [Sewanee](http://www.sewanee.edu/)
+* [Skidmore College](http://skidmore.edu)
+* [South Florida, University of](http://www.usf.edu/)
+* [Southern Methodist University ](http://smu.edu)
+* [Southern State Community College](http://sscc.edu/)
+* [State University of New York at Oswego](http://oswego.edu/)
+* [St Paul’s School](http://www.stpaulsschool.org.uk/)
+* [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
 
 ## T
 
 * [Temple University](http://www.temple.edu/)
-* <a href="http://www.utk.edu/">Tennessee, Knoxville, University of</a>
+* [Tennessee, Knoxville, University of](http://www.utk.edu/)
 
 ## U
 
-* <a href="http://ucla.edu/">UCLA</a>
-* <a href="http://uncc.edu">UNC Charlotte</a>
+* [UCLA](http://ucla.edu/)
+* [UNC Charlotte](http://uncc.edu)
 
 ## V
 
@@ -111,14 +130,17 @@ I’m in the process of researching HigherEd homepages that use RWD. I’m makin
 
 ## W
 
-* <a href="http://washburn.edu/">Washburn University</a>
-* <a href="http://webster.edu">Webster University</a>
-* <a href="http://wcupa.edu/">West Chester University</a>
-* <a href="http://wvu.edu">West Virginia University</a>
-* <a href="http://www.wm.edu/">William & Mary</a>
-* <a href="http://www.wright.edu/">Wright State University</a>
+* [Washburn University](http://washburn.edu/)
+* [Webster University](http://webster.edu)
+* [West Chester University](http://wcupa.edu/)
+* [West Virginia University](http://wvu.edu)
+* [William & Mary](http://www.wm.edu/)
+* [Wright State University](http://www.wright.edu/)
 
- [1]: /highered-adaptive-directory/
- [2]: /contact/
- [3]: http://twitter.com/thedougco
- [4]: http://www.mstoner.com/
+<h2 id="hybrid">Hybrid</h2>
+
+Hybrid sites exhibit Responsive behavior (fluid grids) at some sizes and Adaptive (see below) at others.
+
+<h2 id="adaptive">Adaptive</h2>
+
+These are sites that don’t quite [fit the definition](http://en.wikipedia.org/wiki/Responsive_web_design) of responsive, but deserve mentioning. Typically they only lack the fluid grid.

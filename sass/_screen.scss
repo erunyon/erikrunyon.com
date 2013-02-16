@@ -23,6 +23,9 @@
   .content {width:100%; margin:15px 0;}
   .content img {clear:both; display:block; margin:1em auto; max-width:100%;}
 
+  .rwd-directory li em {color:#666; /* font-size:0.9em; */ vertical-align:bottom;}
+    .rwd-directory li em a {color:inherit;}
+
   /* SIDEBAR
      ----------------------------------------------------*/
   .sidebar {width:100%; padding:1em; border-top:1px solid #dadada; color:#777;}
