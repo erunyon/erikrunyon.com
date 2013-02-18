@@ -62,6 +62,7 @@ I have been notified of other articles pertaining to carousels. [Contact me](/co
 * [**That big sliding banner? Yeah, it’s rubbish**: Beantin](http://beantin.se/post/30991868949/sliding-banner-content-slider-carousel-rotator)
 * [**Sliders Suck**: Brian Krogsgard](http://krogsgard.com/2013/sliders-suck/)
 * [**Don’t Use Automatic Image Sliders or Carousels, Ignore the Fad**: ConversionXL](http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/)
+* [**Using carousels in higher education**](http://www.uofadmissionsmarketing.com/2013/02/using-carousels-in-higher-education.html) Added 2013-02-17
 
  [1]: /images/2013/nd-feature-click-through.png "ND.edu Feature Click-through Rates"
  [2]: /images/2013/click-through-rates.png "Feature Click-through Rates for four ND properties"
