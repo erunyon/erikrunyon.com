@@ -41,7 +41,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Dallas, University of](http://udallas.edu)
 * [Delaware Valley College](http://www.delval.edu/)
 * [Denver, University of](http://du.edu)
-* [Doane College](http://www.doane.edu/)
+* [Doane College](http://www.doane.edu/) _*[Hybrid](#hybrid)_
 * [Drexel University](http://www.drexel.edu/)
 * [Durham University](http://www.dur.ac.uk)
 
