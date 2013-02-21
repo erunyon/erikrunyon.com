@@ -22,6 +22,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## C
 
 * [California, San Diego, University of](http://www.ucsd.edu/)
+* [Cambridge, University of](http://www.cam.ac.uk/)
 * [Cameron University](http://www.cameron.edu/)
 * [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
 * [Central Arkansas, University of](http://uca.edu)
