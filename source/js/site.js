@@ -1,23 +1,3 @@
-CodeHighlighter.addStyle("css", {
-  comment : {exp : /\/\*[^*]*\*+([^\/][^*]*\*+)*\//},
-  keywords : {exp : /@\w[\w\s]*/},
-  selectors : {exp : "([\\w-:\\[.#][^{};>]*)(?={)"},
-  properties : {exp : "([\\w-]+)(?=\\s*:)"},
-  units : {
-    exp : /([0-9])(em|en|px|%|pt)\b/,
-    replacement : "$1<span class=\"$0\">$2</span>"
-  },
-  urls : {exp : /url\([^\)]*\)/}
-});
-
-CodeHighlighter.addStyle("ruby",{
-  comment : {exp  : /#[^\n]+/},
-  brackets : {exp  : /\(|\)/},
-  string : {exp  : /'[^']*'|"[^"]*"/},
-  keywords : {exp  : /\b(do|end|self|class|def|if|module|yield|then|else|for|until|unless|while|elsif|case|when|break|retry|redo|rescue|require|raise)\b/},
-  symbol : {exp : /([^:])(:[A-Za-z0-9_!?]+)/}
-});
-
 jQuery(function($) {
   $('.skip-links').on('click','.s2n',function(e){
     e.preventDefault();
@@ -87,3 +67,23 @@ function parse(text,ignoreCase){return text.replace(new RegExp(rules,(ignoreCase
 function highlightCode(styleSet){var parsed,clsRx=new RegExp("(\\s|^)"+styleSet.name+"(\\s|$)");rules.length=0;var stylableEls=codeEls.filter(function(item){return clsRx.test(item.className)});for(var className in styleSet.rules)addRule(className,styleSet.rules[className]);for(var i=0;i<stylableEls.length;i++){if(/MSIE/.test(navigator.appVersion)&&stylableEls[i].parentNode.nodeName=='PRE'){stylableEls[i]=stylableEls[i].parentNode;parsed=stylableEls[i].innerHTML.replace(/(<code[^>]*>)([^<]*)<\/code>/i,function(){return arguments[1]+parse(arguments[2],styleSet.ignoreCase)+"</code>"});parsed=parsed.replace(/\n( *)/g,function(){var spaces="";for(var i=0;i<arguments[1].length;i++)spaces+="&nbsp;";return"\n"+spaces;});parsed=parsed.replace(/\t/g,"&nbsp;&nbsp;&nbsp;&nbsp;");parsed=parsed.replace(/\n(<\/\w+>)?/g,"<br />$1").replace(/<br \/>[\n\r\s]*<br \/>/g,"<p><br></p>");}else parsed=parse(stylableEls[i].innerHTML,styleSet.ignoreCase);stylableEls[i].innerHTML=parsed;}}
 for(var i=0;i<this.styleSets.length;i++){highlightCode(this.styleSets[i]);}}
 CodeHighlighter.addStyle("ruby",{comment:{exp:/#[^\n]+/},brackets:{exp:/\(|\)/},string:{exp:/'[^']*'|"[^"]*"/},keywords:{exp:/\b(do|end|self|class|def|if|module|yield|then|else|for|until|unless|while|elsif|case|when|break|retry|redo|rescue|require|raise)\b/},symbol:{exp:/([^:])(:[A-Za-z0-9_!?]+)/}});CodeHighlighter.addStyle("css",{comment:{exp:/\/\*[^*]*\*+([^\/][^*]*\*+)*\//},keywords:{exp:/@\w[\w\s]*/},selectors:{exp:"([\\w-:\\[.#][^{};>]*)(?={)"},properties:{exp:"([\\w-]+)(?=\\s*:)"},units:{exp:/([0-9])(em|en|px|%|pt)\b/,replacement:"$1<span class=\"$0\">$2</span>"},urls:{exp:/url\([^\)]*\)/}});CodeHighlighter.addStyle("javascript",{comment:{exp:/(\/\/[^\n]*\n)|(\/\*[^*]*\*+([^\/][^*]*\*+)*\/)/},brackets:{exp:/\(|\)/},string:{exp:/'[^']*'|"[^"]*"/},keywords:{exp:/\b(arguments|break|case|continue|default|delete|do|else|false|for|function|if|in|instanceof|new|null|return|switch|this|true|typeof|var|void|while|with)\b/},global:{exp:/\b(toString|valueOf|window|element|prototype|constructor|document|escape|unescape|parseInt|parseFloat|setTimeout|clearTimeout|setInterval|clearInterval|NaN|isNaN|Infinity)\b/}});CodeHighlighter.addStyle("html",{comment:{exp:/&lt;!\s*(--([^-]|[\r\n]|-[^-])*--\s*)&gt;/},tag:{exp:/(&lt;\/?)([a-zA-Z]+\s?)/,replacement:"$1<span class=\"$0\">$2</span>"},string:{exp:/'[^']*'|"[^"]*"/},attribute:{exp:/\b([a-zA-Z-:]+)(=)/,replacement:"<span class=\"$0\">$1</span>$2"},doctype:{exp:/&lt;!DOCTYPE([^&]|&[^g]|&g[^t])*&gt;/}});CodeHighlighter.addStyle("erb",{tag:{exp:/(&lt;%=?|%&gt;)/},comment:{exp:/#[^\n]*/},brackets:{exp:/\(|\)|\[|\]|\{|\}/},string:{exp:/'[^']*'|"[^"]*"/},keywords:{exp:/\b(do|end|self|class|def|if|module|yield|then|else|for|until|unless|while|elsif|case|when|break|retry|redo|rescue|require|raise)\b/},constants:{exp:/\b(true|false|__[A-Z][^\W]+|[A-Z]\w+)\b/},symbol:{exp:/:[^\W]+/},instance:{exp:/@+[^\W]+/},method:{exp:/[^\w]*\.(\w*)[!?]*/}});
+
+CodeHighlighter.addStyle("css", {
+  comment : {exp : /\/\*[^*]*\*+([^\/][^*]*\*+)*\//},
+  keywords : {exp : /@\w[\w\s]*/},
+  selectors : {exp : "([\\w-:\\[.#][^{};>]*)(?={)"},
+  properties : {exp : "([\\w-]+)(?=\\s*:)"},
+  units : {
+    exp : /([0-9])(em|en|px|%|pt)\b/,
+    replacement : "$1<span class=\"$0\">$2</span>"
+  },
+  urls : {exp : /url\([^\)]*\)/}
+});
+
+CodeHighlighter.addStyle("ruby",{
+  comment : {exp  : /#[^\n]+/},
+  brackets : {exp  : /\(|\)/},
+  string : {exp  : /'[^']*'|"[^"]*"/},
+  keywords : {exp  : /\b(do|end|self|class|def|if|module|yield|then|else|for|until|unless|while|elsif|case|when|break|retry|redo|rescue|require|raise)\b/},
+  symbol : {exp : /([^:])(:[A-Za-z0-9_!?]+)/}
+});
