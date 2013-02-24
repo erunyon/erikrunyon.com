@@ -3,7 +3,7 @@ title: HigherEd RWD Directory
 layout: default
 bodyclass: "columnlists rwd-directory"
 ---
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-02-19**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-02-23**.
 
 ## A
 
@@ -43,6 +43,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Delaware Valley College](http://www.delval.edu/)
 * [Denver, University of](http://du.edu)
 * [Doane College](http://www.doane.edu/) _*[Hybrid](#hybrid)_
+* [Drake University](http://drake.edu/)
 * [Drexel University](http://www.drexel.edu/)
 * [Durham University](http://www.dur.ac.uk)
 
@@ -109,6 +110,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Sacred Heart University](http://www.sacredheart.edu/)
 * [Sewanee](http://www.sewanee.edu/)
+* [Sierra Nevada College](http://www.sierranevada.edu/) _*[Hybrid](#hybrid)_
 * [Skidmore College](http://skidmore.edu)
 * [South Florida, University of](http://www.usf.edu/)
 * [Southern Methodist University ](http://smu.edu)
