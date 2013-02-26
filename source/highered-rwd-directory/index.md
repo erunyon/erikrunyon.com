@@ -80,6 +80,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## M
 
+* [Maryland, Baltimore County, University of](http://www.umbc.edu/)
 * [Melbourne, University of](http://www.unimelb.edu.au/)
 * [Mount St. Joseph, College of](http://msj.edu)
 
