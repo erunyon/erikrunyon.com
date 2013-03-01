@@ -29,7 +29,7 @@
   /* HEADER
      ----------------------------------------------------*/
   .site-header {margin:0 0 2em;}
-    .site-header h1 {margin:0; font-size:2.4em; font-weight:normal; text-shadow:0 1px 1px rgba(255,255,255,0.5);}
+    .site-header h1 {margin:0; font-size:2.6em; font-weight:normal; text-shadow:0 1px 1px rgba(255,255,255,0.5);}
     .site-header h1 a {text-decoration:none; border:0 none; color:#1f4919;}
     .site-header h2 {margin:0 0 0 0.7em; font-size:0.9em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
 
@@ -85,7 +85,7 @@
   .skip-links:active, .skip-links:focus { clip:auto; height:auto; margin:0; overflow:visible; position:static; width:auto; }
 
   .site-header {margin:0 0 4em;}
-    .site-header h1 {margin:0; padding:0; font-size:3.5em;}
+    .site-header h1 {margin:0; padding:0; /*font-size:3.5em;*/}
 
   .content {float:left; width:65%; margin:0 5% 0 0; padding:0;}
   .sidebar {float:right; width:30%; padding:0.75em 0 0 1em; color:#777; border:none; background-color:rgba(255, 255, 255, 0.8);}
