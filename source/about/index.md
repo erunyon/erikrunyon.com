@@ -11,6 +11,7 @@ I am a full-time web developer with University Communications at the [University
 
 - **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [.EDU Guru Summit](http://environmentsforhumans.com/2013/doteduguru-summit/), March 2013
 - **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [RWD Summit](http://environmentsforhumans.com/2013/responsive-web-design-summit/), April 2013
+- **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [HighEdWeb Michigan](http://mi.highedweb.org/), May 2013
 - **Title TBD**, [University of Wisconsin Web Conference](http://www.uwimcomm.com/), June 2013
 - **Title TBD**, [Breaking Development Conference - San Diego](http://bdconf.com/2013/san-diego), July 2013
 
