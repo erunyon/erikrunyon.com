@@ -12,7 +12,7 @@ html {width:100%; margin:0; padding:0; font-size:100%; overflow-y:scroll; /* @in
   -moz-font-smoothing:antialiased;
   font-smoothing:antialiased;
 }
-body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; background:#fff url(/images/css/leaves-right.jpg) top right no-repeat; @include background-size(60% auto);}
+body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; background:#fff url(/css/images/leaves-right.jpg) top right no-repeat; @include background-size(60% auto);}
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
 audio, canvas, video {display:inline-block; *display:inline; *zoom:1;}
 audio:not([controls]) {display:none;}
