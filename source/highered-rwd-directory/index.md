@@ -17,6 +17,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## B
 
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
+* [Black Hills State University](http://www.bhsu.edu/)
 * [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
 * [Bob Jones University](http://bju.edu)
 * [Boise State University](http://www.boisestate.edu/) _*[Adaptive](#adaptive)_
@@ -82,12 +83,15 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## M
 
 * [Maryland, Baltimore County, University of](http://www.umbc.edu/)
+* [Mayville State University](http://www.mayvillestate.edu/)
 * [Melbourne, University of](http://www.unimelb.edu.au/)
+* [Menlo College](http://www.menlo.edu/)
 * [Mount St. Joseph, College of](http://msj.edu)
 
 ## N
 
 * [Nebraska – Lincoln, University  of](http://unl.edu)
+* [New Mexico State University](http://www.nmsu.edu/) _*[Adaptive](#adaptive)_
 * [Notre Dame, University of](http://nd.edu/)
 
 ## O
@@ -116,12 +120,14 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Sewanee](http://www.sewanee.edu/)
 * [Sierra Nevada College](http://www.sierranevada.edu/) _*[Hybrid](#hybrid)_
 * [Skidmore College](http://skidmore.edu)
+* [South Dakota State University](http://www.sdstate.edu/) _*[Adaptive](#adaptive)_
 * [South Florida, University of](http://www.usf.edu/)
 * [Southern Methodist University ](http://smu.edu)
 * [Southern State Community College](http://sscc.edu/)
 * [State University of New York at Oswego](http://oswego.edu/)
 * [St Paul’s School](http://www.stpaulsschool.org.uk/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
+* [Suffolk University](http://www.suffolk.edu/)
 * [Surrey, University of](http://www.surrey.ac.uk/)
 
 ## T
