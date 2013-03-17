@@ -67,7 +67,8 @@
      ----------------------------------------------------*/
   .site-footer {padding:10px 0; padding:20px 0; margin:30px 0 0; border-top:1px solid #999; clear:both; text-align:center;}
   .site-footer p {line-height:1.5; color:#777;}
-  .site-footer .social-links li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0;}
+  .site-footer .social-links ul {margin:0; padding:0;}
+  .site-footer .social-links li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0; padding:0;}
   .org a {display:block;}
 
 }
