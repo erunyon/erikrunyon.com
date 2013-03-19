@@ -16,6 +16,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## B
 
+* [Baylor University](http://www.baylor.edu/)
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
 * [Black Hills State University](http://www.bhsu.edu/)
 * [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
