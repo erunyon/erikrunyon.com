@@ -1,0 +1,3 @@
+RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+RewriteCond %{HTTP_USER_AGENT} !uri\.lv [NC]
+RewriteRule ^feed$ http://feeds.uri.lv/weedygarden [R=302,NC,L]
