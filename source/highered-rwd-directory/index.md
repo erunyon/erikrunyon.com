@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-03-22**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-03-29**.
 
 ## A
 
@@ -16,6 +16,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## B
 
+* [Baptist Missionary Association Theological Seminary](http://bmats.edu) _*[Adaptive](#adaptive)_
 * [Baylor University](http://www.baylor.edu/)
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
 * [Black Hills State University](http://www.bhsu.edu/)
@@ -48,6 +49,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Dallas, University of](http://udallas.edu)
 * [Delaware Valley College](http://www.delval.edu/)
 * [Denver, University of](http://du.edu)
+* [Dewey University](http://dewey.edu) _*[Adaptive](#adaptive)_
 * [Doane College](http://www.doane.edu/) _*[Hybrid](#hybrid)_
 * [Dominican University of California](http://www.dominican.edu/) _*[Adaptive](#adaptive)_
 * [Drake University](http://drake.edu/)
@@ -116,6 +118,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Regent College](http://www.regent-college.edu/)
 * [Rhode Island, University of](http://uri.edu)
+* [Rice University](http://www.rice.edu)
 * [Rocky Mountain College of Art and Design](http://www.rmcad.edu/) _*[Hybrid](#hybrid)_
 
 ## S
