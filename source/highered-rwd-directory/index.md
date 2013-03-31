@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-03-29**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-03-30**.
 
 ## A
 
@@ -16,6 +16,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## B
 
+* [Bacone College](http://www.bacone.edu) _*[Adaptive](#adaptive)_
 * [Baptist Missionary Association Theological Seminary](http://bmats.edu) _*[Adaptive](#adaptive)_
 * [Baylor University](http://www.baylor.edu/)
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
@@ -103,6 +104,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Oberlin College](http://oberlin.edu/)
 * [Occidental College](http://www.oxy.edu/) _*[Adaptive](#adaptive)_
+* [Oklahoma Wesleyan University](http://www.okwu.edu) _*[Adaptive](#adaptive)_
 * [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
 
 ## P
