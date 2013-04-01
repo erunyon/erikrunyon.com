@@ -9,7 +9,6 @@ I am a full-time web developer with University Communications at the [University
 
 ## Upcoming Presentations
 
-- **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [.EDU Guru Summit](http://environmentsforhumans.com/2013/doteduguru-summit/), March 2013
 - **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [RWD Summit](http://environmentsforhumans.com/2013/responsive-web-design-summit/), April 2013
 - **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [HighEdWeb Michigan](http://mi.highedweb.org/), May 2013
 - **Title TBD**, [University of Wisconsin Web Conference](http://www.uwimcomm.com/), June 2013
@@ -17,6 +16,7 @@ I am a full-time web developer with University Communications at the [University
 
 ## Past Presentations
 
+- **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [.EDU Guru Summit](http://environmentsforhumans.com/2013/doteduguru-summit/), March 2013
 - **[Rebuilding a university homepage to be "responsive". Twice. In less than a year.](/2012/10/highedweb-2012/)**, [HighEdWeb](http://www.highedweb.org/), October 2012 (Best of Track winner)
 - **[Building a University Website with RWD (Responsible Web Development)](https://speakerdeck.com/erunyon/building-a-university-website-with-rwd-responsible-web-development)**, [Web Conference at Penn State](http://webconference.psu.edu/), June 2012
 - **[Mobile Web](https://speakerdeck.com/erunyon/mobile-web)**, [Notre Dame Campus Communicators](http://www.linkedin.com/groups?gid=2370239&trk=myg_ugrp_ovr) Brown Bag, February 2012
