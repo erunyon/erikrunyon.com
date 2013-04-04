@@ -5,7 +5,7 @@ layout: default
 ---
 # About
 
-I am a full-time web developer with University Communications at the [University of Notre Dame](http://www.nd.edu). My days are spent with my acronym laden friends HTML, CSS, JS, Ruby/Rails and PHP. My evenings are spent with my wonderful wife, three kids and two vomit-happy cats.
+I am the Director of Web Communications and a web developer with University Communications at the [University of Notre Dame](http://www.nd.edu). My days are spent with my acronym laden friends HTML, CSS, JS, Ruby/Rails and PHP. My evenings are spent with my wonderful wife, three kids and two vomit-happy cats.
 
 ## Upcoming Presentations
 
