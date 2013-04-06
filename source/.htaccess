@@ -1,0 +1,26 @@
+# 1 YEAR
+<filesMatch ".(ico|pdf|flv)$">
+  Header set Cache-Control "max-age=29030400, public"
+</filesMatch>
+# 1 WEEK
+<filesMatch ".(jpg|jpeg|png|gif|swf)$">
+  Header set Cache-Control "max-age=604800, public"
+</filesMatch>
+# 2 DAYS
+<filesMatch ".(html|htm|xml|txt|xsl|css|js)$">
+  Header set Cache-Control "max-age=7200, must-revalidate"
+</filesMatch>
+
+RewriteEngine On
+
+# Gzip
+AddOutputFilterByType DEFLATE text/html text/css application/javascript
+
+# Don't allow index.html
+RewriteCond %{REQUEST_URI} index\.html
+RewriteRule ^(.*)index\.html$ /$1 [R=301,L]
+
+# Feed tracking
+RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+RewriteCond %{HTTP_USER_AGENT} !uri\.lv [NC]
+RewriteRule ^feed$ http://feeds.uri.lv/weedygarden [R=302,NC,L]
