@@ -11,7 +11,7 @@ I am the Director of Web Communications and a web developer with University Comm
 
 - **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [RWD Summit](http://environmentsforhumans.com/2013/responsive-web-design-summit/), April 2013
 - **Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.**, [HighEdWeb Michigan](http://mi.highedweb.org/), May 2013
-- **Title TBD**, [University of Wisconsin Web Conference](http://www.uwimcomm.com/), June 2013
+- **RWD and its Impact on HigherEd**, [University of Wisconsin Web Conference](http://www.uwimcomm.com/), June 2013
 - **Title TBD**, [Breaking Development Conference - San Diego](http://bdconf.com/2013/san-diego), July 2013
 
 ## Past Presentations
