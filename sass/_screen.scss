@@ -59,9 +59,9 @@
     .conferences li {margin:1em 0 2em;}
     .conferences .date {font-weight:bold;}
     .conferences a {display:block; width:100%;}
-    .conferences b {display:block; color:#004da3; font-weight:bold; font-size:2.4em; line-height:1.1em;}
+    .conferences b {display:block; color:#004da3; font-weight:bold; font-size:1.4em; line-height:1.1em;}
     .conf-hewebmi {max-width:330px;}
-      .conf-hewebmi b {height:3em; text-indent:-9999px; overflow:hidden; background:url(images/hewebmi.png) 0 0 no-repeat; @include background-size(100% auto);}
+      .conf-hewebmi b {height:4em; text-indent:-9999px; overflow:hidden; background:url(images/hewebmi.png) 0 0 no-repeat; @include background-size(100% auto);}
 
   /* FOOTER
      ----------------------------------------------------*/
