@@ -72,9 +72,11 @@ hr {clear:both; width:100%;}
    ----------------------------------------------------*/
 .entry {margin:0 0 3em;}
   .blog-archives .entry {margin:0 0 1.5em 1.5em;}
-h1.entry-title {margin:0 0 0.25em; font-size:1.8em; line-height:1em; font-weight:normal; color:#21759B;}
-  h1.entry-title a {text-decoration:none; color:#004da3;}
-    h1.entry-title a:visited {color:#004da3;}
+  h1.entry-title {margin:0 0 0.25em; font-size:1.8em; line-height:1em; font-weight:normal; color:#21759B;}
+    h1.entry-title a {text-decoration:none; color:#004da3;}
+      h1.entry-title a:visited {color:#004da3;}
+  .entry footer {clear:both;}
+      
 h2.byline {margin:0 0 1em; font-size:1em; font-family:Helvetica, Verdana, Arial, sans-serif;}
 .read-more:after {content:' ⋟';}
 .meta {margin:1em 0; font-style:italic;}
