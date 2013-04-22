@@ -24,4 +24,4 @@ So as I mentioned, I'm still pretty new to the service, but it looks very promis
 
 <img class="alignright noborder" alt="URI.LV Traffic Chart in Status Board" title="URI.LV Traffic Chart in Status Board" src="/images/2013/uri-lv-status-board.png">
 
-I mentioned above that I wanted to try URI.LV with Status Board. Well it turns out the free version of URI.LV offers a daily updated json file that's compatible with Status Board (as [mentioned on the Features page](http://uri.lv/features)). Kudos to the developers baking it right in.
+I mentioned above that I wanted to try URI.LV with Status Board. Well it turns out the free version of URI.LV offers a daily updated json file that's compatible with Status Board (as [mentioned on the Features page](http://uri.lv/features)). Kudos to the developers for baking it right in.
