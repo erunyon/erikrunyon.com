@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-04-19**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-04-24**.
 
 ## A
 
@@ -21,6 +21,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Baptist Missionary Association Theological Seminary](http://bmats.edu) _*[Adaptive](#adaptive)_
 * [Baylor University](http://www.baylor.edu/)
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
+* [Binghamton University](http://www.binghamton.edu/) _*[Adaptive](#adaptive)_
 * [Black Hills State University](http://www.bhsu.edu/)
 * [Bridgwater College](http://www.bridgwater.ac.uk/)
 * [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
