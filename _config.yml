@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: weedygarden.net
+url: http://weedygarden.net/
+domain: weedygarden.net
 title: WeedyGarden
 subtitle: Online home of Erik Runyon
 author: Erik Runyon
