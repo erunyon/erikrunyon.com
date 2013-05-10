@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-05**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-09**.
 
 ## A
 
@@ -23,6 +23,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
 * [Binghamton University](http://www.binghamton.edu/) _*[Adaptive](#adaptive)_
 * [Black Hills State University](http://www.bhsu.edu/)
+* [Briar Cliff University](http://www.briarcliff.edu/)
 * [Bridgwater College](http://www.bridgwater.ac.uk/)
 * [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
 * [Bob Jones University](http://bju.edu)
@@ -88,6 +89,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## L
 
 * [Lancaster University](http://www.lancs.ac.uk/)
+* [Leicester, University of](http://www.le.ac.uk/) _*[Hybrid](#hybrid)_
 * [Lynn University](http://www.lynn.edu/)
 
 ## M
@@ -136,6 +138,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Skidmore College](http://skidmore.edu)
 * [South Dakota State University](http://www.sdstate.edu/) _*[Adaptive](#adaptive)_
 * [South Florida, University of](http://www.usf.edu/)
+* [South Wales, The University of](http://www.southwales.ac.uk/)
 * [Southern Methodist University ](http://smu.edu)
 * [Southern State Community College](http://sscc.edu/)
 * [State University of New York at Oswego](http://oswego.edu/)
