@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-09**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-15**.
 
 ## A
 
@@ -80,6 +80,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## H
 
 * [Harvard University](http://www.harvard.edu/) _*[Adaptive](#adaptive)_
+* [Haverford College](http://www.haverford.edu/) _*[Hybrid](#hybrid)_
 * [Hendrix College](http://www.hendrix.edu)
 
 ## J
@@ -118,6 +119,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Penn State University](http://www.psu.edu) _*[Hybrid](#hybrid)_
 * [Pittsburgh, University of](http://pitt.edu/)
+* [Portsmouth, University of](http://www.port.ac.uk/)
 
 ## Q
 
