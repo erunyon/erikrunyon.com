@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-15**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-23**.
 
 ## A
 
@@ -46,6 +46,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Colorado College](http://coloradocollege.edu)
 * [Concordia University Irvine](http://www.cui.edu/)
 * [Connecticut State Colleges & Universities](http://ct.edu/)
+* [Crowley's Ridge College](http://www.crc.edu/) _*[Adaptive](#adaptive)_
 
 ## D
 
@@ -91,6 +92,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Lancaster University](http://www.lancs.ac.uk/)
 * [Leicester, University of](http://www.le.ac.uk/) _*[Hybrid](#hybrid)_
+* [Louisiana College](http://www.lacollege.edu/) _*[Adaptive](#adaptive)_
 * [Lynn University](http://www.lynn.edu/)
 
 ## M
@@ -106,6 +108,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Nebraska – Lincoln, University  of](http://unl.edu)
 * [Nebraska Omaha, University of](http://www.unomaha.edu/)
 * [New Mexico State University](http://www.nmsu.edu/) _*[Adaptive](#adaptive)_
+* [Nicholls State University](http://www.nicholls.edu/) _*[Adaptive](#adaptive)_
 * [Notre Dame, University of](http://nd.edu/)
 
 ## O
@@ -160,6 +163,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [UCLA](http://ucla.edu/)
 * [UNC Charlotte](http://uncc.edu)
+* [Union College](http://www.unionky.edu/)
 * [Utah Valley University](http://www.uvu.edu/)
 
 ## V
@@ -172,6 +176,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Webster University](http://webster.edu)
 * [West Chester University](http://wcupa.edu/)
 * [West Virginia University](http://wvu.edu)
+* [Whittier College](http://www.whittier.edu/)
 * [William & Mary](http://www.wm.edu/)
 * [Wollongong, University of](http://www.uow.edu.au/)
 * [Wright State University](http://www.wright.edu/)
