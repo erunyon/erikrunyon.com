@@ -5,10 +5,11 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-23**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-30**.
 
 ## A
 
+* [Adams State University](http://adams.edu/)
 * [Alaska Fairbanks, University of](http://www.uaf.edu/) _*[Adaptive](#adaptive)_
 * [Allegheny College](http://allegheny.edu/)
 * [Amherst College](http://amherst.edu/)
@@ -37,6 +38,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Cameron University](http://www.cameron.edu/)
 * [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
 * [Central Arkansas, University of](http://uca.edu)
+* [Central College](http://www.central.edu/) _*[Hybrid](#hybrid)_
 * [Chapman University](http://www.chapman.edu/)
 * [Chicago, University of](http://uchicago.edu)
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
