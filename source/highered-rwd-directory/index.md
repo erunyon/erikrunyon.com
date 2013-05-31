@@ -148,7 +148,6 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [South Wales, The University of](http://www.southwales.ac.uk/)
 * [Southern Methodist University ](http://smu.edu)
 * [Southern State Community College](http://sscc.edu/)
-* [State University of New York at Oswego](http://oswego.edu/)
 * [St Paul’s School](http://www.stpaulsschool.org.uk/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
 * [Suffolk University](http://www.suffolk.edu/)
