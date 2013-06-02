@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-30**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-31**.
 
 ## A
 
@@ -42,6 +42,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Chapman University](http://www.chapman.edu/)
 * [Chicago, University of](http://uchicago.edu)
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
+* [Clarkson University](http://www.clarkson.edu/) _*[Adaptive](#adaptive)_
 * [Coleg Cambria](http://www.cambria.ac.uk/)
 * [Colgate University](http://www.colgate.edu)
 * [Colorado Boulder, University of](http://colorado.edu)
@@ -85,6 +86,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Harvard University](http://www.harvard.edu/) _*[Adaptive](#adaptive)_
 * [Haverford College](http://www.haverford.edu/) _*[Hybrid](#hybrid)_
 * [Hendrix College](http://www.hendrix.edu)
+* [Herzing University](http://herzing.edu/)
 
 ## J
 
@@ -103,6 +105,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Mayville State University](http://www.mayvillestate.edu/)
 * [Melbourne, University of](http://www.unimelb.edu.au/)
 * [Menlo College](http://www.menlo.edu/)
+* [Miami University](http://miamioh.edu/)
 * [Mount St. Joseph, College of](http://msj.edu)
 
 ## N
@@ -148,6 +151,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [South Wales, The University of](http://www.southwales.ac.uk/)
 * [Southern Methodist University ](http://smu.edu)
 * [Southern State Community College](http://sscc.edu/)
+* [Spring Arbor University](http://www.arbor.edu/)
 * [St Paul’s School](http://www.stpaulsschool.org.uk/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
 * [Suffolk University](http://www.suffolk.edu/)
