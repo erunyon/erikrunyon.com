@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-05-31**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-06-04**.
 
 ## A
 
@@ -106,6 +106,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Melbourne, University of](http://www.unimelb.edu.au/)
 * [Menlo College](http://www.menlo.edu/)
 * [Miami University](http://miamioh.edu/)
+* [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
 * [Mount St. Joseph, College of](http://msj.edu)
 
 ## N
@@ -121,6 +122,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Oberlin College](http://oberlin.edu/)
 * [Occidental College](http://www.oxy.edu/) _*[Adaptive](#adaptive)_
 * [Oklahoma Wesleyan University](http://www.okwu.edu) _*[Adaptive](#adaptive)_
+* [Osteopathic Medical School](http://www.atsu.edu/) _*[Adaptive](#adaptive)_
 * [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
 
 ## P
