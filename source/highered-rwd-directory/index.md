@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-06-04**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-06-05**.
 
 ## A
 
@@ -63,6 +63,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Doane College](http://www.doane.edu/) _*[Hybrid](#hybrid)_
 * [Dominican University of California](http://www.dominican.edu/) _*[Adaptive](#adaptive)_
 * [Drake University](http://drake.edu/)
+* [Drew University]()
 * [Drexel University](http://www.drexel.edu/)
 * [Durham University](http://www.dur.ac.uk)
 
@@ -156,6 +157,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Spring Arbor University](http://www.arbor.edu/)
 * [St Paul’s School](http://www.stpaulsschool.org.uk/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
+* [Stonehill College](http://www.stonehill.edu/)
 * [Suffolk University](http://www.suffolk.edu/)
 * [Surrey, University of](http://www.surrey.ac.uk/)
 
