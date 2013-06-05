@@ -63,7 +63,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Doane College](http://www.doane.edu/) _*[Hybrid](#hybrid)_
 * [Dominican University of California](http://www.dominican.edu/) _*[Adaptive](#adaptive)_
 * [Drake University](http://drake.edu/)
-* [Drew University]()
+* [Drew University](http://www.drew.edu/)
 * [Drexel University](http://www.drexel.edu/)
 * [Durham University](http://www.dur.ac.uk)
 
