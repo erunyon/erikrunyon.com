@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-06-05**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-06-21**.
 
 ## A
 
@@ -46,6 +46,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Coleg Cambria](http://www.cambria.ac.uk/)
 * [Colgate University](http://www.colgate.edu)
 * [Colorado Boulder, University of](http://colorado.edu)
+* [Colorado Christian University](http://www.ccu.edu/) _*[Adaptive](#adaptive)_
 * [Colorado College](http://coloradocollege.edu)
 * [Concordia University Irvine](http://www.cui.edu/)
 * [Connecticut State Colleges & Universities](http://ct.edu/)
@@ -69,6 +70,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## E
 
+* [Earlham College](http://www.earlham.edu/) _*[Hybrid](#hybrid)_
+* [Eastern Kentucky University](http://www.eku.edu/)
 * [Edgewood College](http://edgewood.edu)
 
 ## F
@@ -107,6 +110,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Melbourne, University of](http://www.unimelb.edu.au/)
 * [Menlo College](http://www.menlo.edu/)
 * [Miami University](http://miamioh.edu/)
+* [Mississippi, University of](http://www.olemiss.edu/) _*[Hybrid](#hybrid)_
 * [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
 * [Mount St. Joseph, College of](http://msj.edu)
 
@@ -148,6 +152,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Sacred Heart University](http://www.sacredheart.edu/)
 * [Sewanee](http://www.sewanee.edu/)
 * [Sierra Nevada College](http://www.sierranevada.edu/) _*[Hybrid](#hybrid)_
+* [Simpson College](http://simpson.edu/) _*[Adaptive](#adaptive)_
 * [Skidmore College](http://skidmore.edu)
 * [South Dakota State University](http://www.sdstate.edu/) _*[Adaptive](#adaptive)_
 * [South Florida, University of](http://www.usf.edu/)
@@ -187,6 +192,9 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [West Virginia University](http://wvu.edu)
 * [Whittier College](http://www.whittier.edu/)
 * [William & Mary](http://www.wm.edu/)
+* [Wisconsin, University of: Green Bay](http://www.uwgb.edu/)
+* [Wisconsin, University of: River Falls](http://www.uwrf.edu/)
+* [Wisconsin, University of: Stevens Point](http://www.uwsp.edu/)
 * [Wollongong, University of](http://www.uow.edu.au/)
 * [Wright State University](http://www.wright.edu/)
 
