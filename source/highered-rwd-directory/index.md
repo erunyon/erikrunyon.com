@@ -204,4 +204,4 @@ Hybrid sites exhibit Responsive behavior (fluid grids) at some sizes and Adaptiv
 
 <h2 id="adaptive">Adaptive</h2>
 
-These are sites that don’t quite [fit the definition](http://en.wikipedia.org/wiki/Responsive_web_design) of responsive, but deserve mentioning. Typically they only lack the fluid grid.
+These are sites that don’t quite [fit the definition](http://en.wikipedia.org/wiki/Responsive_web_design) of responsive, but deserve mentioning. Typically they only lack the fluid grid. *Note*: even if a site is adaptive, if I see a horizontal scrollbar, it's not getting added.
