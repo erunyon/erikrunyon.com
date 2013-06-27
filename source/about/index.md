@@ -9,11 +9,11 @@ I am the Director of Web Communications and a web developer with Marketing Commu
 
 ## Upcoming Presentations
 
-- **RWD and its Impact on HigherEd**, [University of Wisconsin Web Conference](http://www.uwimcomm.com/), June 2013
 - **Before the @mq: Making the decisons that make a site responsive**, [Breaking Development Conference - San Diego](http://bdconf.com/2013/san-diego), July 2013
 
 ## Past Presentations
 
+- **RWD and its Impact on HigherEd**, [University of Wisconsin Web Conference](http://www.uwimcomm.com/), June 2013
 - **[Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.](/2013/05/highedwebmi-2013/)**, [HighEdWeb Michigan](http://mi.highedweb.org/), May 2013
 - **[Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.](/2012/10/highedweb-2012/)**, [RWD Summit](http://environmentsforhumans.com/2013/responsive-web-design-summit/), April 2013
 - **[Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.](/2012/10/highedweb-2012/)**, [.EDU Guru Summit](http://environmentsforhumans.com/2013/doteduguru-summit/), March 2013
