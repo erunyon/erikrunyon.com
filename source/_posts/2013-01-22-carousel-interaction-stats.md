@@ -52,6 +52,10 @@ I think perhaps we should all just take [@lukew](https://twitter.com/lukew/statu
 
 [Brad Frost](http://twitter.com/brad_frost) [posted a follow-up](http://bradfrostweb.com/blog/post/carousels/) with his thoughts on carousels.
 
+### Update Three
+
+[I posted some updated numbers](/2013/07/carousel-interaction-stats/) from the first six months of 2013.
+
 ## Other Articles (updated 2013-01-25)
 
 I have been notified of other articles pertaining to carousels. [Contact me](/contact/) if you find others whether they're for or against. I'll include them here.
