@@ -9,6 +9,8 @@ Carousels continue to be a hot topic. [The numbers I posted back in January](/20
 
 ## ND.edu
 
+Feature are not randomized. New items go into position one and typically fall off the end. However, sometimes newer items are pulled out of rotation before older, and other times older items are returned to position one.
+
 - Homepage visits: 3,755,297
 - Percentage that clicked a feature: 1.07%
 
@@ -24,7 +26,7 @@ Percentage of total clicks for each position:
 
 ## Site 1
 
-Site one is a departmental site.
+Site one is a departmental site. Features are loaded in random order.
 
 - Homepage visits: 37,688
 - Percentage that clicked a feature: 1.266%
@@ -41,7 +43,7 @@ Percentage of total clicks for each position:
 
 ## Site 2
 
-Site two is an aggregated news site. It is the only one of the examples that uses an auto-playing carousel. We typically don't create auto-playing carousels because we're not fans, and [some research shows other's don't like them much either](http://www.nngroup.com/articles/auto-forwarding/). However, the numbers for this site are quite different from the others. The most notable is that it has a much higher feature click percentage.
+Site two is an aggregated news site. Features are loaded with newest story first and fall off in order of appearance. It is the only one of the examples that uses an auto-playing carousel. We typically don't create auto-playing carousels because we're not fans, and [some research shows other's don't like them much either](http://www.nngroup.com/articles/auto-forwarding/). However, the numbers for this site are quite different from the others. The most notable is that it has a much higher feature click percentage.
 
 - Homepage visits: 43,724
 - Percentage that clicked a feature: 9.409%
@@ -58,7 +60,7 @@ Percentage of total clicks for each position:
 
 ## Site 3
 
-Site three is an executive site.
+Site three is an executive site. Features are not randomized. Newer items are added at the first position.
 
 - Homepage visits: 8,210
 - Percentage that clicked a feature: 1.51%
@@ -74,7 +76,7 @@ Percentage of total clicks for each position:
 
 ## Site 4
 
-Site four is another departmental site.
+Site four is another departmental site. Features are not randomized. Newer items are added at the first position.
 
 - Homepage visits: 26,900
 - Percentage that clicked a feature: 2.985%
