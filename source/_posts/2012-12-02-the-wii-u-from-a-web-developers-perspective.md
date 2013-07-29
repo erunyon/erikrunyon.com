@@ -3,7 +3,7 @@ title: The Wii U from a Web Developers Perspective
 author: Erik Runyon
 layout: post
 permalink: /2012/12/the-wii-u-from-a-web-developers-perspective/
-categories: [RWD, Web Development]
+categories: [RWD, Web Development, Review]
 ---
 <img class="alignright size-full wp-image-389 noborder" title="Wii U Browser Logo" src="/images/2012/250px-Wii_U_Internet_Browser_logo.png" alt="Wii U Browser Logo" /> In the early days of RWD, it became evident that we could not (and should not) tie our breakpoints to the widths of popular devices. I’d like to think this is a fairly popular view these days. This is partially due to the influx of internet capable devices all with differing screen sizes and resolutions. Though a majority of these are phones and tablets, this also includes gaming consoles. In September, [Anna Debenham][1] wrote an article on A List Apart titled “[Testing Websites in Game Console Browsers][2]” where she wrote about the emergence of browsers in popular gaming consoles and the variety of input types that comes with them.<!--more-->
 
