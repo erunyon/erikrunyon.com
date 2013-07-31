@@ -12,6 +12,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Adams State University](http://adams.edu/)
 * [Alaska Fairbanks, University of](http://www.uaf.edu/) _*[Adaptive](#adaptive)_
 * [Allegheny College](http://allegheny.edu/)
+* [American University of Paris, The](http://www.aup.edu/)
 * [Amherst College](http://amherst.edu/)
 * [Ancilla College](http://www.ancilla.edu/)
 * [Arkansas State University](http://www.astate.edu/)
