@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-08-02**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-08-06**.
 
 ## A
 
@@ -61,6 +61,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Dartmouth College](http://www.dartmouth.edu/) _*[Adaptive](#adaptive)_
 * [Dakota State University](http://www.dsu.edu/)
 * [Dallas, University of](http://udallas.edu)
+* [Davidson College](http://www.davidson.edu/)
 * [Delaware Valley College](http://www.delval.edu/)
 * [Denver, University of](http://du.edu)
 * [Des Moines University](http://www.dmu.edu/)
