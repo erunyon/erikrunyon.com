@@ -162,6 +162,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Rice University](http://www.rice.edu)
 * [Rochester, University of](http://www.rochester.edu/)
 * [Rocky Mountain College of Art and Design](http://www.rmcad.edu/) _*[Hybrid](#hybrid)_
+* [Rutgers](http://www.rutgers.edu/) _*[Hybrid](#hybrid)_
 
 ## S
 
