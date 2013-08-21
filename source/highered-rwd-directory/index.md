@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-08-13**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-08-20**.
 
 ## A
 
@@ -99,6 +99,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## J
 
+* [Jackson State University](http://www.jsums.edu/)
 * [Jefferson Community College](http://www.sunyjefferson.edu/) _*[Adaptive](#adaptive)_
 * [Jefferson State University of New York](http://www.sunyjefferson.edu/) _*[Adaptive](#adaptive)_
 
@@ -192,6 +193,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Tennessee, Knoxville, University of](http://www.utk.edu/)
 * [Tennessee, Martin, University of](http://utm.edu/)
 * [Texas A&M International University](http://www.tamiu.edu/)
+* [Tougaloo College](http://www.tougaloo.edu/)
 
 ## U
 
@@ -211,6 +213,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [West Chester University](http://wcupa.edu/)
 * [West Virginia University](http://wvu.edu)
 * [Whittier College](http://www.whittier.edu/)
+* [William Carey University](http://www.wmcarey.edu/) _*[Adaptive](#adaptive)_
 * [William & Mary](http://www.wm.edu/)
 * [Wisconsin, University of: Green Bay](http://www.uwgb.edu/)
 * [Wisconsin, University of: River Falls](http://www.uwrf.edu/)
