@@ -22,6 +22,7 @@ We’ve made great strides over the past year educating and demonstrating to our
 Some may call foul on this approach. That’s fine. But I can attest that it works. Visit [ND.edu][2] for instance. Look at the “site.css”. Unless I’ve over-looked some, you should find no percentage widths with decimal points. We have a couple of other sites about to launch with none as well. So yes, it works, [@zastrow][3] approves of the approach, and it will save your sanity.
 
 **Update 2012-07-31**: Philip Zastrow (designer/developer with the [ND Web Team][4]) [posted a follow-up to this article][5].
+**Update 2013-08-21**: I've relaxed a bit since a year ago. I have no problems with decimals in widths, as long as they're within reason (not more than three decimal places or so).
 
  [1]: http://www.palantir.net/blog/responsive-design-s-dirty-little-secret
  [2]: http://nd.edu
