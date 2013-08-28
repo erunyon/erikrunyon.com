@@ -1,3 +1,8 @@
+---
+title: CAPP 30370
+layout: default
+bodyclass: "capp"
+---
 # CAPP 30370
 
 Fall Semester 2013  
@@ -14,7 +19,9 @@ The goal of this course is to provide working experience with the full range of 
 - [Amazon Paperback and Kindle Edition](http://amzn.to/16fVcJf)
 - [O'Reilly Ebook or Print Edition](http://shop.oreilly.com/product/0636920023494.do)
 
-[List of resources](resources.html)
+## Links and Resources
+
+- [List of links and resources](resources.html)
 
 ## Instructor Info
 Erik Runyon  

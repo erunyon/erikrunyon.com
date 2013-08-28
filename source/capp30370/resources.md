@@ -1,3 +1,8 @@
+---
+title: Resources | CAPP 30370
+layout: default
+bodyclass: "capp"
+---
 # Resources
 
 ## Twitter
