@@ -33,11 +33,11 @@ e: erunyon@nd.edu
 t: [@erunyon](https://twitter.com/erunyon)  
 
 ### Teaching Assistant
-Cristin O'Connor
-Web Developer
+Cristin O'Connor  
+Web Developer  
 [Marketing Communications: Web](http://marcomm.nd.edu/web/)  
-[http://cristinoconnor.com/](cristinoconnor.com)
-e: coconn10@nd.edu
+[http://cristinoconnor.com/](cristinoconnor.com)  
+e: coconn10@nd.edu  
 t: [@cnocon](https://twitter.com/cnocon)
 
 ## Grading
