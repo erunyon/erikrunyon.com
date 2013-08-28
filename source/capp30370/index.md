@@ -23,6 +23,11 @@ The goal of this course is to provide working experience with the full range of 
 
 - [List of links and resources](resources.html)
 
+### Create accounts at the following
+
+- [CodePen](http://codepen.io/)
+- [GitHub](https://github.com/)
+
 ## Instructor Info
 Erik Runyon  
 Director of Web Communications  
@@ -46,3 +51,7 @@ t: [@cnocon](https://twitter.com/cnocon)
 - Final Project 30%
 
 Office hours will be held at the end of each class. Other times may be scheduled upon request.
+
+## Assignments
+
+Reading and project assignments are available [on the Assignments page](assignments.html).
