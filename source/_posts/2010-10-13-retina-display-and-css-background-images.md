@@ -11,7 +11,7 @@ categories:
 tags:
   - agencynd
 ---
-<figure>[<img class="alignright" src="/images/2010/mdotnd-ip-small.png" alt="m.nd.edu" />][1]</figure> 
+<img class="alignright" src="/images/2010/mdotnd-ip-small.png" alt="m.nd.edu" />
 
 Anyone who owns an iPhone 4 has experienced the beautiful new [Retina Display][2]. Text is amazing, colors are vibrant, but apps and sites that are not updated to handle this display usually look less than stellar. This is because the Retina Display, which has a display that is twice the resolution of most devices, scales images up so they appear to be the “correct size”. The solution to this is to target these devices using a [media query][3] and replace the graphics with a higher-quality version.<!--more-->
 
@@ -19,8 +19,10 @@ Anyone who owns an iPhone 4 has experienced the beautiful new [Retina Display][2
 
 My first opportunity to work with and fix this issue was for [m.nd.edu][1]. The first step may also be the most difficult. Through trial and error I worked with our designer [Jim Gosz][4] to re-create the entire interface in both standard and double resolution. For this article, I’ll focus on the home-screen icons, displayed here at double the size to accommodate the Retina Display. Below is a screen-shot from the iPhone 4 simulator which shows how the images appear pixelated due to scaling.
 
-<figure>[<img src="/images/2010/mdotnd-ip4-before-preview.png" alt="iPhone 4 before" />][5]
-<figcaption>iPhone 4 with scaled-up icons.</figcaption></figure>
+<figure>
+  <a href="/images/2010/mdotnd-ip4-before.png"><img src="/images/2010/mdotnd-ip4-before-preview.png" alt="iPhone 4 before" /></a>
+  <figcaption>iPhone 4 with scaled-up icons.</figcaption>
+</figure>
 
 ### Bring in the Big Guns
 
@@ -41,7 +43,7 @@ The [original icon][6] size on the home-screen is 57×57 pixels. For the Retina 
 
 However, after refreshing the screen, the images look like this:
 
-<figure>[<img src="/images/2010/mdotnd-ip4-unscaled-preview.png" alt="iPhone 4 unscaled" />][8]
+<figure><a href="/images/2010/mdotnd-ip4-unscaled.png"><img src="/images/2010/mdotnd-ip4-unscaled-preview.png" alt="iPhone 4 unscaled" /></a>
 <figcaption>iPhone 4 hi-res un-scaled</figcaption></figure>
 
 Obviously not ideal. This is where the [background-size][9]property comes in. By adding
@@ -50,7 +52,7 @@ Obviously not ideal. This is where the [background-size][9]property comes in. By
 
 to the Retina Display portion of the style-sheet, the 114px images will display at 57px and thereby make everything appear at the proper scale. The background-size property will also accept “auto” as a value. So I could have used “background-size:57px auto;”. With this in place, the icons appear as below:
 
-<figure>[<img src="/images/2010/mdotnd-ip4-scaled-preview.png" alt="iPhone 4 scaled" />][10]
+<figure><a href="/images/2010/mdotnd-ip4-scaled.png"><img src="/images/2010/mdotnd-ip4-scaled-preview.png" alt="iPhone 4 scaled" /></a>
 <figcaption>iPhone 4 hi-res</figcaption></figure>
 
 I think we can all agree that looks much better. Is this something I’ll use on every site I build? Probably not. Creating multiple versions of each graphic is labor intensive. But for mobile specific sites, it’s definitely worth it. Especially since we’ll be seeing more devices arriving soon with similar screens.
@@ -70,7 +72,7 @@ I think we can all agree that looks much better. Is this something I’ll use on
  [5]: /images/2010/mdotnd-ip4-before.png
  [6]: http://m.nd.edu/webkit/css/images/icon-news.png
  [7]: http://m.nd.edu/webkit/css/images/icon-news@2x.png
- [8]: /images/mdotnd-ip4-unscaled.png
+ [8]: /images/2010/mdotnd-ip4-unscaled.png
  [9]: http://www.w3.org/TR/css3-background/#the-background-size
  [10]: /images/2010/mdotnd-ip4-scaled.png
  [11]: /2012/04/hi-res-retina-display-css-sprites/
