@@ -19,6 +19,8 @@ The goal of this course is to provide working experience with the full range of 
 - [Amazon Paperback and Kindle Edition](http://amzn.to/16fVcJf)
 - [O'Reilly Ebook or Print Edition](http://shop.oreilly.com/product/0636920023494.do)
 
+**[HTML5 Pocket Reference, 5th Edition](http://shop.oreilly.com/product/0636920029274.do)** (2013) Jennifer Niederst Robbins
+
 ## Links and Resources
 
 - [List of links and resources](resources.html)
