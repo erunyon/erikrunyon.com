@@ -16,7 +16,7 @@ All dates are due dates.
 - A link to "project1.html"
 - Make sure you "img" has an "alt"
 - One or two paragraphs outlining your goals after graduation
-- Incorporate at least two of the following in those paragraphs with correct usage: em/strong/b/i
+- Incorporate at least two of the following in those paragraphs with correct usage: em/strong/b/i (LWD pg 86-88)
 
 ## September 4
 ### Reading
