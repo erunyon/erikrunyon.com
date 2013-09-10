@@ -4,8 +4,7 @@ title: "Podcasts"
 date: 2013-09-10
 categories: [General]
 ---
-In a recent discussion on Twitter, I was asked what podcasts I listen to. Since the list wouldn't fit into a 140 character tweet, I figured I'd post the list here in case it would help others find new shows. If you have suggestions for other podcasts that a geek would enjoy, please leave a comment below.
-<!--more-->
+In a recent discussion on Twitter, I was asked which podcasts I listen to. Since the list wouldn't fit into a 140 character tweet, I figured I'd post the list here in case it would help others find new shows. <!--more-->If you have suggestions for other podcasts that a geek would enjoy, please leave a comment below.
 
 ## Web
 - [BDConf Fresh Squeezed Mobile Podcast](http://fsm.bdconf.com/podcast)
