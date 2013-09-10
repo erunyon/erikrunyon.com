@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Podcasts"
+date: 2013-09-10
+categories: [General]
+---
+In a recent discussion on Twitter, I was asked what podcasts I listen to. Since the list wouldn't fit into a 140 character tweet, I figured I'd post the list here in case it would help others find new shows. If you have suggestions for other podcasts that a geek would enjoy, please leave a comment below.
+<!--more-->
+
+## Web
+- [BDConf Fresh Squeezed Mobile Podcast](http://fsm.bdconf.com/podcast)
+- [The Big Web Show](http://5by5.tv/bigwebshow)
+- [BizCraft](http://unmatchedstyle.com/bizcraft)
+- [The Dirt Podcast](http://www.freshtilledsoil.com/category/podcast/)
+- [The Nitch Podcast](http://nitch.cc/podcast/)
+- [The Non-Breaking Space Show](http://nonbreakingspace.tv/)
+- [This Developer's Life](http://thisdeveloperslife.com/)
+- [United Pixel Workers: Origin Story](http://www.unitedpixelworkers.com/pages/podcast)
+- [Shop Talk Show](http://shoptalkshow.com/)
+- [The Web Ahead](http://5by5.tv/webahead)
+
+## Technology
+- [Accidental Tech Podcast](http://atp.fm/)
+- [Amplified](http://5by5.tv/amplified)
+- [Systematic](http://5by5.tv/systematic)
+- [The Talk Show](http://www.muleradio.net/thetalkshow/)
+
+## Other
+- [Radio Lab](http://www.radiolab.org/)
+- [Science Friday](http://www.sciencefriday.com/)
