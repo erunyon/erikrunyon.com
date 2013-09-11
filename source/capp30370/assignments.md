@@ -7,6 +7,23 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## September 16
+
+### Code Examples
+- [Figure](http://codepen.io/erunyon/pen/58a00579205fc6868b33741b5756fa70)
+- [Section/Article](http://codepen.io/erunyon/pen/a58f3357bafe85494ca64363b7eab88a)
+
+### Reading
+- LWD Ch 10 (pg 180-189), Ch 11
+
+### Project
+- Duplicate "project3.html" and name the new file "project4.html"
+- Add the following:
+- Wrap your previous images in "figure" elements and add captions
+- Create a "header" and "footer"
+- Add a News article summary about a current event you find interesting with appropriate title, author, date, excerpt and link to the article
+- Email url with subject line “CAPP Project 4” to "erunyon@nd.edu" and "coconn10@nd.edu"
+
 ## September 11
 
 ### Code Examples
