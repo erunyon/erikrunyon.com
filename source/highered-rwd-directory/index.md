@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-08-25**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-09-14**.
 
 ## A
 
@@ -168,6 +168,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## S
 
 * [Sacred Heart University](http://www.sacredheart.edu/)
+* [Seminole State College](http://www.seminolestate.edu/)
 * [Sewanee](http://www.sewanee.edu/)
 * [Sierra Nevada College](http://www.sierranevada.edu/) _*[Hybrid](#hybrid)_
 * [Simon Fraser University](http://www.sfu.ca/)
