@@ -7,6 +7,10 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## September 18
+### Reading
+- LWD Ch 12, Ch 13 (pgs 265-283)
+
 ## September 16
 
 ### Code Examples
