@@ -11,6 +11,10 @@ All dates are due dates.
 ### Reading
 - LWD Ch 12, Ch 13 (pgs 265-283)
 
+### Project List Page
+- Not due for next class
+- Should be a list with links to all projects
+
 ## September 16
 
 ### Code Examples
