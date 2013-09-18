@@ -17,7 +17,7 @@ All dates are due dates.
 ### Project
 - Create a new html file and name it "project5.html"
 - Add the following to the file:
-  1. Copy text from "Project 5.txt" in Sakai Drop Box (Project Files > Project 5) into the new file.
+  1. Copy text from "Project 5.txt" in Sakai Resources > Project 5 into the new file.
     1. Mark-up text into semantic html (look for the blockquote, and you will create headings down to h3)
     2. Convert special characters to their html equivalent (LWD Pg 100)
   2. Add proper page title
