@@ -11,6 +11,9 @@ All dates are due dates.
 ### Reading
 - LWD Ch 13 (pg 284-304), Ch 14
 
+### Code Examples
+- [Sept 18 Demo](http://codepen.io/erunyon/pen/6a2ab2408d43f7d37738f1e57f6dc47c)
+
 ### Project
 - Create a new html file and name it "project5.html"
 - Add the following to the file:
