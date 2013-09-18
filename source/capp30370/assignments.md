@@ -7,6 +7,24 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## September 23
+### Reading
+- LWD Ch 13 (pg 284-304), Ch 14
+
+### Project
+- Create a new html file and name it "project5.html"
+- Add the following to the file:
+  1. Copy text from "Project 5.txt" in Sakai Drop Box (Project Files > Project 5) into the new file.
+    1. Mark-up text into semantic html (look for the blockquote, and you will create headings down to h3)
+    2. Convert special characters to their html equivalent (LWD Pg 100)
+  2. Add proper page title
+  3. Style body text as Sans-Serif
+  4. Style headers (h1-h6) as Serif and Green
+  5. Insert the images provided (in the Project 5 folder) with correct markup and float them to the right
+  6. Add a green border around images
+  7. Identify the "blockquote" from the text, mark it up correctly, and give it a subtle background color
+- Upload the new file and add it to your project list page
+
 ## September 18
 ### Reading
 - LWD Ch 12, Ch 13 (pgs 265-283)
