@@ -68,6 +68,7 @@ I have been notified of other articles pertaining to carousels. [Contact me](/co
 * [**Don’t Use Automatic Image Sliders or Carousels, Ignore the Fad**: ConversionXL](http://conversionxl.com/dont-use-automatic-image-sliders-or-carousels-ignore-the-fad/)
 * [**Using carousels in higher education**](http://www.uofadmissionsmarketing.com/2013/02/using-carousels-in-higher-education.html) Added 2013-02-17
 * [**Are homepage carousels effective?**](http://yorkwebteam.blogspot.co.uk/2013/03/are-homepage-carousels-effective-aka.html) Added 2013-04-15
+* [**Should you use an auto-advancing carousel on your home page?**](http://www.lauradhamilton.com/should-you-use-an-auto-advancing-carousel-on-your-home-page) Added 2013-09-20
 
  [1]: /images/2013/nd-feature-click-through.png "ND.edu Feature Click-through Rates"
  [2]: /images/2013/click-through-rates.png "Feature Click-through Rates for four ND properties"
