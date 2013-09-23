@@ -7,6 +7,28 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Sept 25
+### Reading
+- LWD Ch 15: Floating and Positioning
+
+### Code Examples
+- [Background Images](http://codepen.io/erunyon/pen/7cf22d040e4039bf2c028fef509c1846)
+- [Gradients](http://codepen.io/erunyon/pen/df75dfa89bf73bb5b9ec73780bef33bc)
+  - [Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+  - [Gradient Support](http://caniuse.com/#feat=css-gradients)
+- [Box Model](http://codepen.io/erunyon/pen/0b097af1525ea05405fba1e4d1340742)
+
+### Project 6
+- Duplicate project 5 and name it "project6.html"
+- Add the following to the file:
+  1. Add a background image (if or how it repeats is up to you)
+    - You can [download one from this site](http://subtlepatterns.com/), or find your own.
+  2. Change the background-color of the blockquote to be a gradient
+  3. Add padding to the blockquote
+  4. Add a border-radius to the images
+  5. Add a drop-shadow to the images
+- Upload the new file and add it to your project list page
+
 ## September 23
 ### Reading
 - LWD Ch 13 (pg 284-304), Ch 14
