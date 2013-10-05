@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-09-20**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-10-05**.
 
 ## A
 
@@ -120,11 +120,13 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Maranatha Baptist Bible College](http://www.mbbc.edu/)
 * [Marian University](http://www.marianuniversity.edu/)
+* [Marquette University](http://www.marquette.edu/)
 * [Maryland, Baltimore County, University of](http://www.umbc.edu/)
 * [Mayville State University](http://www.mayvillestate.edu/)
 * [Melbourne, University of](http://www.unimelb.edu.au/)
 * [Menlo College](http://www.menlo.edu/)
 * [Miami University](http://miamioh.edu/)
+* [Michigan, University of](http://umich.edu/)
 * [Mississippi College](http://www.mc.edu/)
 * [Mississippi, University of](http://www.olemiss.edu/) _*[Hybrid](#hybrid)_
 * [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
@@ -146,6 +148,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Oklahoma Wesleyan University](http://www.okwu.edu) _*[Adaptive](#adaptive)_
 * [Osteopathic Medical School](http://www.atsu.edu/) _*[Adaptive](#adaptive)_
 * [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
+* [Oxford Brookes University](http://www.brookes.ac.uk/)
 
 ## P
 

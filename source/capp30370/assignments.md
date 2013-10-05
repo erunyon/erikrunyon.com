@@ -13,22 +13,22 @@ All dates are due dates.
 
 ### Reading
 - LWD
-  - Ch 18 Pg 427-432 (resets, background-images)
   - Ch 13 Pg 279-282 (advanced selectors)
+  - Ch 18 Pg 427-432 (resets, background-images)
 
 ### Project 7
 - Create a new document and name it "project7.html"
 - Add the following to the file:
-  1. A page title in the <head>
+  1. A page title in the `<head>`
   2. Correct "meta viewport" tag
   3. The following content:
-    1. A page title with the name of your favorite movie
-    2. Sections for "Summary" (include the movie poster), "Cast names (top billed)", "Lead Actor/Actress Bio" (include photo); Use IMDB for info and photos if necessary
+    - A page title with the name of your favorite movie
+    - Sections for "Summary" (include the movie poster), "Cast names (top billed)", "Lead Actor/Actress Bio" (include photo); Use IMDB for info and photos if necessary
   4. Navigation with anchor links to each section
-  5. The following styles:
-    1. All content should be stacked at smallest screen size, and images should be full-width
-    2. At 400px wide, "navigation" should be on the left, and "content" on the right
-    3. At 800px wide, all images should float to the right and should not exceed 40% of the contents widths
+  5. Add the following styles:
+    - All content should be stacked at smallest screen size, and images should be full-width
+    - At 400px wide, "navigation" should be on the left, and "content" on the right
+    - At 800px wide, all images should float to the right and should not exceed 40% of the contents widths
 - Upload the new file and add it to your project list page
 
 <hr>
