@@ -14,6 +14,12 @@ The conference was held in the Hard Rock Hotel in San Diego. Quite a different v
 
 The title was *"Before the @mq: Making the decisons that make a site responsive"*. I essentially demoed how some sites deal with images to increase performance. The first example was the [BBC's mobile site](http://m.bbc.co.uk/news) and how it loads images for individual articles. The second was [West Virginia University's](http://www.wvu.edu/) carousel. I'd like to thank [Tom Maslen](https://twitter.com/tmaslen) of the BBC and [Dave Olsen](https://twitter.com/dmolsen) of WVU for their feedback and willingness to answer questions. Lastly, I discussed how we took the inital load of [ND.edu](http://www.nd.edu/) and reduced it from over 3 MB to under 400 KB.
 
+### Video
+<div class="fitvid"><iframe src="//player.vimeo.com/video/71334880?color=c9ff23" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
+### Slide Deck
+<script async class="speakerdeck-embed" data-id="b57a51701040013157f96e9fe4c8d3ab" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>
+
 - [Notes from my presentation](http://www.lukew.com/ff/entry.asp?1746) by [@LukeW](https://twitter.com/lukew)
 - [Sketchnotes](https://twitter.com/thinknow/status/359429420743802881/photo/1) by [Lane Halley](https://twitter.com/thinknow)
 
