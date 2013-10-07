@@ -7,6 +7,11 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Oct 9
+## Reading
+- [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
+- [Editing styles & DOM](https://developers.google.com/chrome-developer-tools/docs/elements)
+
 ## Oct 2
 ### Code Examples
 - [Responsive Web Design](http://www3.nd.edu/~erunyon/capp30370/rwd.html)
