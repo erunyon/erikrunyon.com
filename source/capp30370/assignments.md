@@ -7,6 +7,22 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Oct 14
+### Code Examples
+- [CARE](http://www3.nd.edu/~erunyon/capp30370/care/)
+
+### Reading
+- [ARIA Roles](http://a11yproject.com/posts/aria-landmark-roles/)
+- [Microformats](http://microformats.org/about)
+  - [Getting Started](http://microformats.org/get-started)
+  
+### Project 8
+- Create a new document and name it "project8.html"
+- Download all files from Sakai > Resources > Project 8
+- Modify the markup and styles of project8.html to reflect the three layouts provided
+- The two breakpoints should be 500px (tablet) and 900px (desktop)
+- Upload the new file and add it to your project list page
+
 ## Oct 9
 ## Reading
 - [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/)
