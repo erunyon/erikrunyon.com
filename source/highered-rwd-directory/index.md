@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-10-05**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-10-11**.
 
 ## A
 
@@ -179,6 +179,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Simpson College](http://simpson.edu/) _*[Adaptive](#adaptive)_
 * [Singapore Management University](http://www.smu.edu.sg/) _*[Adaptive](#adaptive)_
 * [Skidmore College](http://skidmore.edu)
+* [South Carolina, University of](http://www.sc.edu/)
 * [South Dakota State University](http://www.sdstate.edu/) _*[Adaptive](#adaptive)_
 * [South Florida, University of](http://www.usf.edu/)
 * [South Wales, The University of](http://www.southwales.ac.uk/)
