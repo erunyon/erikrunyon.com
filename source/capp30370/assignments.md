@@ -7,6 +7,24 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Oct 16
+
+### Reading
+- [Why It’s Important to Sketch Before You Wireframe](http://uxmovement.com/wireframes/why-its-important-to-sketch-before-you-wireframe/)
+- [Planning Your Web Design With Sketches](http://tympanus.net/codrops/2013/01/29/planning-your-web-design-with-sketches/)
+- Entertainment Weekly redesign
+	- [Making of: Entertainment Weekly's Responsive Mobile Site](http://globalmoxie.com/blog/entertainment-weekly.shtml)
+	- [Entertainment Weekly by Brad Frost](http://bradfrostweb.com/blog/post/entertainment-weekly/)
+	- [The Responsive Mobile Entertainment Weekly Site](http://danielmall.com/articles/responsive-mobile-entertainment-weekly/)
+
+### Project 9
+- Create a new document and name it “project9.html”
+- Create the following sections and give them correct ARIA landmark roles: header, footer, navigation, main content
+- In the main content area, create a brief resume (Experience, Education, Skills, etc.)
+- The navigation should link to the sections of your resume content
+- In the footer, create an "[hCard](http://microformats.org/wiki/hcard)" with your information (Name, Address, Email, Phone)
+- Upload the new file and add it to your project list page
+
 ## Oct 14
 ### Code Examples
 - [CARE](http://www3.nd.edu/~erunyon/capp30370/care/)
