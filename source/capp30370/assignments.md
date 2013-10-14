@@ -27,7 +27,7 @@ All dates are due dates.
 
 ## Oct 14
 ### Code Examples
-- [CARE](http://www3.nd.edu/~erunyon/capp30370/care/)
+- [CARE Simple Mockup](http://www3.nd.edu/~erunyon/capp30370/care/)
 
 ### Reading
 - [ARIA Roles](http://a11yproject.com/posts/aria-landmark-roles/)
