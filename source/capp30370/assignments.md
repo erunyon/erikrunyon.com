@@ -7,15 +7,32 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Oct 28
+
+### Links
+- [Paper for iPad](http://www.fiftythree.com/paper)
+- [I ♥ wireframes](http://www.flickr.com/groups/ilovewireframes/)
+
+### Reading
+- LWD Ch 17: Transitions, Transforms, and Animation
+
+### Project 10
+- Create rough, hand-drawn wireframe sketches for each of the following:
+  - [Pre-College Homepage](http://precollege.nd.edu/)
+  - [Pre-College Subpage](http://precollege.nd.edu/summer-scholars/)
+  - [Applebees Homepage](http://applebees.com/)
+- Bring all three to class on October 28
+
 ## Oct 16
 
 ### Reading
 - [Why It’s Important to Sketch Before You Wireframe](http://uxmovement.com/wireframes/why-its-important-to-sketch-before-you-wireframe/)
 - [Planning Your Web Design With Sketches](http://tympanus.net/codrops/2013/01/29/planning-your-web-design-with-sketches/)
 - Entertainment Weekly redesign
-	- [Making of: Entertainment Weekly's Responsive Mobile Site](http://globalmoxie.com/blog/entertainment-weekly.shtml)
-	- [Entertainment Weekly by Brad Frost](http://bradfrostweb.com/blog/post/entertainment-weekly/)
-	- [The Responsive Mobile Entertainment Weekly Site](http://danielmall.com/articles/responsive-mobile-entertainment-weekly/)
+  - [Making of: Entertainment Weekly's Responsive Mobile Site](http://globalmoxie.com/blog/entertainment-weekly.shtml)
+  - [Entertainment Weekly by Brad Frost](http://bradfrostweb.com/blog/post/entertainment-weekly/)
+  - [The Responsive Mobile Entertainment Weekly Site](http://danielmall.com/articles/responsive-mobile-entertainment-weekly/)
+  - [Entertainment Weekly by Jonathan Stark](http://jonathanstark.com/blog/entertainment-weekly)
 
 ### Project 9
 - Create a new document and name it “project9.html”
