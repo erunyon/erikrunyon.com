@@ -20,7 +20,7 @@ All dates are due dates.
   1. Photo 1: Rotates 180 degrees
   2. Photo 2: Increases in size by 50%
   3. Photo 3: Skews by 20 degrees in any direction
-  4. Box 1: Changes from a "black" drop-shadow to "orange"
+  4. Box 1: Changes from an orange box with a black "box-shadow" to a black box with an orange "box-shadow"
   5. Box 2: Rotates 25 degrees from the top-right corner and grows by 5%
 - Upload the new file and add it to your project list page
 
