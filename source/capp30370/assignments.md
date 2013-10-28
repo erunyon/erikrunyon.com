@@ -7,6 +7,24 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Oct 30
+
+### Links
+- [Transitions](http://codepen.io/erunyon/pen/c8165653740bd5fb31b401845bb76e9b)
+- [Transforms](http://codepen.io/erunyon/pen/d92bb9df686b5d3acf6b63da953e9e8c)
+- [Transition/Tranform Combos](http://codepen.io/erunyon/pen/24920f6ca0c9cb91d6a1044ddb1a2a79)
+
+### Project 11
+- Create a new document and name it “project11.html”
+- Create the following elements and effects and give each the proper header. All should happen on "hover"
+  1. Photo 1: Rotates 180 degrees
+  2. Photo 2: Increases in size by 50%
+  3. Photo 3: Skews by 20 degrees in any direction
+  4. Box 1: Changes from a "black" drop-shadow to "orange"
+  5. Box 2: Rotates 25 degrees from the top-right corner and grows by 5%
+- Upload the new file and add it to your project list page
+
+
 ## Oct 28
 
 ### Links
