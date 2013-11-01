@@ -7,6 +7,41 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Nov 4
+
+### Reading
+- LWD Ch 19: Introduction to Javascript
+
+### Links
+#### Class Demos
+- [LWD Magic Background Colors](http://codepen.io/erunyon/pen/3ab35e959f058094ef8215c84c2ba06c)
+- [Simple Spinner](http://codepen.io/erunyon/pen/2cc0d35c00da4cf1201d2d34db55e29b)
+- [Pulse Animation](http://codepen.io/erunyon/pen/a94c8bb4b053403f748bbdfc183b1117)
+- [Circle Running Laps](http://codepen.io/erunyon/pen/7b765b9ba72ab437f038924f054059b4)
+
+#### Advanced Demos
+- [3D Cube](http://codepen.io/Kaz/pen/xtBnd)
+- [3D NES Controller](http://codepen.io/Dreamdealer/pen/Clutk)
+- [CSS 3D Solar System](http://codepen.io/juliangarnier/pen/idhuG)
+- [CSS Clock](http://codepen.io/iliadraznin/pen/JcqbE)
+- [Super Mario](http://codepen.io/moklick/pen/KgwdF)
+
+#### Further Reading (Optional)
+- [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations)
+- [The Guide To CSS Animation: Principles and Examples](http://coding.smashingmagazine.com/2011/09/14/the-guide-to-css-animation-principles-and-examples/)
+
+### Project 12
+- Create a new file called (project12.html) or a project on Codepen (CAPP 30370 Project 12)
+- Recreate [this video](http://www3.nd.edu/~erunyon/capp30370/project12/kitten.mov) using CSS
+- For the interactive elements, use only the html from "Project 12" in Resources on Sakai
+- Project will require multiple "@keyframes"
+- Required elements:
+  - Bouncing ball that's continually changing colors
+  - Cat (or replace with your animal of choice) moving left/right and changing directions
+- Add a link on your project list
+
+<hr>
+
 ## Oct 30
 
 ### Links
