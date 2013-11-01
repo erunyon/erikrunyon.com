@@ -5,11 +5,12 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-10-11**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2013-10-31**.
 
 ## A
 
 * [Adams State University](http://adams.edu/)
+* [Alabama at Birmingham, The University of](http://www.uab.edu/)
 * [Alaska Fairbanks, University of](http://www.uaf.edu/) _*[Adaptive](#adaptive)_
 * [Allegheny College](http://allegheny.edu/)
 * [American University of Paris, The](http://www.aup.edu/)
@@ -27,6 +28,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Beloit College](http://www.beloit.edu/)
 * [Binghamton University](http://www.binghamton.edu/) _*[Adaptive](#adaptive)_
 * [Black Hills State University](http://www.bhsu.edu/)
+* [Bluffton University](http://bluffton.edu/) _*[Adaptive](#adaptive)_
 * [Briar Cliff University](http://www.briarcliff.edu/)
 * [Bridgwater College](http://www.bridgwater.ac.uk/)
 * [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
@@ -130,6 +132,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Mississippi College](http://www.mc.edu/)
 * [Mississippi, University of](http://www.olemiss.edu/) _*[Hybrid](#hybrid)_
 * [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
+* [Mobile, University of](http://www.umobile.edu/)
 * [Mount St. Joseph, College of](http://msj.edu)
 
 ## N
@@ -145,6 +148,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Oberlin College](http://oberlin.edu/)
 * [Occidental College](http://www.oxy.edu/) _*[Adaptive](#adaptive)_
+* [Oklahoma City Community College](http://www.occc.edu/)
 * [Oklahoma Wesleyan University](http://www.okwu.edu) _*[Adaptive](#adaptive)_
 * [Osteopathic Medical School](http://www.atsu.edu/) _*[Adaptive](#adaptive)_
 * [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
