@@ -71,3 +71,9 @@ Associate of Arts, 1995
 - [Notre Dame Campus Communicators](http://www.linkedin.com/groups?gid=2370239&trk=myg_ugrp_ovr) Brown Bag, February 2012
 - [HighEdWeb](http://www.highedweb.org/), October 2011
 - [CASE Indiana](http://caseindiana.org/), April 2011
+
+## Links
+- [GitHub](http://github.com/erunyon)
+- [LinkedIn](http://www.linkedin.com/in/erunyon)
+- [Speaker Deck](https://speakerdeck.com/erunyon)
+- [Twitter](http://twitter.com/erunyon)
