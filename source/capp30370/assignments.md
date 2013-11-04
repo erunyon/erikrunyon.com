@@ -9,11 +9,21 @@ All dates are due dates.
 
 ## Nov 6
 
+### Links
+- [Javascript examples](http://www3.nd.edu/~erunyon/capp30370/javascript1/)
+
 ### Reading
 - LWD Ch 20: Using Javascript
 
 ### Project 13
-- TBA
+- Create a new document and name it “project13.html”
+- Include the following items:
+	1. A button labeled "Alert", that when clicked, displays an "alert"
+	2. A button labeled "Prompt", that when clicked, asks the users name and then outputs the name five times to the console
+	3. Create an array of the colors of the rainbow. Loop through the array writing each color to its own line in the document on page load.
+	4. Create a box named "Mouse Events". When the mouse moves over the box, write to the console: "Mouse entered the box". When the mouse leaves, write to the console: "Mouse left the box".
+	5. Two text boxes labeled "First" and "Second" and a button labled "Check". When the button is clicked, the user receives an alert letting them know ff the values in the two boxes are equal.
+- Upload the new file and add it to your project list page
 
 ## Nov 4
 
