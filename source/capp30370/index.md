@@ -57,3 +57,7 @@ Office hours will be held at the end of each class. Other times may be scheduled
 ## Assignments
 
 Reading and project assignments are available [on the Assignments page](assignments.html).
+
+## Important Dates
+- Last class Dec 11
+- Exam date: Monday, December 16, 4:15-6:15 PM. There will not be an exam, but final project is due by 8 PM. The final exam time-slot will be used as a help session.
