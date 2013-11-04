@@ -7,6 +7,14 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Nov 6
+
+### Reading
+- LWD Ch 20: Using Javascript
+
+### Project 13
+- TBA
+
 ## Nov 4
 
 ### Reading
