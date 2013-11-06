@@ -47,3 +47,9 @@ I use Chrome as my primary browser these days, so all the tools listed below are
 - [HipChat](http://hipchat.com)
 - [Jekyll](http://jekyllrb.com/)
 - [Speaker Deck](https://speakerdeck.com/)
+
+## Utilities
+- Bartender
+- BetterTouchTool
+- Choosy
+- Droplr
