@@ -7,6 +7,20 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Nov 11
+
+### Links
+- [Javascript examples](http://www3.nd.edu/~erunyon/capp30370/javascript2/)
+
+### Project 14
+- Download “project14.html” from "Resources" on Sakai. Write the javascript to complete the following tasks:
+	1. Source and Target: Get the content from "Source" AS THE USER TYPES, and display it in "Target"
+	2. Image Swap: Get a new image value from the text box and use it to update the image
+	3. Font Sizer: Get a font-size value from the text box and use it to change the font-size of the associated paragraph
+	4. Attribute Reporter: When the button is clicked, output the "src" and "alt" attributes to the console
+	5. Element Counter: Get the user input for an element, id, class, or query and display how many exist on the page in the Results box
+- Upload the file and add it to your project list page
+
 ## Nov 6
 
 ### Links
