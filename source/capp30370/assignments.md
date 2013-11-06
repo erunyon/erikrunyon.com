@@ -12,6 +12,9 @@ All dates are due dates.
 ### Links
 - [Javascript examples](http://www3.nd.edu/~erunyon/capp30370/javascript2/)
 
+### Reading
+- Review jQuery section of LWD Ch 20
+
 ### Project 14
 - Download “project14.html” from "Resources" on Sakai. Write the javascript to complete the following tasks:
 	1. Source and Target: Get the content from "Source" AS THE USER TYPES, and display it in "Target"
