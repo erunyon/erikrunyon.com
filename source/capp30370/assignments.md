@@ -7,10 +7,21 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Nov 13
+- [jQuery API](http://api.jquery.com/)
+- [jQuery Learning Center](http://learn.jquery.com/)
+- [jQuery Examples](https://www3.nd.edu/~erunyon/capp30370/jquery1/)
+- [Javascript examples 2 re-written to use jQuery](http://www3.nd.edu/~erunyon/capp30370/jquery1/js2jq.html)
+
+### Project 15
+- Duplicate "project14.html" and name it "project15.html"
+- Re-write project 14 javascript using jQuery by replacing all document.gets, addEventListeners, setAttributes, styles, etc
+- Upload the file and add it to your project list page
+
 ## Nov 11
 
 ### Links
-- [Javascript examples](http://www3.nd.edu/~erunyon/capp30370/javascript2/)
+- [Javascript examples 2](http://www3.nd.edu/~erunyon/capp30370/javascript2/)
 
 ### Reading
 - Review jQuery section of LWD Ch 20
@@ -27,7 +38,7 @@ All dates are due dates.
 ## Nov 6
 
 ### Links
-- [Javascript examples](http://www3.nd.edu/~erunyon/capp30370/javascript1/)
+- [Javascript examples 1](http://www3.nd.edu/~erunyon/capp30370/javascript1/)
 
 ### Reading
 - LWD Ch 20: Using Javascript
