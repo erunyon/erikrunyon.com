@@ -7,6 +7,15 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Nov 18
+
+- [jQuery class 2 Examples](http://www3.nd.edu/~erunyon/capp30370/jquery2/)
+
+### Project 16
+- Download “project16.html” from "Resources" on Sakai.
+- Follow the instructions in the document for each item and write the jQuery to complete them.
+- Upload the file and add it to your project list page
+
 ## Nov 13
 - [jQuery API](http://api.jquery.com/)
 - [jQuery Learning Center](http://learn.jquery.com/)
