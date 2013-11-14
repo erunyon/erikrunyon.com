@@ -3,7 +3,6 @@ layout: post
 title: "Tools of the Trade"
 date: 2013-11-13
 categories: [Web Development]
-published: false
 ---
 As a developer, I'm always interested in finding new tools. Often this comes from chatting with other developers and [finding out what they use](http://carpeaqua.com/2013/10/27/my-ultimate-developer-and-power-users-tool-list-for-os-x-2013-edition-/) and why. In the spirit of this, below are the tools I use a daily basis in case it helps someone else find somethig useful.<!-- more -->
 
