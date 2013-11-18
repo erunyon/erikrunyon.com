@@ -7,6 +7,18 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Nov 20
+- [jQuery class 3 Examples](http://www3.nd.edu/~erunyon/capp30370/jquery3/)
+
+### Project 17
+- Download “project17.html” from "Resources" on Sakai. Write the jQuery to complete the following tasks without adding any additional html to the document:
+	1. Style the #reporter div so it remains fixed in the bottom right corner of the screen
+	2. When the page loads, update the values of the window width, window height, window scroll top, and the top offset of the important paragraph
+	3. Whenever the browser window is resized, update the window width and height values
+	4. When the browser scrolls, update the window scrolltop value
+	5. Whenever the browser window is resized, update the value of the important paragraphs top offset
+- Upload the new file and add it to your project list page
+
 ## Nov 18
 
 - [jQuery class 2 Examples](http://www3.nd.edu/~erunyon/capp30370/jquery2/)
