@@ -7,37 +7,49 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Nov 25
+
+### Links
+- [jQuery API Effects](http://api.jquery.com/category/effects/)
+- [jQuery API Animate](http://api.jquery.com/animate/)
+- [jQuery class 4 exmaples](http://www3.nd.edu/~erunyon/capp30370/jquery4/)
+
+### Project 18
+- Download "project18.html" from "Resources" on Sakai.
+- Follow the instructions in the document for each item and write the jQuery to complete them without adding any additional html markup.
+- Upload the file and add it to your project list page.
+
 ## Nov 20
-- [jQuery class 3 Examples](http://www3.nd.edu/~erunyon/capp30370/jquery3/)
+- [jQuery class 3 examples](http://www3.nd.edu/~erunyon/capp30370/jquery3/)
 
 ### Project 17
-- Download “project17.html” from "Resources" on Sakai. Write the jQuery to complete the following tasks without adding any additional html to the document:
+- Download "project17.html" from "Resources" on Sakai. Write the jQuery to complete the following tasks without adding any additional html to the document:
 	1. Style the #reporter div so it remains fixed in the bottom right corner of the screen
 	2. When the page loads, update the values of the window width, window height, window scroll top, and the top offset of the important paragraph
 	3. Whenever the browser window is resized, update the window width and height values
 	4. When the browser scrolls, update the window scrolltop value
 	5. Whenever the browser window is resized, update the value of the important paragraphs top offset
-- Upload the new file and add it to your project list page
+- Upload the new file and add it to your project list page.
 
 ## Nov 18
 
-- [jQuery class 2 Examples](http://www3.nd.edu/~erunyon/capp30370/jquery2/)
+- [jQuery class 2 examples](http://www3.nd.edu/~erunyon/capp30370/jquery2/)
 
 ### Project 16
-- Download “project16.html” from "Resources" on Sakai.
+- Download "project16.html" from "Resources" on Sakai.
 - Follow the instructions in the document for each item and write the jQuery to complete them.
 - Upload the file and add it to your project list page
 
 ## Nov 13
 - [jQuery API](http://api.jquery.com/)
 - [jQuery Learning Center](http://learn.jquery.com/)
-- [jQuery Examples](https://www3.nd.edu/~erunyon/capp30370/jquery1/)
+- [jQuery examples](https://www3.nd.edu/~erunyon/capp30370/jquery1/)
 - [Javascript examples 2 re-written to use jQuery](http://www3.nd.edu/~erunyon/capp30370/jquery1/js2jq.html)
 
 ### Project 15
 - Duplicate "project14.html" and name it "project15.html"
 - Re-write project 14 javascript using jQuery by replacing all document.gets, addEventListeners, setAttributes, styles, etc
-- Upload the file and add it to your project list page
+- Upload the file and add it to your project list page.
 
 ## Nov 11
 
@@ -48,13 +60,13 @@ All dates are due dates.
 - Review jQuery section of LWD Ch 20
 
 ### Project 14
-- Download “project14.html” from "Resources" on Sakai. Write the javascript to complete the following tasks:
+- Download "project14.html" from "Resources" on Sakai. Write the javascript to complete the following tasks:
 	1. Source and Target: Get the content from "Source" AS THE USER TYPES, and display it in "Target"
 	2. Image Swap: Get a new image value from the text box and use it to update the image
 	3. Font Sizer: Get a font-size value from the text box and use it to change the font-size of the associated paragraph
 	4. Attribute Reporter: When the button is clicked, output the "src" and "alt" attributes to the console
 	5. Element Counter: Get the user input for an element, id, class, or query and display how many exist on the page in the Results box
-- Upload the file and add it to your project list page
+- Upload the file and add it to your project list page.
 
 ## Nov 6
 
@@ -65,14 +77,14 @@ All dates are due dates.
 - LWD Ch 20: Using Javascript
 
 ### Project 13
-- Create a new document and name it “project13.html”
+- Create a new document and name it "project13.html"
 - Include the following items:
 	1. A button labeled "Alert", that when clicked, displays an "alert"
 	2. A button labeled "Prompt", that when clicked, asks the users name and then outputs the name five times to the console
 	3. Create an array of the colors of the rainbow. Loop through the array writing each color to its own line in the document on page load.
 	4. Create a box named "Mouse Events". When the mouse moves over the box, write to the console: "Mouse entered the box". When the mouse leaves, write to the console: "Mouse left the box".
 	5. Two text boxes labeled "First" and "Second" and a button labled "Check". When the button is clicked, the user receives an alert letting them know ff the values in the two boxes are equal.
-- Upload the new file and add it to your project list page
+- Upload the new file and add it to your project list page.
 
 ## Nov 4
 
@@ -105,7 +117,7 @@ All dates are due dates.
 - Required elements:
   - Bouncing ball that's continually changing colors
   - Cat (or replace with your animal of choice) moving left/right and changing directions
-- Add a link on your project list
+- Add a link on your project list.
 
 <hr>
 
@@ -117,7 +129,7 @@ All dates are due dates.
 - [Transition/Tranform Combos](http://codepen.io/erunyon/pen/24920f6ca0c9cb91d6a1044ddb1a2a79)
 
 ### Project 11
-- Create a new document and name it “project11.html”
+- Create a new document and name it "project11.html"
 - Create the following elements and effects and give each the proper header. All should happen on "hover"
   1. Photo 1: Rotates 180 degrees
   2. Photo 2: Increases in size by 50%
@@ -155,7 +167,7 @@ All dates are due dates.
   - [Entertainment Weekly by Jonathan Stark](http://jonathanstark.com/blog/entertainment-weekly)
 
 ### Project 9
-- Create a new document and name it “project9.html”
+- Create a new document and name it "project9.html"
 - Create the following sections and give them correct ARIA landmark roles: header, footer, navigation, main content
 - In the main content area, create a brief resume (Experience, Education, Skills, etc.)
 - The navigation should link to the sections of your resume content
@@ -284,7 +296,7 @@ All dates are due dates.
 - Wrap your previous images in "figure" elements and add captions
 - Create a "header" and "footer"
 - Add a News article summary about a current event you find interesting with appropriate title, author, date, excerpt and link to the article
-- Email url with subject line “CAPP Project 4” to "erunyon@nd.edu" and "coconn10@nd.edu"
+- Email url with subject line "CAPP Project 4" to "erunyon@nd.edu" and "coconn10@nd.edu"
 
 ## September 11
 
