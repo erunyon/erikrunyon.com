@@ -220,6 +220,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## W
 
 * [Washburn University](http://washburn.edu/)
+* [Washington and Lee University](http://www.wlu.edu/)
 * [Webster University](http://webster.edu)
 * [West Chester University](http://wcupa.edu/)
 * [West Virginia University](http://wvu.edu)
