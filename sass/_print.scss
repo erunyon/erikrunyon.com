@@ -31,23 +31,25 @@
   .skip-links {display:none;}
 
   .wrapper {font-size:100%;}
-  .site-header h1 a {border:none;}
+  .site-header a {border:none;}
 
-  .content              {width:100%; margin:10px 0; padding:10px 0; border-color:gray; border-style:solid; border-width:1px 0;}
+  .content {width:100%; margin:10px 0; padding:10px 0; border-color:gray; border-style:solid; border-width:1px 0;}
   .content a:link:after {content:" [" attr(href) "] "; font-size:90%;}
 
   pre {margin:0 0 20px; padding:10px; background:#f9f9f9; border:1px solid #ccc; border-width:1px 0; font:10px 'Courier New', Courier, Fixed;}
-  code {}
-  code span.brackets {font-weight:bold;}
-  code span.comment {color:#999;}
-  code span.keywords,
-  code span.tag {color:#8c4a1c;}
+  code {
+    span.brackets {font-weight:bold;}
+    span.comment {color:#999;}
+    span.keywords,
+    span.tag {color:#8c4a1c;}
+  }
 
   .alt {margin:10px 0; padding:10px 0; background-color:#f8f8f8; border-top:1px solid #ddd; border-bottom:1px solid #ddd; }
 
-  .site-footer {position:relative; clear:both; font-size:92%;}
-  .site-footer a	{border:none; text-decoration:none;}
-  .site-footer p {margin:0;}
-  .site-footer img {margin-right:4px; border:none;}
-  .site-footer .social-links li {float:left; display:inline; margin:0 10px 0 0;}
+  .site-footer {position:relative; clear:both; font-size:92%;
+    a	{border:none; text-decoration:none;}
+    p {margin:0;}
+    img {margin-right:4px; border:none;}
+    .social-links li {float:left; display:inline; margin:0 10px 0 0;}
+  }
 }
