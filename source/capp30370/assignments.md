@@ -7,6 +7,25 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Dec 2
+
+### Install Git and GitHub client
+- [Mac](http://mac.github.com/)
+- [Windows](http://windows.github.com/)
+- [Install Git (if the client doesn't do it for you)](http://git-scm.com/downloads)
+
+### Google Analytics Links
+- [Google Analytics Help](https://support.google.com/analytics/?hl=en#topic=3544906)
+- [Get started with Analytics](https://support.google.com/analytics/answer/1008015?hl=en&ref_topic=3544906)
+
+### Project 18
+- Go to the [Google Analytics homepage](https://www.google.com/analytics/) and sign up for an account.
+- Use the web address for wherever you store your project list as the site (for example: http://www3.nd.edu/~yournetid)
+- Copy the code provided and put it in the source of your project list file
+- Upload your project list
+
+<hr>
+
 ## Nov 25
 
 ### Links
