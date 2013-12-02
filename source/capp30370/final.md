@@ -53,7 +53,7 @@ bodyclass: "capp"
 - Include at least one visual jQuery interaction*
 
 ## Submission
-- All projects must be submitted via GitHub to a repo named "CAPP 30370 Final"
+- All projects must be submitted via GitHub to a repo named "CAPP-30370-Final"
 - Site files should run from a local disk
 - All code must be committed by Monday 2013-12-16 at 11:30 PM Eastern
 - Any code committed after the due date/time will be discarded and counted against final grade
