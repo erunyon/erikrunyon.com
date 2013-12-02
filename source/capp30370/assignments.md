@@ -17,16 +17,17 @@ All dates are due dates.
 
 ## Project 20
 - Complete the [try.github.io](try.github.io) intro
-- Create a repository on GitHub called "CAPP 30370 Projects"
+- Create a repository on GitHub called "CAPP-30370-Projects"
 - Add all of your projects with files to the repository
-- Add a README file
+- Add a file in the root directory called "README.md"
 - Push all project files to GitHub
 - Add a link to the respository on your project file
 
 ## Dec 2
 
 ### Install Git and GitHub client
-- [Mac](http://mac.github.com/)
+- [Mac](http://mac.github.com/) - Requires 10.7 or higher
+  - [Git Tower](http://www.git-tower.com/) (alternative client for those on 10.6 or earlier)
 - [Windows](http://windows.github.com/)
 - [Install Git (if the client doesn't do it for you)](http://git-scm.com/downloads)
 
