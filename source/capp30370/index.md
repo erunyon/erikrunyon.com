@@ -50,7 +50,7 @@ t: [@cnocon](https://twitter.com/cnocon)
 ## Grading
 - 16 Quizzes 30%
 - 22 Projects 40%
-- Final Project 30%
+- [Final Project](final.html) 30%
 
 Office hours will be held at the end of each class. Other times may be scheduled upon request.
 
@@ -60,4 +60,4 @@ Reading and project assignments are available [on the Assignments page](assignme
 
 ## Important Dates
 - Last class Dec 11
-- Exam date: Monday, December 16, 4:15-6:15 PM. There will not be an exam, but final project is due by 8 PM. The final exam time-slot will be used as a help session.
+- Exam date: Monday, December 16, 4:15-6:15 PM. There will not be an exam, so the final exam time-slot will be used as a help session. The final project is due by 11:30 PM the same day as the exam.

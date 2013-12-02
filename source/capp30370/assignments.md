@@ -7,6 +7,22 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Dec 4
+
+## Links
+- [Git Immersion tutorial](http://gitimmersion.com/lab_01.html)
+- [GitHub help pages](https://help.github.com/)
+  - [Setting up Git](https://help.github.com/articles/set-up-git)
+  - [Create a repo](https://help.github.com/articles/create-a-repo)
+
+## Project 20
+- Complete the [try.github.io](try.github.io) intro
+- Create a repository on GitHub called "CAPP 30370 Projects"
+- Add all of your projects with files to the repository
+- Add a README file
+- Push all project files to GitHub
+- Add a link to the respository on your project file
+
 ## Dec 2
 
 ### Install Git and GitHub client
@@ -18,7 +34,7 @@ All dates are due dates.
 - [Google Analytics Help](https://support.google.com/analytics/?hl=en#topic=3544906)
 - [Get started with Analytics](https://support.google.com/analytics/answer/1008015?hl=en&ref_topic=3544906)
 
-### Project 18
+### Project 19
 - Go to the [Google Analytics homepage](https://www.google.com/analytics/) and sign up for an account.
 - Use the web address for wherever you store your project list as the site (for example: http://www3.nd.edu/~yournetid)
 - Copy the code provided and put it in the source of your project list file
