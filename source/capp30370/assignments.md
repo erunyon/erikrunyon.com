@@ -7,15 +7,32 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Dec 9
+
+### Links
+
+- [GitHub Pages Documentation](https://pages.github.com/)
+- [Markdown Documentation](http://daringfireball.net/projects/markdown/basics)
+- [Jekyll](http://jekyllrb.com/)
+- [GitHub Pages, Jekyll, and You!](http://teach.github.com/presentations/github-pages.html)
+
+### Project 21
+- Create a local Git repository named "yourusername.github.io"
+	- Include a basic page about yourself (resume style)
+	- Add a README.md file
+		- Format the README file using Markdown
+- Push the repository to your GitHub account
+- Add a link to the page to your project list page (url will be http://yourusername.github.io)
+
 ## Dec 4
 
-## Links
+### Links
 - [Git Immersion tutorial](http://gitimmersion.com/lab_01.html)
 - [GitHub help pages](https://help.github.com/)
   - [Setting up Git](https://help.github.com/articles/set-up-git)
   - [Create a repo](https://help.github.com/articles/create-a-repo)
 
-## Project 20
+### Project 20
 - Complete the [try.github.io](try.github.io) intro
 - Create a repository on GitHub called "CAPP-30370-Projects"
 - Add all of your projects with files to the repository
