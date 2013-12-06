@@ -18,7 +18,7 @@ All dates are due dates.
 
 ### Project 21
 - Create a local Git repository named "yourusername.github.io"
-	- Include a basic page about yourself (resume style)
+	- Include a basic page about yourself (resume style) and make sure it's named "index.html"
 	- Add a README.md file
 		- Format the README file using Markdown
 - Push the repository to your GitHub account
