@@ -7,6 +7,19 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Dec 11
+
+### Links
+- [Can I use… Flexbox](http://caniuse.com/#search=flexbox)
+- [The Ultimate Flexbox Cheat Sheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+- [A Complete Guide to Flexbox](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Demo 1](http://codepen.io/erunyon/pen/e9c13cc6cb97f1aa05e4599feebb73a4)
+- [Flexbox Demo 2](http://codepen.io/erunyon/pen/5f009d90aa2e9039e6051b6c80ba143d)
+
+### Project 22
+- Redo Project 8 using Flexbox and the file "project22.html" on Sakai
+- Upload the new file and add it to your project list page
+
 ## Dec 9
 
 ### Links
