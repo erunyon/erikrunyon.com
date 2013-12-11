@@ -7,6 +7,14 @@ bodyclass: "capp"
 
 All dates are due dates.
 
+## Sass
+
+### Links
+- [Sass website](http://sass-lang.com/)
+	- [Sass Basics](http://sass-lang.com/guide)
+- [Compass](http://compass-style.org/)
+- [Sass Examples on Codepen](http://codepen.io/erunyon/pen/821cdbcc6e449c844f1844c26f1d1f41)
+
 ## Dec 11
 
 ### Links
