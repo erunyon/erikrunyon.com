@@ -227,6 +227,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Whittier College](http://www.whittier.edu/)
 * [William Carey University](http://www.wmcarey.edu/) _*[Adaptive](#adaptive)_
 * [William & Mary](http://www.wm.edu/)
+* [Wilmington University](http://www.wilmu.edu/) _*[Adaptive](#adaptive)_
 * [Wisconsin, University of: Green Bay](http://www.uwgb.edu/)
 * [Wisconsin, University of: River Falls](http://www.uwrf.edu/)
 * [Wisconsin, University of: Stevens Point](http://www.uwsp.edu/)
