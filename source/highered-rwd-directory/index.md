@@ -115,6 +115,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Lancaster University](http://www.lancs.ac.uk/)
 * [Lawrence University](http://www.lawrence.edu/)
 * [Leicester, University of](http://www.le.ac.uk/) _*[Hybrid](#hybrid)_
+* [Lewis University](http://lewisu.edu/)
 * [Louisiana College](http://www.lacollege.edu/) _*[Adaptive](#adaptive)_
 * [Lynn University](http://www.lynn.edu/)
 
