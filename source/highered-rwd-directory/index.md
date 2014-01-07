@@ -34,6 +34,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
 * [Bob Jones University](http://bju.edu)
 * [Boise State University](http://www.boisestate.edu/) _*[Adaptive](#adaptive)_
+* [Bowling Green State University](http://www.bgsu.edu/)
 
 ## C
 
@@ -99,6 +100,10 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Haverford College](http://www.haverford.edu/) _*[Hybrid](#hybrid)_
 * [Hendrix College](http://www.hendrix.edu)
 * [Herzing University](http://herzing.edu/)
+
+## I
+
+* [Iowa, The University of](http://www.uiowa.edu/)
 
 ## J
 
@@ -222,6 +227,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Washburn University](http://washburn.edu/)
 * [Washington and Lee University](http://www.wlu.edu/)
+* [Wayne State University](http://wayne.edu/)
 * [Webster University](http://webster.edu)
 * [West Chester University](http://wcupa.edu/)
 * [West Virginia University](http://wvu.edu)
