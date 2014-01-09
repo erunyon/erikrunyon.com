@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-01-07**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-01-08**.
 
 ## A
 
@@ -55,6 +55,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Colorado Boulder, University of](http://colorado.edu)
 * [Colorado Christian University](http://www.ccu.edu/) _*[Adaptive](#adaptive)_
 * [Colorado College](http://coloradocollege.edu)
+* [Concordia College](http://www.concordiacollege.edu/) _*[Adaptive](#adaptive)_
 * [Concordia University Irvine](http://www.cui.edu/)
 * [Connecticut State Colleges & Universities](http://ct.edu/)
 * [Crowley's Ridge College](http://www.crc.edu/) _*[Adaptive](#adaptive)_
@@ -121,6 +122,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Lawrence University](http://www.lawrence.edu/)
 * [Leicester, University of](http://www.le.ac.uk/) _*[Hybrid](#hybrid)_
 * [Lewis University](http://lewisu.edu/)
+* [Lipscomb University](http://www.lipscomb.edu/)
 * [Louisiana College](http://www.lacollege.edu/) _*[Adaptive](#adaptive)_
 * [Lynn University](http://www.lynn.edu/)
 
@@ -156,6 +158,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Occidental College](http://www.oxy.edu/) _*[Adaptive](#adaptive)_
 * [Oklahoma City Community College](http://www.occc.edu/)
 * [Oklahoma Wesleyan University](http://www.okwu.edu) _*[Adaptive](#adaptive)_
+* [Oregon Institute of Technology](http://www.oit.edu/)
 * [Osteopathic Medical School](http://www.atsu.edu/) _*[Adaptive](#adaptive)_
 * [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
 * [Oxford Brookes University](http://www.brookes.ac.uk/)
