@@ -79,3 +79,5 @@ Natually, if a user decides to scroll all the way down the homepage, as well as 
 If you're interested in trying your hand at lazy-loading images, [here's a handy case study on Smashing Magazine](http://mobile.smashingmagazine.com/2013/09/16/responsive-images-performance-problem-case-study/) by [Anders Andersen](https://twitter.com/andmag) and [Tobias Järlund](https://twitter.com/jarlund). You may also want to [check out this post by the BBC News developers](http://responsivenews.co.uk/post/50092458307/images) on how they handle images.
 
 Good luck and happy optimization.
+
+**NOTE:** The total size on www.ND.edu depends a lot on the primary feature image. Since this article was originally posted, we updated to a new image that refuses do compress well, which is resulting in larger than 400 KB download total. So as that image changes, so will these results.
