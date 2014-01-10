@@ -80,4 +80,4 @@ If you're interested in trying your hand at lazy-loading images, [here's a handy
 
 Good luck and happy optimization.
 
-**NOTE:** The total size on www.ND.edu depends a lot on the primary feature image. Since this article was originally posted, we updated to a new image that refuses do compress well, which is resulting in larger than 400 KB download total. So as that image changes, so will these results.
+**NOTE:** The total size on www.ND.edu depends a lot on the primary feature image. Since this article was originally posted, we updated to a new image that refuses to compress well, which is resulting in larger than 400 KB total download size. So as that image changes, so will these results.
