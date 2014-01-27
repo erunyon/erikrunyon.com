@@ -9,6 +9,8 @@ I am the Director of Web Communications and a web developer with Marketing Commu
 
 ## Upcoming Presentations
 
+- **[Before the @mq: Making the decisons that make a site responsive](/2013/07/bdconf-2013/)**, [RWD Summit](http://environmentsforhumans.com/2014/responsive-web-design-summit/), April 1-3, 2014
+
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lessons learned from my first semester of teaching"
-date: 2014-01-07 16:51
+date: 2014-01-07
 categories: Web Development
 published: false
 ---
@@ -9,9 +9,9 @@ About a year and a half ago I started researching the web development offerings 
 
 ## Basics
 
-Time is going to be an issue. I taught the class in addition to my full-time job. I wasn't prepared for how much time it would take every week to prepare class outlines, quizzes, projects, code examples, etc. It can easily take three or more hours to prepare for a single class. And that doesn't count grading projects afterward.
+First and foremost, time is going to be an issue. I taught the class in addition to my full-time job, and it took place during normal business hours. Luckily I had the support of both my department and my boss. So in addition to class and preparation time, I also needed to make up for the time I missed in the office. Even though I knew from talking with other adjuncts that it was going to take a lot of prep, I still wasn't prepared for how much time it actually took every week to prepare class outlines, quizzes, projects, code examples, etc. And that doesn't count grading projects afterward.
 
-Whether we realize it or not, we use A LOT of industry jargon in our field. Be careful that whenever you use an acronym or term that's new for the students, to explain it. Next time I plan on keeping a list of terms for the students to reference. Anytime one of them asks what something is, add it to the list.
+Whether we realize it or not, we use A LOT of jargon in our industry. Be careful that whenever you use an acronym or term that's new for the students, take some time to explain it. I would recommend keeping a list of terms and definitions somewhere easily accessible to the class of any term you explain. And then when a student asks about a term, add it to the list.
 
 ## Grading
 
@@ -25,19 +25,21 @@ The quizzes were used to make sure the students completed their reading assignme
 
 ## Materials
 
-The only required materials for the class was [Learning Web Design 4th Edition](http://amzn.to/16fVcJf) by [Jennifer Robbins](https://twitter.com/jenville). This book covers most of the basics needed for the aspiring web developer. It has enough on each topic to provide a good intro to which we could expand on in class. All other topics not covered were supplemented by articles freely available on the web.
+The only required materials for the course was [Learning Web Design 4th Edition](http://amzn.to/16fVcJf) by [Jennifer Robbins](https://twitter.com/jenville). This book covers most of the basics needed for the aspiring web developer. It has enough on each topic to provide a good intro to which we could expand on in class. All other topics not covered were supplemented by articles freely available on the web.
 
 ## Tools
 
-I allowed the students to pick their own text editor for the class, but I provided a list of recommendations. I just guessed on the Windows apps since I had no idea on those. I required all students use Chrome for testing. With Chrome's aggressive auto-updates, I could be fairly certain we'd all be on the same version. So that way if the code worked for the student, it would work for me when grading projects. Chrome also has excellent support for modern HTML/CSS as well as (arguably) the best developer tools.
+I allowed the students to pick their own text editor for the class, but I provided a list of recommendations. I guessed on the Windows apps since I had no idea on those. I required all students use Chrome for testing. With Chrome's aggressive auto-updates, I could be fairly certain we'd all be on the same version. So that way if the code worked for the student, it would work for me when grading projects. Chrome also has excellent support for modern HTML/CSS as well as (arguably) the best developer tools.
 
 All students were also required to open [Codepen](http://codepen.io/) accounts and [GitHub](https://github.com/) accounts. 
 
-For projects, students hosted all files on their university provided "webfile" spaces or Codepen. However, after the class wrapped, I learned from some feedback that some students believed their code was being lifted by other students. I did not know until after the class ended that [GitHub offers students free private repos](https://github.com/edu). Next time I will definitely go that route.
+For projects, students hosted all files on their university provided "webfile" spaces or Codepen. I learned after the class ended that [GitHub offers students free private repos](https://github.com/edu). Next time I will definitely go that route. We didn't cover source control or GitHub until near the end of the semester. This should be moved into the first or second week. Some students had a workflow of creating multiple copies of a file when trying new things. With Git they could simply create branches. Couple that with the private repos and we could end up with a nice workflow for assignments.
 
 ## Topics
 
-- Intro
+Below are the topics that we actually ended up covering. I had to cut some topics due to others taking longer than I had planned.
+
+- Intro class
   - Mobile growth
   - Progressive Enhancement
   - RWD
@@ -55,7 +57,13 @@ For projects, students hosted all files on their university provided "webfile" s
 - Javascript (2 classes)
 - jQuery (4 classes)
 - Analytics
-- Git/GitHub Pages
+- Git and GitHub Pages
 - Markdown
 - Flexbox
 - Sass
+
+Some of the topics were limited to a single class while some of the broader topics (HTML/CSS/Javascript) took weeks to cover adequatly.
+
+## Wrapping up
+
+I've had great discussions with other developers on campus that teach classes at Notre Dame. The concensus is that the first attempt is definitely the hardest. There's an incredible amount to learn about to structure and conduct a technical class. And even after having numerous discussions with them prior to the start of class, there's still a lot I had to figure out on my own. But in the end, I'm very glad I took the risk and time to teach. It's amazing how the process of teaching your craft really makes you break down the what's, how's, and why's of our everyday.
