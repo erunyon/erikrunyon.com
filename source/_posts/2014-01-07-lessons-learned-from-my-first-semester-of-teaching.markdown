@@ -6,6 +6,8 @@ categories: [Web Development, Teaching]
 ---
 About a year and a half ago I started researching the web development offerings at Notre Dame and found that there wasn't a basic web development course. There were courses covering web design, javascript, mobile application development, and others, but nothing that covered the basics of getting into semantic HTML, CSS, and RWD. Taking a bit of a chance, I reached out to several departments to see if any of them would be interested in a new course. I received a fairly quick response from the [Computer Applications Program](http://capp.nd.edu/) and we quickly put together a plan to offer a course titled "Introduction to Web Development".<!--more--> The class description was "The goal of this course is to provide working experience with the full range of front-end technology needed to produce a modern website. The course will cover Planning, Discovery, Information Architecture, Wireframing, Semantic HTML Markup, CSS Layout and javascript. Emphasis will be placed on building sites that can be viewed on any device using Progressive Enhancement and Responsive Web Design/Development". We ran the course in the Fall of 2013. I was left to my own devices as to the course material, what we covered, grades, tests, quizzes, etc. Below I'll cover those resources and material, as well as what worked, what didn't, and what I'd change if I do it again.
 
+<img src="/images/2014/teaching-seeking-knowledge.jpg" alt="I have only come here seeking knowledge, things they would not teach me of in college - The Police" title="I have only come here seeking knowledge, things they would not teach me of in college - The Police">
+
 ## Basics
 
 First and foremost, time is going to be an issue. I taught the class in addition to my full-time job, and it took place during business hours. Luckily I had the support of both my department, team, and boss. So in addition to class and preparation time, I also needed to make up for the time I missed in the office. Even though I knew from talking with other adjunct professors that it was going to take a lot of prep, I still wasn't prepared for how much time it actually took every week to prepare class outlines, quizzes, projects, code examples, etc. And that doesn't count grading projects afterward.
@@ -28,7 +30,7 @@ In retrospect, I would probably drop to 20 projects, make quizzes worth 20% and 
 
 ## Materials
 
-[<img class="alignright" alt="Learning Web Design book cover" title="Learning Web Design book cover" src="/images/2014/learning-web-design.jpg">](http://amzn.to/16fVcJf)
+[<img class="alignright" alt="Learning Web Design book cover" title="Learning Web Design book cover" src="/images/2014/teaching-learning-web-design.jpg">](http://amzn.to/16fVcJf)
 
 The only required materials for the course was [Learning Web Design, 4th Edition](http://amzn.to/16fVcJf) by [Jennifer Robbins](https://twitter.com/jenville). This book covers most of the basics needed for the aspiring web developer. It has enough on each topic to provide a good intro on which we could expand in class. All other topics not covered were supplemented by articles freely available on the web.
 
