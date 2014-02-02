@@ -16,7 +16,7 @@ Whether we realize it or not, we use A LOT of jargon in our industry. Be careful
 
 ## Grading
 
-The course took place over 28 classes. Grading was based on the following:
+The course took place over twenty-eight, 1.25 hour classes. Grading was based on the following:
 
 - 16 Quizzes 30%
 - 22 Projects 40%
