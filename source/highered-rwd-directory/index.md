@@ -5,13 +5,14 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-01-16**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-02-05**.
 
 ## A
 
 * [Adams State University](http://adams.edu/)
 * [Alabama at Birmingham, The University of](http://www.uab.edu/)
 * [Alaska Fairbanks, University of](http://www.uaf.edu/) _*[Adaptive](#adaptive)_
+* [Alberta, University of](http://www.ualberta.ca/)
 * [Allegheny College](http://allegheny.edu/)
 * [American University of Paris, The](http://www.aup.edu/)
 * [Amherst College](http://amherst.edu/)
@@ -121,6 +122,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Lancaster University](http://www.lancs.ac.uk/)
 * [Lawrence University](http://www.lawrence.edu/)
 * [Leicester, University of](http://www.le.ac.uk/) _*[Hybrid](#hybrid)_
+* [Lewis-Clark State College]()
 * [Lewis University](http://lewisu.edu/)
 * [Lipscomb University](http://www.lipscomb.edu/)
 * [Louisiana College](http://www.lacollege.edu/) _*[Adaptive](#adaptive)_
@@ -131,6 +133,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Maranatha Baptist Bible College](http://www.mbbc.edu/)
 * [Marian University](http://www.marianuniversity.edu/)
 * [Marquette University](http://www.marquette.edu/)
+* [Mary Hardin-Baylor, University of](http://www.umhb.edu/)
 * [Maryland, Baltimore County, University of](http://www.umbc.edu/)
 * [Mayville State University](http://www.mayvillestate.edu/)
 * [Melbourne, University of](http://www.unimelb.edu.au/)
@@ -201,6 +204,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Spring Arbor University](http://www.arbor.edu/)
 * [St Paul’s School](http://www.stpaulsschool.org.uk/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
+* [Stevenson University]()
 * [Stonehill College](http://www.stonehill.edu/)
 * [Suffolk University](http://www.suffolk.edu/)
 * [Surrey, University of](http://www.surrey.ac.uk/)
@@ -214,6 +218,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Tennessee, Martin, University of](http://utm.edu/)
 * [Texas A&M International University](http://www.tamiu.edu/)
 * [Tougaloo College](http://www.tougaloo.edu/)
+* [Trinity University](http://trinity.edu/)
 
 ## U
 
