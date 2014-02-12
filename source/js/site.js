@@ -30,8 +30,7 @@ jQuery(function($){
     } catch(err){}
 
     setTimeout(function() {
-      console.log(link);
-      //document.location.href = link;
+      document.location.href = link;
     }, 100);
   });
 
