@@ -15,6 +15,28 @@ jQuery(function($) {
   $(".fitvid").fitVids();
 });
 
+jQuery(function($){
+
+  // Table overflow
+  $('table').wrap('<div class="tablewrap"></div>'); // requires .tablewrap styles
+
+  // External Link Tracking
+  $("a[href*='//']:not([href*='"+location.hostname+"'])").on('click', function(e){
+    e.preventDefault();
+    var link = this.href;
+
+    try {
+      ga('send', 'event', 'UserAction', 'External Link', link );
+    } catch(err){}
+
+    setTimeout(function() {
+      console.log(link);
+      //document.location.href = link;
+    }, 100);
+  });
+
+});
+
 /*
  * Normalized hide address bar for iOS & Android
  * (c) Scott Jehl, scottjehl.com
