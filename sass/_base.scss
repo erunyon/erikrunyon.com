@@ -134,12 +134,12 @@ acronym, abbr, span.caps {font-size:0.9em; letter-spacing:.07em;}
 /*================================
 Figure & Fig caption
 ==================================*/
-.post figure {margin:1.5em 0 2em;}
-.post figure a {border:none;}
-.post figcaption {margin:.75em 0; text-align:center; font:italic 13px/18px Cambria, Georgia, "Times New Roman", Times, serif;}
-.post figure blockquote {margin-left:0; border:1px dashed #999; padding:6px; font-style:normal;}
-.post figure blockquote p {margin:.75em 0; padding:0 1.5em;}
-.post figure blockquote p:first-child {text-indent:0;}
-.post figure blockquote p:first-child:before {content:'';}
-.post figure blockquote p + p {margin-top:1.5em;}
-.post figure ol, figure ul {margin:.75em 0; padding:0 1.5em;}
+figure {margin:1.5em 0 2em;}
+figure a {border:none;}
+figcaption {margin:.75em 0; text-align:center; font:italic 13px/18px Cambria, Georgia, "Times New Roman", Times, serif;}
+figure blockquote {margin-left:0; border:1px dashed #999; padding:6px; font-style:normal;}
+figure blockquote p {margin:.75em 0; padding:0 1.5em;}
+figure blockquote p:first-child {text-indent:0;}
+figure blockquote p:first-child:before {content:'';}
+figure blockquote p + p {margin-top:1.5em;}
+figure ol, figure ul {margin:.75em 0; padding:0 1.5em;}

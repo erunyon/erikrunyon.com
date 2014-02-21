@@ -109,7 +109,6 @@
   .columnlists .content ul {@include columns(2em 3);}
   .post-header h2 {font-size:2.2em;}
 
-  .post p {width:80%;}
-  .post .alignright {margin-right:-20%;}
+  .post p {max-width:40em;}
 
 }
