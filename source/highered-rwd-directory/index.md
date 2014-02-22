@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-02-19**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-02-22**.
 
 ## A
 
@@ -52,6 +52,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Chicago, University of](http://uchicago.edu)
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
 * [Clarkson University](http://www.clarkson.edu/) _*[Adaptive](#adaptive)_
+* [Clemson University](http://www.clemson.edu/)
 * [Coleg Cambria](http://www.cambria.ac.uk/)
 * [Colgate University](http://www.colgate.edu)
 * [Colorado Boulder, University of](http://colorado.edu)
