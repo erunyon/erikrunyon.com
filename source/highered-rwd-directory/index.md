@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-02-22**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-03-08**.
 
 ## A
 
@@ -50,6 +50,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Central Florida, University of](http://www.ucf.edu/) _*[Hybrid](#hybrid)_
 * [Chapman University](http://www.chapman.edu/)
 * [Chicago, University of](http://uchicago.edu)
+* [Christ College](http://christcollege.ca/)
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
 * [Clarkson University](http://www.clarkson.edu/) _*[Adaptive](#adaptive)_
 * [Clemson University](http://www.clemson.edu/)
@@ -75,6 +76,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Denver, University of](http://du.edu)
 * [Des Moines University](http://www.dmu.edu/)
 * [Dewey University](http://dewey.edu) _*[Adaptive](#adaptive)_
+* [Dickinson College](http://www.dickinson.edu/) _*[Adaptive](#adaptive)_
 * [Doane College](http://www.doane.edu/) _*[Hybrid](#hybrid)_
 * [Dominican University of California](http://www.dominican.edu/) _*[Adaptive](#adaptive)_
 * [Drake University](http://drake.edu/)
@@ -145,6 +147,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Michigan, University of](http://umich.edu/)
 * [Mississippi College](http://www.mc.edu/)
 * [Mississippi, University of](http://www.olemiss.edu/) _*[Hybrid](#hybrid)_
+* [Missouri, University of](http://missouri.edu/) _*[Adaptive](#adaptive)_
 * [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
 * [Mobile, University of](http://www.umobile.edu/)
 * [Mount St. Joseph, College of](http://msj.edu)
@@ -153,6 +156,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Nebraska – Lincoln, University  of](http://unl.edu)
 * [Nebraska Omaha, University of](http://www.unomaha.edu/)
+* [Nevada, Reno, University of](http://www.unr.edu/) _*[Adaptive](#adaptive)_
 * [New Mexico State University](http://www.nmsu.edu/) _*[Adaptive](#adaptive)_
 * [Nicholls State University](http://www.nicholls.edu/) _*[Adaptive](#adaptive)_
 * [Northern Iowa, University of](http://www.uni.edu/) _*[Adaptive](#adaptive)_
@@ -194,6 +198,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Sacred Heart University](http://www.sacredheart.edu/)
 * [Seminole State College](http://www.seminolestate.edu/)
 * [Sewanee](http://www.sewanee.edu/)
+* [Sheridan College](http://www.sheridancollege.ca/)
 * [Sierra Nevada College](http://www.sierranevada.edu/) _*[Hybrid](#hybrid)_
 * [Simon Fraser University](http://www.sfu.ca/)
 * [Simpson College](http://simpson.edu/) _*[Adaptive](#adaptive)_
@@ -234,6 +239,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## V
 
 * [Vermont, University of](http://www.uvm.edu/)
+* [Virginia Commonwealth University](http://www.vcu.edu/)
 
 ## W
 
