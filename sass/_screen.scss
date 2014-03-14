@@ -53,7 +53,18 @@
   .sidebar li {margin:0 0 .4em 0;}
   .sidebar section,
   .sidebar .section {margin:0 0 2em 0; padding:0;}
-  .sidebar .social-links li {margin:0 0 1em;}
+  .sidebar .social-links li {margin:0 0 0.5em;}
+  
+  .social-links {
+    i {display:inline-block; vertical-align:top; width:16px; height:16px; margin-right:2px; background:url(images/icons-social.png) 0 0 no-repeat;}
+    .twitter {background-position:-21px 0;}
+    .gplus {background-position:-42px 0;}
+    .speakerdeck {background-position:-63px 0;}
+    .github {background-position:-84px 0;}
+    .flickr {background-position:-105px 0;}
+    a {display:inline-block; padding:0.2em; border-radius:3px;}
+    a:hover {text-decoration:none; background-color:#eee; box-shadow:inset 0 1px rgba(100,100,100,0.1);}
+  }
 
   .conferences {width:80%; margin:2em 0;}
     .conferences li {margin:1em 0 2em;}
@@ -111,4 +122,18 @@
 
   .post p {max-width:40em;}
 
+}
+
+/* Hi-res
+----------------------------------------------------*/
+@media
+  (-webkit-min-device-pixel-ratio:1.5),
+  only screen and (min--moz-device-pixel-ratio: 1.5),
+  (min-resolution:144dppx){
+    .social-links i {background-image:url(images/icons-social@2x.png);
+      -webkit-background-size:142px 16px;
+         -moz-background-size:142px 16px;
+           -o-background-size:142px 16px;
+              background-size:142px 16px;
+   }
 }
