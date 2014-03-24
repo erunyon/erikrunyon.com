@@ -12,7 +12,7 @@ jQuery(function($) {
       scrollTop: $('#nav').offset().top
     });
   });
-  $(".fitvid").fitVids();
+  $("#content").fitVids();
 });
 
 jQuery(function($){
