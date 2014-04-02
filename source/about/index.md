@@ -9,12 +9,13 @@ I am the Director of Web Communications and a web developer with Marketing Commu
 
 ## Upcoming Presentations
 
-- **[Before the @mq: Making the decisons that make a site responsive](/2013/07/bdconf-2013/)**, [RWD Summit](http://environmentsforhumans.com/2014/responsive-web-design-summit/), April 1-3, 2014
+- **[Before the @mq: Making the decisons that make a site responsive](/2013/07/bdconf-2013/)**, [HighEdWeb Michigan](http://mi.highedweb.org/), May 22-23, 2014
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations
 
+- **[Before the @mq: Making the decisons that make a site responsive](/2013/07/bdconf-2013/)**, [RWD Summit](http://environmentsforhumans.com/2014/responsive-web-design-summit/), April 1-3, 2014
 - **[Before the @mq: Making the decisons that make a site responsive](/2013/07/bdconf-2013/)**, [Breaking Development Conference - San Diego](http://bdconf.com/2013/san-diego), July 2013
 - **RWD and its Impact on HigherEd**, [University of Wisconsin Web Conference](http://www.uwimcomm.com/), June 2013
 - **[Rebuilding a University Homepage to be "Responsive." Twice. In Less than a Year.](/2013/05/highedwebmi-2013/)**, [HighEdWeb Michigan](http://mi.highedweb.org/), May 2013
