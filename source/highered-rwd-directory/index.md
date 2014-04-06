@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-03-08**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-04-06**.
 
 ## A
 
@@ -17,6 +17,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [American University of Paris, The](http://www.aup.edu/)
 * [Amherst College](http://amherst.edu/)
 * [Ancilla College](http://www.ancilla.edu/)
+* [Arizona State University](http://www.asu.edu/)
 * [Arkansas State University](http://www.astate.edu/)
 * [A.T. Still University](http://www.atsu.edu/)
 
@@ -29,6 +30,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Beloit College](http://www.beloit.edu/)
 * [Benedictine University]()
 * [Binghamton University](http://www.binghamton.edu/) _*[Adaptive](#adaptive)_
+* [Birmingham City University](http://www.bcu.ac.uk/) _*[Adaptive](#adaptive)_
 * [Black Hills State University](http://www.bhsu.edu/)
 * [Bluffton University](http://bluffton.edu/) _*[Adaptive](#adaptive)_
 * [Briar Cliff University](http://www.briarcliff.edu/)
@@ -42,6 +44,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [California, University of, Irvine](http://www.uci.edu/)
 * [California, San Diego, University of](http://www.ucsd.edu/)
+* [Calvin College](http://www.calvin.edu/)
 * [Cambridge, University of](http://www.cam.ac.uk/)
 * [Cameron University](http://www.cameron.edu/)
 * [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
@@ -51,9 +54,11 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Chapman University](http://www.chapman.edu/)
 * [Chicago, University of](http://uchicago.edu)
 * [Christ College](http://christcollege.ca/)
+* [Churchill College](https://www.chu.cam.ac.uk/)
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
 * [Clarkson University](http://www.clarkson.edu/) _*[Adaptive](#adaptive)_
 * [Clemson University](http://www.clemson.edu/)
+* [Colby College](http://www.colby.edu/)
 * [Coleg Cambria](http://www.cambria.ac.uk/)
 * [Colgate University](http://www.colgate.edu)
 * [Colorado Boulder, University of](http://colorado.edu)
@@ -93,12 +98,14 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## F
 
 * [Florida International University](http://fiu.edu)
+* [Fulton-Montgomery Community College](http://www.fmcc.edu/)
 
 ## G
 
 * [Gettysburg College](http://www.gettysburg.edu/)
 * [Georgetown College](http://www.georgetowncollege.edu/) _*[Adaptive](#adaptive)_
 * [Glamorgan, University of](http://www.glam.ac.uk/)
+* [Governors State University](http://govst.edu/)
 * [Grand Valley State University](http://gvsu.edu)
 
 ## H
@@ -111,6 +118,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## I
 
 * [Iowa, The University of](http://www.uiowa.edu/)
+* [Irvine, California, University of](http://uci.edu/)
 
 ## J
 
@@ -125,8 +133,10 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## L
 
 * [Lancaster University](http://www.lancs.ac.uk/)
+* [La Trobe University](http://www.latrobe.edu.au/)
 * [Lawrence University](http://www.lawrence.edu/)
 * [Leicester, University of](http://www.le.ac.uk/) _*[Hybrid](#hybrid)_
+* [Lesley University](http://www.lesley.edu/)
 * [Lewis-Clark State College]()
 * [Lewis University](http://lewisu.edu/)
 * [Lipscomb University](http://www.lipscomb.edu/)
@@ -150,6 +160,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Missouri, University of](http://missouri.edu/) _*[Adaptive](#adaptive)_
 * [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
 * [Mobile, University of](http://www.umobile.edu/)
+* [Moore College of Art & Design](http://moore.edu/)
+* [Morningside College](http://morningside.edu/)
 * [Mount St. Joseph, College of](http://msj.edu)
 
 ## N
@@ -158,6 +170,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Nebraska Omaha, University of](http://www.unomaha.edu/)
 * [Nevada, Reno, University of](http://www.unr.edu/) _*[Adaptive](#adaptive)_
 * [New Mexico State University](http://www.nmsu.edu/) _*[Adaptive](#adaptive)_
+* [New York, State University of](http://www.suny.edu/)
 * [Nicholls State University](http://www.nicholls.edu/) _*[Adaptive](#adaptive)_
 * [Northern Iowa, University of](http://www.uni.edu/) _*[Adaptive](#adaptive)_
 * [Notre Dame, University of](http://nd.edu/)
@@ -172,6 +185,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Oregon Institute of Technology](http://www.oit.edu/)
 * [Osteopathic Medical School](http://www.atsu.edu/) _*[Adaptive](#adaptive)_
 * [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
+* [Otago, University of](http://www.otago.ac.nz/) _*[Adaptive](#adaptive)_
 * [Oxford Brookes University](http://www.brookes.ac.uk/)
 
 ## P
@@ -186,6 +200,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## R
 
+* [Reading, University of](http://www.reading.ac.uk/)
 * [Regent College](http://www.regent-college.edu/)
 * [Rhode Island, University of](http://uri.edu)
 * [Rice University](http://www.rice.edu)
@@ -196,6 +211,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## S
 
 * [Sacred Heart University](http://www.sacredheart.edu/)
+* [Saint Joseph, University of](http://www.usj.edu/)
+* [Scranton, The University of](http://www.scranton.edu/)
 * [Seminole State College](http://www.seminolestate.edu/)
 * [Sewanee](http://www.sewanee.edu/)
 * [Sheridan College](http://www.sheridancollege.ca/)
