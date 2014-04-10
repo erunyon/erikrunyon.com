@@ -28,10 +28,11 @@
 
   /* HEADER
      ----------------------------------------------------*/
-  .site-header {margin:0 0 2em;}
-    .site-header h1 {margin:0; font-size:2.6em; font-weight:normal; text-shadow:0 1px 1px rgba(255,255,255,0.5);}
-    .site-header h1 a {text-decoration:none; border:0 none; color:#1f4919;}
-    .site-header h2 {margin:0 0 0 0.7em; font-size:0.9em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+  .site-header {margin:0 0 2em;
+    h1 {margin:0; font-size:2.6em; font-weight:normal; text-shadow:0 1px 1px rgba(255,255,255,0.5);}
+    h1 a {text-decoration:none; border:0 none; color:#1f4919;}
+    .subtitle {margin:0 0 0 0.3em; font-size:0.9em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+  }
 
   /* CONTENT
      ----------------------------------------------------*/
@@ -43,17 +44,17 @@
 
   /* SIDEBAR
      ----------------------------------------------------*/
-  .sidebar {width:100%; padding:1em; border-top:1px solid #dadada; color:#777;}
-    .sidebar section {margin:10px 0; padding:10px 0;}
-  .sidebar h2 {margin:0 0 .25em 0; font-size:1.3em; line-height:1.4; text-transform:uppercase; color:#666;}
-  .sidebar a {color:#555;}
-  .sidebar a:hover {color:#111;}
-  .sidebar p {}
-  .sidebar ul {margin:0 0 1em; padding:0; list-style-type:none;}
-  .sidebar li {margin:0 0 .4em 0;}
-  .sidebar section,
-  .sidebar .section {margin:0 0 2em 0; padding:0;}
-  .sidebar .social-links li {margin:0 0 0.5em;}
+  .sidebar {width:100%; padding:1em; border-top:1px solid #dadada; color:#777;
+    section {margin:10px 0; padding:10px 0;}
+    h2 {margin:0 0 .25em 0; font-size:1.3em; line-height:1.4; text-transform:uppercase; color:#666;}
+    a {color:#555;}
+    a:hover {color:#111;}
+    ul {margin:0 0 1em; padding:0; list-style-type:none;}
+    li {margin:0 0 .4em 0;}
+    section,
+    .section {margin:0 0 2em 0; padding:0;}
+    .social-links li {margin:0 0 0.5em;}
+  }
   
   .social-links {
     i {display:inline-block; vertical-align:top; width:16px; height:16px; margin-right:2px; background:url(images/icons-social.png) 0 0 no-repeat;}
@@ -66,21 +67,23 @@
     a:hover {text-decoration:none; background-color:#eee; box-shadow:inset 0 1px rgba(100,100,100,0.1);}
   }
 
-  .conferences {width:80%; margin:2em 0;}
-    .conferences li {margin:1em 0 2em;}
-    .conferences img {clear:both; display:block; margin:1em auto; max-width:100%;}
-    .conferences .date {font-weight:bold;}
-    .conferences a {display:block; width:100%;}
-    .conferences b {display:block; color:$link_color; font-weight:bold; font-size:1.4em; line-height:1.1em;}
+  .conferences {width:80%; margin:2em 0;
+    li {margin:1em 0 2em;}
+    img {clear:both; display:block; margin:1em auto; max-width:100%;}
+    .date {font-weight:bold;}
+    a {display:block; width:100%;}
+    b {display:block; color:$link_color; font-weight:bold; font-size:1.4em; line-height:1.1em;}
+  }
     
     .heweb img {margin:1em 0;}
 
   /* FOOTER
      ----------------------------------------------------*/
-  .site-footer {padding:10px 0; padding:20px 0; margin:30px 0 0; border-top:1px solid #999; clear:both; text-align:center;}
-  .site-footer p {line-height:1.5; color:#777;}
-  .site-footer .social-links ul {margin:0; padding:0;}
-  .site-footer .social-links li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0; padding:0;}
+  .site-footer {padding:10px 0; padding:20px 0; margin:30px 0 0; border-top:1px solid #999; clear:both; text-align:center;
+    p {line-height:1.5; color:#777;}
+    .social-links ul {margin:0; padding:0;}
+    .social-links li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0; padding:0;}
+  }
   .org a {display:block;}
 
 }
