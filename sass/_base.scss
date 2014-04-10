@@ -17,7 +17,7 @@ html {width:100%; margin:0; padding:0; font-size:100%; overflow-y:scroll; /* @in
 body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; background:#fff url(/css/images/leaves-right.jpg) top right no-repeat; @include background-size(60% auto);}
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
 audio, canvas, video {display:inline-block; *display:inline; *zoom:1;}
-audio:not([controls]) {display:none;}
+audio:not([controls]) {display:none; height:0;}
 [hidden] {display:none;}
 p {margin:0 0 1em;}
 p + p {margin:1em 0;}
@@ -25,6 +25,8 @@ a {color:$link_color; outline:none; -webkit-tap-highlight-color:rgba(220,179,57,
 a:visited {color:#4a3651;}
 a:hover {color:#002b5b}
 a:active {color:#aa272f;}
+a:active,
+a:hover {outline:0;}
 a:focus {outline:thin dotted;}
 ::-moz-selection,
 ::selection {background:#0058cf; color:#fff; text-shadow:none;}
