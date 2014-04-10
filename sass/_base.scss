@@ -84,11 +84,12 @@ h2.byline {margin:0 0 1em; font-size:1em; font-family:Helvetica, Verdana, Arial,
 .meta {margin:1em 0; font-style:italic;}
 
 pre	{overflow:auto; width:98%; margin:0 0 20px; padding:10px; background:#f9f9f9; border:1px solid #ccc; border-width:1px 0; font-family:monospace;}
-code {font:1.2em 'Courier New', Courier, Fixed;}
-code span.brackets {font-weight:bold;}
-code span.comment {float:none; border:none; color:#999;}
-code span.keywords,
-code span.tag {color:#8c4a1c;}
+code {font:1.2em 'Courier New', Courier, Fixed;
+  span.brackets {font-weight:bold;}
+  span.comment {float:none; border:none; color:#999;}
+  span.keywords,
+  span.tag {color:#8c4a1c;}
+}
 
 code.javascript span.string,
 code.css span.urls,
@@ -121,8 +122,9 @@ acronym, abbr, span.caps {font-size:0.9em; letter-spacing:.07em;}
   h2 {display:none;}
 }
 
-.pagination {margin:0 0 3em; padding:0; list-style:none; font-weight:bold;}
-  .pagination li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0;}
+.pagination {margin:0 0 3em; padding:0; list-style:none; font-weight:bold;
+  li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0;}
+}
 
 .social-links {margin:0; padding:0; list-style:none;
   li {margin:0; padding:0; line-height:1em;}
@@ -134,12 +136,14 @@ acronym, abbr, span.caps {font-size:0.9em; letter-spacing:.07em;}
 /*================================
 Figure & Fig caption
 ==================================*/
-figure {margin:1.5em 0 2em;}
-figure a {border:none;}
+figure {margin:1.5em 0 2em;
+  a {border:none;}
+  blockquote {margin-left:0; border:1px dashed #999; padding:6px; font-style:normal;
+    p {margin:.75em 0; padding:0 1.5em;}
+    p:first-child {text-indent:0;}
+    p:first-child:before {content:'';}
+    p + p {margin-top:1.5em;}
+  }
+  ol, figure ul {margin:.75em 0; padding:0 1.5em;}
+}
 figcaption {margin:.75em 0; text-align:center; font:italic 13px/18px Cambria, Georgia, "Times New Roman", Times, serif;}
-figure blockquote {margin-left:0; border:1px dashed #999; padding:6px; font-style:normal;}
-figure blockquote p {margin:.75em 0; padding:0 1.5em;}
-figure blockquote p:first-child {text-indent:0;}
-figure blockquote p:first-child:before {content:'';}
-figure blockquote p + p {margin-top:1.5em;}
-figure ol, figure ul {margin:.75em 0; padding:0 1.5em;}
