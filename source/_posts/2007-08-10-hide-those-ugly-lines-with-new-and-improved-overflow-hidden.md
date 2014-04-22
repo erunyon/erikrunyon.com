@@ -8,7 +8,7 @@ categories:
 ---
 Ok, so let’s say you’re doing image replacement on an unordered list. Since we’re all good boys and girls here, we include the actual text inside the link tag and spin it off the left of the screen with text-indent. Well if you’re a Firefox user (or test with it), then you may recall seeing the border generated around the navigation and going off the left of the screen (see below).<!-- more -->
 
-<img src="http://weedygarden.net.customers.tigertech.net/wp-content/uploads/2007/08/example.png" title="example.png" alt="example.png" border="0" />
+<img src="/images/2007/08/example.png" title="example.png" alt="example.png" border="0" />
 
 It’s one of those things that I never really thought much about. But last week a co-worker of mine showed me a really simple way of getting rid of those lines. Enter “overflow: hidden”.
 

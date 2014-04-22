@@ -7,7 +7,7 @@ categories:
   - Mobile
   - Web Development
 ---
-[In the last article][1], we made our print stylesheet. Now we’re going to take that stylesheet and turn it into a basic mobile stylesheet. Now when I say basic, I’m talking VERY basic. This is not what you’re displaying to your iPhone and Android users.<!-- more -->
+[In the last article](/2010/01/18/print-styles-your-first-step-to-basic-mobile/), we made our print stylesheet. Now we’re going to take that stylesheet and turn it into a basic mobile stylesheet. Now when I say basic, I’m talking VERY basic. This is not what you’re displaying to your iPhone and Android users.<!-- more -->
 
 ## Copy, Paste and Tweak Your Way to Mobile
 
@@ -31,11 +31,11 @@ Since most of your content images are going to be wider than the screens of most
 
 One of the first things a basic mobile user should see on your page (either immediately preceding or following the header) is skip links. This is a list of anchor tags to key elements on your page. At a minimum, it should include links to navigation and content. As an added bonus, these links are helpful to screen readers as well. Be sure to hide this list in your print and screen stylesheets.
 
-When it comes to body copy on the web, there has been a long-standing serif vs sans-serif debate. As a personal preference, I usually go with sans-serif for screen body copy (serif for titles), and serif for print. If you look at my [print stylesheet][2], you’ll see the following font stack:
+When it comes to body copy on the web, there has been a long-standing serif vs sans-serif debate. As a personal preference, I usually go with sans-serif for screen body copy (serif for titles), and serif for print. If you look at my print stylesheet, you’ll see the following font stack:
 
 <pre>Georgia, Times, "Times New Roman", serif</pre>
 
-For screen and [basic mobile][3], I’m using:
+For screen and basic mobile, I’m using:
 
 <pre>"Lucida Grande", Lucida, Helvetica, Arial, sans-serif</pre>
 
@@ -51,7 +51,3 @@ Two of the easiest way to test your newly crafted mobile view:
 * Switching your style view if Firefox using the <a href="http://chrispederick.com/work/web-developer/">Web Developer extension</a>. (CSS > Display CSS By Media Type)
 
 </div>
-
- [1]: /2010/01/18/print-styles-your-first-step-to-basic-mobile/
- [2]: /wp-content/themes/weedy-beta/css/print.css
- [3]: /wp-content/themes/weedy-beta/css/mobile.css

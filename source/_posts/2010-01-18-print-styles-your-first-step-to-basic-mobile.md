@@ -33,7 +33,7 @@ Next up are links. Links in your content are part of the story. Be sure to inclu
 
 <pre>#content a:link:after {content:" [" attr(href) "] "; font-size:90%;}</pre>
 
-Setting up a print stylesheet is not a difficult undertaking and should be part of every design. It's a great way to help your users. If you're curious, you can [view the print stylesheet for this site][3] to see how little css it takes to achieve a basic print style.
+Setting up a print stylesheet is not a difficult undertaking and should be part of every design. It's a great way to help your users. <strike>If you're curious, you can [view the print stylesheet for this site][3] to see how little css it takes to achieve a basic print style</strike>.
 
 ## Other Resources
 
@@ -43,8 +43,8 @@ Setting up a print stylesheet is not a difficult undertaking and should be part 
 
 If you're a higher-ed developer, you can find some higher-ed specifics:
 
-*   [Don't lose your identity ñ Create an effective print style sheet][7]
-*   [Print Stylesheets ‚Äì University Web Developers][8]
+*   [Don't lose your identity - Create an effective print style sheet][7]
+*   [Print Stylesheets‚ University Web Developers][8]
 
 ** By default, browsers don't print background colors or images. Here's a section of the print dialog in Firefox. Note that these check boxes are off by default.* ![Print Dialog][9]
 
