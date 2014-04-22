@@ -23,7 +23,7 @@ This was by far the easiest of the two. But first, let’s look at why it’s no
 
 I’m not going to go too in-depth here. You can [view the CSS for yourself][3]. As you can see, there’s not a lot there. For the most part I just removed some widths and allowed the site list to rise above the data. I’ll probably do more work on this in future to accommodate the upcoming 8″ iPad, but it’s possible this version will work fine.
 
-<img class="alignnone size-full wp-image-331 noborder" title="Before and after layout adjustments" src="/wp-content/uploads/2012/07/gauges-side-by-side.jpg" alt="Before and after layout adjustments" />
+<img class="alignnone size-full wp-image-331 noborder" title="Before and after layout adjustments" src="/images/2012/gauges-side-by-side.jpg" alt="Before and after layout adjustments" />
 
 ## How to Use
 
