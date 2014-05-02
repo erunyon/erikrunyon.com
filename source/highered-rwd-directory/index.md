@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-04-08**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-05-02**.
 
 ## A
 
@@ -98,6 +98,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## F
 
 * [Florida International University](http://fiu.edu)
+* [Fairfield University](http://www.fairfield.edu/)
 * [Fulton-Montgomery Community College](http://www.fmcc.edu/)
 
 ## G
@@ -105,11 +106,13 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Gettysburg College](http://www.gettysburg.edu/)
 * [Georgetown College](http://www.georgetowncollege.edu/) _*[Adaptive](#adaptive)_
 * [Glamorgan, University of](http://www.glam.ac.uk/)
+* [Goodwin College](http://www.goodwin.edu/)
 * [Governors State University](http://govst.edu/)
 * [Grand Valley State University](http://gvsu.edu)
 
 ## H
 
+* [Hartford Seminary](http://www.hartsem.edu/)
 * [Harvard University](http://www.harvard.edu/) _*[Adaptive](#adaptive)_
 * [Haverford College](http://www.haverford.edu/) _*[Hybrid](#hybrid)_
 * [Hendrix College](http://www.hendrix.edu)
@@ -187,6 +190,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Osteopathic Medical School](http://www.atsu.edu/) _*[Adaptive](#adaptive)_
 * [Oswego, State University of New York at](http://oswego.edu/) _*[Hybrid](#hybrid)_
 * [Otago, University of](http://www.otago.ac.nz/) _*[Adaptive](#adaptive)_
+* [Oxford, University of](http://www.ox.ac.uk/)
 * [Oxford Brookes University](http://www.brookes.ac.uk/)
 
 ## P
@@ -212,6 +216,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## S
 
 * [Sacred Heart University](http://www.sacredheart.edu/)
+* [St. John's College](http://www.sjc.edu/)
 * [Saint Joseph, University of](http://www.usj.edu/)
 * [Scranton, The University of](http://www.scranton.edu/)
 * [Seminole State College](http://www.seminolestate.edu/)
@@ -268,6 +273,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Webster University](http://webster.edu)
 * [West Chester University](http://wcupa.edu/)
 * [West Virginia University](http://wvu.edu)
+* [Western Connecticut State University](http://www.wcsu.edu/)
 * [Whittier College](http://www.whittier.edu/)
 * [William Carey University](http://www.wmcarey.edu/) _*[Adaptive](#adaptive)_
 * [William & Mary](http://www.wm.edu/)
