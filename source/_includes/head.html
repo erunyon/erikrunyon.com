@@ -1,5 +1,6 @@
 {% if page.description %}{% assign meta_description = page.description %}{% else %}{% assign meta_description = site.description %}{% endif %}
 {% if page.title %}{% capture meta_title %}{{ page.title }} | {{ site.title }}{% endcapture %}{% else %}{% assign meta_title = site.title %}{% endif %}
+{% if page.image %}{% capture meta_image %}{{ site.url }}/{{ page.image }}{% endcapture %}{% else %}{% capture meta_image %}{{ site.url }}"/css/images/webclip-144.png" %}{% endcapture %}{% endif %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +20,7 @@
   <meta property="og:description" content="{{ meta_description }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ canonical }}">
-  <meta property="og:image" content="{{ site.url }}/css/images/webclip-144.png">
+  <meta property="og:image" content="{{ meta_image }}">
   <meta property="og:locale" content="en_US">
   <link href="{{ root_url }}/favicon.png" rel="icon">
   <link rel="apple-touch-icon" href="/css/images/webclip-57.png">
