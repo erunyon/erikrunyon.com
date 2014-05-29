@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-05-27**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-05-28**.
 
 ## A
 
@@ -28,7 +28,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Baylor University](http://www.baylor.edu/)
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
 * [Beloit College](http://www.beloit.edu/)
-* [Benedictine University]()
+* [Benedictine University](http://www.ben.edu/)
 * [Binghamton University](http://www.binghamton.edu/) _*[Adaptive](#adaptive)_
 * [Birmingham City University](http://www.bcu.ac.uk/) _*[Adaptive](#adaptive)_
 * [Black Hills State University](http://www.bhsu.edu/)
@@ -39,6 +39,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Bob Jones University](http://bju.edu)
 * [Boise State University](http://www.boisestate.edu/) _*[Adaptive](#adaptive)_
 * [Bowling Green State University](http://www.bgsu.edu/)
+* [Bucknell University](http://www.bucknell.edu/) _*[Adaptive](#adaptive)_
 
 ## C
 
@@ -232,6 +233,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [South Dakota State University](http://www.sdstate.edu/) _*[Adaptive](#adaptive)_
 * [South Florida, University of](http://www.usf.edu/)
 * [South Wales, The University of](http://www.southwales.ac.uk/)
+* [Southeast Missouri State University](http://www.semo.edu/) _*[Adaptive](#adaptive)_
 * [Southern Indiana, University of](http://www.usi.edu/)
 * [Southern Methodist University ](http://smu.edu)
 * [Southern State Community College](http://sscc.edu/)
@@ -259,6 +261,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [UCLA](http://ucla.edu/)
 * [UNC Charlotte](http://uncc.edu)
 * [Union College](http://www.unionky.edu/)
+* [Utah, The University of](http://www.utah.edu/)
 * [Utah Valley University](http://www.uvu.edu/)
 
 ## V
