@@ -65,7 +65,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Colorado Boulder, University of](http://colorado.edu)
 * [Colorado Christian University](http://www.ccu.edu/) _*[Adaptive](#adaptive)_
 * [Colorado College](http://coloradocollege.edu)
-* [Columbia College]()
+* [Columbia College](http://www.columbiacollege.ca/)
 * [Concordia College](http://www.concordiacollege.edu/) _*[Adaptive](#adaptive)_
 * [Concordia University Irvine](http://www.cui.edu/)
 * [Connecticut State Colleges & Universities](http://ct.edu/)
@@ -143,7 +143,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Lawrence University](http://www.lawrence.edu/)
 * [Leicester, University of](http://www.le.ac.uk/) _*[Hybrid](#hybrid)_
 * [Lesley University](http://www.lesley.edu/)
-* [Lewis-Clark State College]()
+* [Lewis-Clark State College](http://www.lcsc.edu/)
 * [Lewis University](http://lewisu.edu/)
 * [Lipscomb University](http://www.lipscomb.edu/)
 * [Louisiana College](http://www.lacollege.edu/) _*[Adaptive](#adaptive)_
@@ -240,7 +240,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Spring Arbor University](http://www.arbor.edu/)
 * [St Paul’s School](http://www.stpaulsschool.org.uk/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
-* [Stevenson University]()
+* [Stevenson University](http://www.stevenson.edu/)
 * [Stonehill College](http://www.stonehill.edu/)
 * [Suffolk University](http://www.suffolk.edu/)
 * [Surrey, University of](http://www.surrey.ac.uk/)
