@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-05-28**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-06-03**.
 
 ## A
 
@@ -69,6 +69,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Concordia College](http://www.concordiacollege.edu/) _*[Adaptive](#adaptive)_
 * [Concordia University Irvine](http://www.cui.edu/)
 * [Connecticut State Colleges & Universities](http://ct.edu/)
+* [Cornell University](http://www.cornell.edu/)
 * [Crowley's Ridge College](http://www.crc.edu/) _*[Adaptive](#adaptive)_
 
 ## D
