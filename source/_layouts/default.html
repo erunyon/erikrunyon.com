@@ -23,16 +23,6 @@
     {% include navigation.html %}
     {% include social_links.html %}
 
-    <section class="conferences">
-      <h2>Upcoming Conferences</h2>
-      <nav>
-        <ul>
-          <li><a href="http://2014.highedweb.org/" class="conf-heweb"><span class="date">Oct 19-22</span><b>HighEdWeb</b> Portland, OR</a></li>
-        </ul>
-      </nav>
-      
-    </section>
-
     <form action="{{ site.simple_search }}" method="get" role="search">
       <fieldset>
         <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
@@ -40,6 +30,15 @@
         <input type="submit" value="Search">
       </fieldset>
     </form>
+    
+    <section class="conferences">
+      <h2>Upcoming Conferences</h2>
+      <nav>
+        <ul>
+          <li><a href="http://2014.highedweb.org/" class="conf-heweb"><span class="date">Oct 19-22</span><b>HighEdWeb</b> Portland, OR</a></li>
+        </ul>
+      </nav>
+    </section>
 
     {% if site.blog_index_asides.size %}
       {% include_array blog_index_asides %}
