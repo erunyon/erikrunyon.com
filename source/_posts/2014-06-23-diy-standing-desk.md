@@ -3,7 +3,7 @@ layout: post
 title: "DIY Standing Desk"
 date: 2014-06-23
 categories: [DIY, Hardware]
-published: false
+published: true
 ---
 I like to stand. Not for any specific reason, just in general. If I'm left to my own devices when eating at home, I'll stand in the kitchen or walk around the house while eating (much to wife's chagrin). Pretty much anywhere I can get away with standing over sitting, I will. Maybe it's because for my entire professional career, I've had to sit for 8-10 hours every day, that when I wasn't "at a computer", I opted to stand. So four years ago when I started [reading about the health benefits of standing](http://lmgtfy.com/?q=the+benefits+of+a+standing+desk), I took to it immediately.<!-- more -->
 
