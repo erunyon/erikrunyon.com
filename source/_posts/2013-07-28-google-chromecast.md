@@ -2,7 +2,7 @@
 layout: post
 title: "Google Chromecast"
 date: 2013-07-28
-categories: [Review, RWD]
+categories: [Review, RWD, Hardware]
 ---
 I'm a big fan of the AppleTV, so when Google announced the [Chromecast](http://www.google.com/intl/en/chrome/devices/chromecast/) for $35, I was immediately intrigued. The first thing you need to know is that it will not replace your AppleTV (if you have one). It has nowhere near the features of Apple's $99 hobby device, but that doesn't mean it's not interesting.
 

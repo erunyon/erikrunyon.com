@@ -3,8 +3,7 @@ title: RSI and the Magic Trackpad
 author: Erik Runyon
 layout: post
 permalink: /2011/01/rsi-and-the-magic-trackpad/
-categories:
-  - Apple
+categories: [Apple, Hardware]
 ---
 Repetitive Stress Injury (RSI) and I are long-time enemies. For me, it manifests as pain from the wrist of my right hand moving up to near the elbow. This started my senior year of college. Near the end of graduation I picked up my first ergonomic keyboard (an Adesso model) that followed me to my first post-college job as an audio engineer. Since those early days I’ve tried a half-dozen or so split keyboards and wide variety of ergonomic Logitech mice, all the while searching for that magical combination that would reduce or eliminate the aches and pains that is RSI.<!-- more -->
 
