@@ -1,0 +1,30 @@
+---
+layout: post
+title: "DIY Standing Desk"
+date: 2014-06-23
+categories: [DIY, Hardware]
+published: false
+---
+I like to stand. Not for any specific reason, just in general. If I'm left to my own devices when eating at home, I'll stand in the kitchen or walk around the house while eating (much to wife's chagrin). Pretty much anywhere I can get away with standing over sitting, I will. Maybe it's because for my entire professional career, I've had to sit for 8-10 hours every day, that when I wasn't "at a computer", I opted to stand. So four years ago when I started [reading about the health benefits of standing](http://lmgtfy.com/?q=the+benefits+of+a+standing+desk), I took to it immediately.<!-- more -->
+
+Luckily, about that same time, our department at work was in the middle of an office redesign. After a considerable amount of coercion and research to justify the extra cost, I convinced the redesign committee to invest in adjustable desks for the web team area. The desks we chose have hydraulics operated by a lever for easy adjustment. This allows us to quickly switch between standing and sitting. When we finally moved into our newly remodeled offices, I immediately fell in love with standing at my desk. In fact, I stood so often while working that one day when I sat for a couple of hours, three people at different times throughout the day asked if I was "ok". So while I had a nice setup at work, my desk at home was still a sitting desk. I cobbled together a number of Frankenstein setups throughout the years, but nothing that I really liked. So when we moved to a new home just over a year ago, I decided to try my hand at building something that would better suit my personal setup, while not costing an arm and a leg.
+
+## The Setup
+
+<figure class="alignright"><img src="/images/2014/desk-fig1.jpg" alt="Horizontal hang track and vertical track"><figcaption>Fig. 1</figcaption></figure>
+
+I decided to use the bones of a typical closet organization system to create my new setup. If you've spent any time in a big-box home improvement store, you'll be familiar with the dual track shelf system. I started with a 40" hang track (fig. 1) which runs about $14. This is an important piece as the vertical tracks (also fig. 1) will not necessarily line up to studs at each spot where you'll want one. By using the hang track, you can then hang as many vertical tracks as you need wherever you need them. For my setup, I'm using three 6' vertical tracks that run about $6 each, and one 4' track. I used four because I was planning on getting creative with the layout of the shelves, but if you simply need full-length shelves for each level, you can get by with just two.
+
+Next comes the shelves. I currently have four shelves. An upper shelf for books on two 9" brackets ($2/each) and a lower shelf, that's about knee high, on the same size brackets that holds my power strip, two external hard-drives and sub-woofer. For the monitor shelf I'm using 11" brackets ($2.50/each), and for the keyboard shelf 14" brackets ($3/each). So as far as hardware is concerned, I spent approximately $55. For the shelves, I dug through my garage for scrap plywood. Luckily I'm enough of a pack-rat I was able to find enough pieces that fit sizes I needed. Perhaps not the most elegant solution, but it's allowed me to work with the space long enough, that when I do decide to replace the first round of shelves with nicer boards, I'll know exactly which sizes I'll need.
+
+<figure class="alignright"><img src="/images/2014/desk-fig2.jpg" alt="One inch gap between shelf and channel"><figcaption>Fig. 2</figcaption></figure>
+
+The advantage with this setup, is the track system allows for easy modification to the height of the various shelves in 1.25" increments. Not as fine-grained as you can achieve with a hydraulic desk, but still pretty decent. One thing to keep in mind when attaching the boards to the brackets is that you'll want to leave approximately a 1" gap between the edge of the board and the track (fig. 2). Otherwise you'll need to unscrew the boards from the brackets each time you want to adjust the height to try a modified setup. This is probably only going to be important in the early stages as it may take some time to get all shelves to the height that's most comfortable, and may take some trial and error. It's also helpful to research best practices for keyboard and monitor height as those two settings can make a big difference in the comfort of your standing desk experience. I plan on adding a couple more shelves to my current setup (fig. 3) when I find the time. When I replace the monitor shelf with the final board, I plan on making it longer to accomdate a third monitor.
+
+## The Extras
+
+<figure class="alignright"><img src="/images/2014/desk-fig3.jpg" alt=""><figcaption>Fig. 3</figcaption></figure>
+
+You'll want to invest in a good standing/anti-fatigue mat. It will make a big difference in how long you can stand before getting sore. You'll also want to find a stool that, when coupled with the final height of your keyboard shelf, provides a good ergonomic level. Let's face it, even those of us that actually enjoy standing need to sit at times. In fact, some studies suggest alternating between standing and sitting may be better than standing the whole day anyway. Lastly, keep in mind that if you're new to standing desks, don't force yourself to stand longer than is comfortable. Many people have to work their way up to being able to stand for multiple hours while working at a computer. Listen to your body. Also, I'm not a doctor, so talk to yours if you have questions about whether or not you should use a standing desk.
+
+Lastly, if you've created your own DIY standing desk, or if you've seen one elsewhere that you find interesting, please leave a comment below.
