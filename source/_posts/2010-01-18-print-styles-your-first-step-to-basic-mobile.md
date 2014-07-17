@@ -39,7 +39,7 @@ Setting up a print stylesheet is not a difficult undertaking and should be part 
 
 *   [Printing Web documents and CSS][4]
 *   [CSS-Tricks Finally Gets A Print Stylesheet | CSS-Tricks][5]
-*   [printFancy][6]
+*   <strike>[printFancy][6]</strike>
 
 If you're a higher-ed developer, you can find some higher-ed specifics:
 
@@ -48,7 +48,7 @@ If you're a higher-ed developer, you can find some higher-ed specifics:
 
 ** By default, browsers don't print background colors or images. Here's a section of the print dialog in Firefox. Note that these check boxes are off by default.* ![Print Dialog][9]
 
- [1]: /2010/01/02/when-m-dot-is-not-an-option/
+ [1]: /2010/01/when-m-dot-is-not-an-option/
  [2]: /images/2010/print-full.png "View Print Style"
  [3]: /wp-content/themes/weedy-beta/css/print.css
  [4]: http://css-discuss.incutio.com/?page=PrintStylesheets

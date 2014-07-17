@@ -18,7 +18,7 @@ So what do you get with the app? Well that depends. Almost all of the features a
 
 If you decide to become a paid subscriber ([see the Features page for a handy table](http://uri.lv/features)) you get all the free features with the addition of Weekly Analytics, Display tracking, Clicks tracking, Emails and Webhooks, and a Full JSON API (vs a JSON file on free accounts). I'm still on the free tier, but depending on what I decide to do with the API, I'll probably buy the subscription soon. At $24/year, its really a no-brainer. Besides, paying for a valuable service is a good way to ensure it sticks around.
 
-So as I mentioned, I'm still pretty new to the service, but it looks very promising. What I think will be really interesting is to see what happens to RSS reader traffic when Google Reader dies this summer. Right now "Feedfetcher-Google" is the easily number one in my list of RSS readers. Let's hope people find a good alternative. For the record, I've switched to [Feedly](feedly.com).
+So as I mentioned, I'm still pretty new to the service, but it looks very promising. What I think will be really interesting is to see what happens to RSS reader traffic when Google Reader dies this summer. Right now "Feedfetcher-Google" is the easily number one in my list of RSS readers. Let's hope people find a good alternative. For the record, I've switched to [Feedly](http://feedly.com).
 
 ## Update 2013-04-21
 

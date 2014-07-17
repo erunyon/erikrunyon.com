@@ -165,10 +165,10 @@ I’m ok with this list, although I think it’s missing important access keys, 
       <a href="http://en.wikipedia.org/wiki/Access_key">Wikipedia – Access Keys</a>
     </li>
     <li>
-      <a href="http://www.direct.gov.uk/en/Hl1/Help/DG_020463">Directgov – Access key scheme</a>
+      <a href="http://webarchive.nationalarchives.gov.uk/20121015000000/http://www.direct.gov.uk/en/Hl1/Help/DG_020463">Directgov – Access key scheme</a>
     </li>
   </ul>
 </div>
 
- [1]: http://www.direct.gov.uk/en/Hl1/Help/DG_020463
+ [1]: http://webarchive.nationalarchives.gov.uk/20121015000000/http://www.direct.gov.uk/en/Hl1/Help/DG_020463
  [2]: http://en.wikipedia.org/wiki/Access_key

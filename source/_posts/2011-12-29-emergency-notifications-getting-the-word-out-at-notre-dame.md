@@ -46,7 +46,7 @@ Level Two:
 The huge advantage to this approach is that we can display emergency information on dozens (soon to be hundreds) of Notre Dame sites by changing a single file. The script to display the message is available to all Notre Dame developers to include in their sites, and is a simple cut-and-paste install.
 
  [1]: http://twitter.com/chasgrundy
- [2]: http://grundyhome.com/2010/11/18/emergencies-and-web-design/
+ [2]: http://grundyhome.com/blog/archives/2010/11/18/emergencies-and-web-design/
  [3]: http://emergency.nd.edu
  [4]: http://grundyhome.com/blog/archives/2010/11/18/emergencies-and-web-design/
  [5]: /images/2011/notice-nd.jpg "ND.edu in Notification mode"

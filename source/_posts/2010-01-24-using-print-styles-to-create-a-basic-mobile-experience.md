@@ -7,7 +7,7 @@ categories:
   - Mobile
   - Web Development
 ---
-[In the last article](/2010/01/18/print-styles-your-first-step-to-basic-mobile/), we made our print stylesheet. Now we’re going to take that stylesheet and turn it into a basic mobile stylesheet. Now when I say basic, I’m talking VERY basic. This is not what you’re displaying to your iPhone and Android users.<!-- more -->
+[In the last article](/2010/01/print-styles-your-first-step-to-basic-mobile/), we made our print stylesheet. Now we’re going to take that stylesheet and turn it into a basic mobile stylesheet. Now when I say basic, I’m talking VERY basic. This is not what you’re displaying to your iPhone and Android users.<!-- more -->
 
 ## Copy, Paste and Tweak Your Way to Mobile
 

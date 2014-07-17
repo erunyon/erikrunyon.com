@@ -5,7 +5,7 @@ date: 2014-02-20
 categories: [Web Development, RWD]
 published: true
 ---
-A photo from [BDConf San Diego (July 2013)](https://bdconf.com/events/2013/San%20Diego/) has popped up [here](https://twitter.com/Brett_FM/status/359372438129233920) and [there](https://twitter.com/mj3ns/status/359411090603528192) on the web in the months following, most recently in An Event Apart [Flickr](http://www.flickr.com/photos/zeldman/12637861493/in/pool-aeaatlanta14) [set](http://www.flickr.com/photos/zeldman/12637727195/in/pool-aeaatlanta14). Quite often, as in this case, it is lacking context around what's actually being depicted. The photo shows a responsive website printed out at the width of an iPhone. The reason it's notable is because the result is a rather long website. However, this depiction of the site doesn't actually get served to mobile devices.<!--more-->
+A photo from [BDConf San Diego (July 2013)](http://bdconf.com/events/san-diego-2013/) has popped up [here](https://twitter.com/Brett_FM/status/359372438129233920) and [there](https://twitter.com/mj3ns/status/359411090603528192) on the web in the months following, most recently in An Event Apart [Flickr](http://www.flickr.com/photos/zeldman/12637861493/in/pool-aeaatlanta14) [set](http://www.flickr.com/photos/zeldman/12637727195/in/pool-aeaatlanta14). Quite often, as in this case, it is lacking context around what's actually being depicted. The photo shows a responsive website printed out at the width of an iPhone. The reason it's notable is because the result is a rather long website. However, this depiction of the site doesn't actually get served to mobile devices.<!--more-->
 
 <figure class="alignright">
   <a href="https://twitter.com/lukew/status/359375570569687040">

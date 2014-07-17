@@ -106,7 +106,7 @@ I realize that some people style a certain way due to the editor used when cutti
 
 One final note. This site was styled prior to my metamorphasis with a lot of WordPress styles rolling over, so yes, it's in the old style, and probably will be for quite some time.
 
- [1]: /2007/07/17/enter-the-monkey-wrench/
+ [1]: /2007/07/enter-the-monkey-wrench/
  [2]: http://boagworld.com
  [3]: http://simplebits.com
  [4]: http://meyerweb.com/

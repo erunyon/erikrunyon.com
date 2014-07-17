@@ -11,5 +11,7 @@ Back when I first started with Rails, I noticed there were a lot of times I just
 
 The folks over at [Rails for PHP Developers][2] have a pretty good start on content, especially for Array, String and Filesystem functions. The feature I was planning on, which I am not seeing their site, is a way for the community to contribute. Even if it were heavily moderated, I think it would be a boon for the site to flesh out its reference much more quickly.
 
+*Update:* The "Rails for PHP Developers" site appears to no longer exist.
+
  [1]: http://railsforphp.com/reference/ "Rails for PHP Developers"
  [2]: http://railsforphp.com "Rails for PHP Developers"
