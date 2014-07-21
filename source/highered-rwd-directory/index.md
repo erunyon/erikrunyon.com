@@ -95,6 +95,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Earlham College](http://www.earlham.edu/) _*[Hybrid](#hybrid)_
 * [Eastern Kentucky University](http://www.eku.edu/)
+* [Edge Hill University](http://www.edgehill.ac.uk/)
 * [Edgewood College](http://edgewood.edu)
 
 ## F
@@ -152,6 +153,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## M
 
+* [Manchester, The University of](http://www.manchester.ac.uk/)
 * [Maranatha Baptist Bible College](http://www.mbbc.edu/)
 * [Marian University](http://www.marianuniversity.edu/)
 * [Marquette University](http://www.marquette.edu/)
@@ -173,12 +175,15 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## N
 
-* [Nebraska – Lincoln, University  of](http://unl.edu)
+* [Nazareth College](https://www2.naz.edu/)
+* [Nebraska – Lincoln, University of](http://unl.edu)
 * [Nebraska Omaha, University of](http://www.unomaha.edu/)
 * [Nevada, Reno, University of](http://www.unr.edu/) _*[Adaptive](#adaptive)_
 * [New Mexico State University](http://www.nmsu.edu/) _*[Adaptive](#adaptive)_
 * [New York, State University of](http://www.suny.edu/)
 * [Nicholls State University](http://www.nicholls.edu/) _*[Adaptive](#adaptive)_
+* [Nichols College](http://www.nichols.edu/)
+* [Northeastern Illinois University](http://neiu.edu/)
 * [Northern Iowa, University of](http://www.uni.edu/) _*[Adaptive](#adaptive)_
 * [Notre Dame, University of](http://nd.edu/)
 
@@ -225,6 +230,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Seminole State College](http://www.seminolestate.edu/)
 * [Sewanee](http://www.sewanee.edu/)
 * [Sheridan College](http://www.sheridancollege.ca/)
+* [Shimer College](http://www.shimer.edu/)
 * [Sierra Nevada College](http://www.sierranevada.edu/) _*[Hybrid](#hybrid)_
 * [Simon Fraser University](http://www.sfu.ca/)
 * [Simpson College](http://simpson.edu/) _*[Adaptive](#adaptive)_
@@ -267,6 +273,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## V
 
+* [Vanguard University](http://www.vanguard.edu/)
 * [Vermont, University of](http://www.uvm.edu/)
 * [Virginia Commonwealth University](http://www.vcu.edu/)
 
