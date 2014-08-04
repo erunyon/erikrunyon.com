@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-07-21**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-08-04**.
 
 ## A
 
@@ -97,6 +97,10 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Eastern Kentucky University](http://www.eku.edu/)
 * [Edge Hill University](http://www.edgehill.ac.uk/)
 * [Edgewood College](http://edgewood.edu)
+* [Embry-Riddle Aeronautical University](http://www.erau.edu/)
+* [Embry-Riddle Aeronautical University - Daytona Beach Campus](http://daytonabeach.erau.edu/)
+* [Embry-Riddle Aeronautical University - Prescott Arizona Campus](http://prescott.erau.edu/)
+* [Embry-Riddle Aeronautical University - Worldwide Campus](http://worldwide.erau.edu/)
 
 ## F
 
@@ -123,6 +127,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## I
 
+* [Illinois Springfield, University of](http://www.uis.edu/)
+* [Indiana University-Purdue University Indianapolis](http://www.iupui.edu/)
 * [Indiana Wesleyan University](http://www.indwes.edu/)
 * [Iowa, The University of](http://www.uiowa.edu/)
 * [Irvine, California, University of](http://uci.edu/)
