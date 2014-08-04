@@ -1,3 +1,5 @@
+ErrorDocument 404 /404.html
+
 # 1 YEAR
 <filesMatch ".(ico|pdf|flv)$">
   Header set Cache-Control "max-age=29030400, public"
