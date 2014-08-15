@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-08-04**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-08-15**.
 
 ## A
 
@@ -128,7 +128,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## I
 
 * [Illinois Springfield, University of](http://www.uis.edu/)
-* [Indiana University-Purdue University Indianapolis](http://www.iupui.edu/)
+* [Indiana University - Purdue University Indianapolis](http://www.iupui.edu/)
+* [Indiana University - South Bend](https://www.iusb.edu/)
 * [Indiana Wesleyan University](http://www.indwes.edu/)
 * [Iowa, The University of](http://www.uiowa.edu/)
 * [Irvine, California, University of](http://uci.edu/)
@@ -175,6 +176,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Missouri, University of](http://missouri.edu/) _*[Adaptive](#adaptive)_
 * [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
 * [Mobile, University of](http://www.umobile.edu/)
+* [Montana State University](http://www.montana.edu/)
 * [Moore College of Art & Design](http://moore.edu/)
 * [Morningside College](http://morningside.edu/)
 * [Mount St. Joseph, College of](http://msj.edu)
