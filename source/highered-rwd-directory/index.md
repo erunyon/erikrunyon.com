@@ -5,12 +5,13 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-08-15**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-08-23**.
 
 ## A
 
 * [Adams State University](http://adams.edu/)
 * [Alabama at Birmingham, The University of](http://www.uab.edu/)
+* [Alabama in Huntsville, The University of](http://www.uah.edu/)
 * [Alaska Fairbanks, University of](http://www.uaf.edu/) _*[Adaptive](#adaptive)_
 * [Alberta, University of](http://www.ualberta.ca/)
 * [Allegheny College](http://allegheny.edu/)
@@ -43,6 +44,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## C
 
+* [California State University Channel Islands](http://www.csuci.edu/)
 * [California, University of, Irvine](http://www.uci.edu/)
 * [California, San Diego, University of](http://www.ucsd.edu/)
 * [Calvin College](http://www.calvin.edu/)
@@ -97,6 +99,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Eastern Kentucky University](http://www.eku.edu/)
 * [Edge Hill University](http://www.edgehill.ac.uk/)
 * [Edgewood College](http://edgewood.edu)
+* [Elon University](http://www.elon.edu/)
 * [Embry-Riddle Aeronautical University](http://www.erau.edu/)
 * [Embry-Riddle Aeronautical University - Daytona Beach Campus](http://daytonabeach.erau.edu/)
 * [Embry-Riddle Aeronautical University - Prescott Arizona Campus](http://prescott.erau.edu/)
@@ -191,6 +194,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [New York, State University of](http://www.suny.edu/)
 * [Nicholls State University](http://www.nicholls.edu/) _*[Adaptive](#adaptive)_
 * [Nichols College](http://www.nichols.edu/)
+* [NC State University](http://www.ncsu.edu/)
 * [Northeastern Illinois University](http://neiu.edu/)
 * [Northern Iowa, University of](http://www.uni.edu/) _*[Adaptive](#adaptive)_
 * [Notre Dame, University of](http://nd.edu/)
@@ -225,6 +229,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Regent College](http://www.regent-college.edu/)
 * [Rhode Island, University of](http://uri.edu)
 * [Rice University](http://www.rice.edu)
+* [Roberts Wesleyan College](http://www.roberts.edu/)
 * [Rochester, University of](http://www.rochester.edu/)
 * [Rocky Mountain College of Art and Design](http://www.rmcad.edu/) _*[Hybrid](#hybrid)_
 * [Rutgers](http://www.rutgers.edu/) _*[Hybrid](#hybrid)_
