@@ -3,8 +3,7 @@ title: Broken Bow.
 author: Erik Runyon
 layout: post
 permalink: /2007/05/broken-bow/
-categories:
-  - General
+categories: [General]
 ---
 First blog post. Ever.
 

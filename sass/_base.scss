@@ -81,7 +81,9 @@ hr {clear:both; width:100%;}
       h1.entry-title a:visited {color:$link_color;}
   .entry footer {clear:both;}
       
-h2.byline {margin:0 0 1em; font-size:1em; font-family:Helvetica, Verdana, Arial, sans-serif;}
+.byline {margin:0 0 1em; font-size:1em; font-family:Helvetica, Verdana, Arial, sans-serif;
+  .time {display:none;}
+}
 .read-more:after {content:' ⋟';}
 .meta {margin:1em 0; font-style:italic;}
 
