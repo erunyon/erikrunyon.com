@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-08-23**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-09-05**.
 
 ## A
 
@@ -13,6 +13,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Alabama at Birmingham, The University of](http://www.uab.edu/)
 * [Alabama in Huntsville, The University of](http://www.uah.edu/)
 * [Alaska Fairbanks, University of](http://www.uaf.edu/) _*[Adaptive](#adaptive)_
+* [Alaska Southeast, University of](http://www.uas.alaska.edu/)
 * [Alberta, University of](http://www.ualberta.ca/)
 * [Allegheny College](http://allegheny.edu/)
 * [American University of Paris, The](http://www.aup.edu/)
