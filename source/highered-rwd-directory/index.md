@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-09-05**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-09-11**.
 
 ## A
 
@@ -69,6 +69,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Colorado Christian University](http://www.ccu.edu/) _*[Adaptive](#adaptive)_
 * [Colorado College](http://coloradocollege.edu)
 * [Columbia College](http://www.columbiacollege.ca/)
+* [Columbia College Chicago](http://www.colum.edu/)
 * [Concordia College](http://www.concordiacollege.edu/) _*[Adaptive](#adaptive)_
 * [Concordia University Irvine](http://www.cui.edu/)
 * [Connecticut State Colleges & Universities](http://ct.edu/)
@@ -143,6 +144,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Jackson State University](http://www.jsums.edu/)
 * [Jefferson Community College](http://www.sunyjefferson.edu/) _*[Adaptive](#adaptive)_
 * [Jefferson State University of New York](http://www.sunyjefferson.edu/) _*[Adaptive](#adaptive)_
+* [Juilliard School, The](http://www.juilliard.edu/) _*[Adaptive](#adaptive)_
 
 ## K
 
