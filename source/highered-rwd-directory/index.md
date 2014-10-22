@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-09-26**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-10-22**.
 
 ## A
 
@@ -25,6 +25,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## B
 
+* [Babson College](http://www.babson.edu/)
 * [Bacone College](http://www.bacone.edu) _*[Adaptive](#adaptive)_
 * [Baptist Missionary Association Theological Seminary](http://bmats.edu) _*[Adaptive](#adaptive)_
 * [Baylor University](http://www.baylor.edu/)
@@ -242,6 +243,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Sacred Heart University](http://www.sacredheart.edu/)
 * [St. John's College](http://www.sjc.edu/)
+* [St. John's University](http://www.stjohns.edu/)
 * [Saint Joseph, University of](http://www.usj.edu/)
 * [Scranton, The University of](http://www.scranton.edu/)
 * [Seminole State College](http://www.seminolestate.edu/)
@@ -292,6 +294,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Vanguard University](http://www.vanguard.edu/)
 * [Vermont, University of](http://www.uvm.edu/)
+* [Villanova University](http://www1.villanova.edu/)
 * [Virginia Commonwealth University](http://www.vcu.edu/)
 
 ## W
@@ -300,10 +303,12 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Washburn University](http://washburn.edu/)
 * [Washington and Lee University](http://www.wlu.edu/)
 * [Wayne State University](http://wayne.edu/)
+* [Weber State University](http://www.weber.edu/)
 * [Webster University](http://webster.edu)
 * [West Chester University](http://wcupa.edu/)
 * [West Virginia University](http://wvu.edu)
 * [Western Connecticut State University](http://www.wcsu.edu/)
+* [Western Michigan University](http://www.wmich.edu/)
 * [Whittier College](http://www.whittier.edu/)
 * [William Carey University](http://www.wmcarey.edu/) _*[Adaptive](#adaptive)_
 * [William & Mary](http://www.wm.edu/)
