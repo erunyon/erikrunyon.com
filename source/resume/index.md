@@ -61,6 +61,7 @@ Associate of Arts, 1995
 - [Conductor](http://conductor.nd.edu/) (Multi-site CMS)
 
 ## Speaking
+- [HighEdWeb 2014](http://2014.highedweb.org/), Oct 2014 (Best of Track winner)
 - [HighEdWeb Michigan](http://mi.highedweb.org/), May, 2014
 - [RWD Summit](http://environmentsforhumans.com/2014/responsive-web-design-summit/), April 2014
 - [Breaking Development Conference - San Diego](http://bdconf.com/2013/san-diego), July 2013
