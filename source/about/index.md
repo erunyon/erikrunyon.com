@@ -5,16 +5,15 @@ layout: default
 ---
 # About
 
-I am the Director of Web Communications and a web developer with Marketing Communications at the [University of Notre Dame](http://www.nd.edu). The postings on this site are my own and do not necessarily represent the views of the University of Notre Dame.
+I am the Director of Web Communications and a web developer with Marketing Communications at the [University of Notre Dame](http://www.nd.edu). The opinions on this site are my own and do not necessarily represent the views of the University of Notre Dame.
 
 ## Upcoming Presentations
-
-- **Taking the Web Offline**, [HighEdWeb 2014](http://2014.highedweb.org/), Oct 2014
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations
 
+- **[Taking the Web Offline](/2014/10/highedweb-2014/)**, [HighEdWeb 2014](http://2014.highedweb.org/), Oct 2014 (Best of Track winner)
 - **[Before the @mq: Making the decisons that make a site responsive](https://speakerdeck.com/erunyon/before-the-at-mq-1)**, [HighEdWeb Michigan](http://mi.highedweb.org/), May 2014
 - **[Before the @mq: Making the decisons that make a site responsive](/2013/07/bdconf-2013/)**, [RWD Summit](http://environmentsforhumans.com/2014/responsive-web-design-summit/), April 2014
 - **[Before the @mq: Making the decisons that make a site responsive](/2013/07/bdconf-2013/)**, [Breaking Development Conference - San Diego](http://bdconf.com/2013/san-diego), July 2013
