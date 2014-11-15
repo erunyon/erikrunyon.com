@@ -5,7 +5,7 @@ bodyclass: "columnlists rwd-directory"
 ---
 # HigherEd RWD Directory
 
-This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-10-22**.
+This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list. **Updated 2014-11-14**.
 
 ## A
 
@@ -28,6 +28,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Babson College](http://www.babson.edu/)
 * [Bacone College](http://www.bacone.edu) _*[Adaptive](#adaptive)_
 * [Baptist Missionary Association Theological Seminary](http://bmats.edu) _*[Adaptive](#adaptive)_
+* [Bates College](http://www.bates.edu/)
 * [Baylor University](http://www.baylor.edu/)
 * [Bedfordshire, University of](http://www.beds.ac.uk/)
 * [Beloit College](http://www.beloit.edu/)
@@ -118,6 +119,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Gettysburg College](http://www.gettysburg.edu/)
 * [Georgetown College](http://www.georgetowncollege.edu/) _*[Adaptive](#adaptive)_
+* [Georgia Southern University](http://www.georgiasouthern.edu/)
 * [Glamorgan, University of](http://www.glam.ac.uk/)
 * [Goodwin College](http://www.goodwin.edu/)
 * [Governors State University](http://govst.edu/)
@@ -154,6 +156,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## L
 
+* [Lake County, College of](http://www.clcillinois.edu/)
 * [Lancaster University](http://www.lancs.ac.uk/)
 * [La Trobe University](http://www.latrobe.edu.au/)
 * [Lawrence University](http://www.lawrence.edu/)
@@ -264,7 +267,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Southern Methodist University ](http://smu.edu)
 * [Southern State Community College](http://sscc.edu/)
 * [Spring Arbor University](http://www.arbor.edu/)
-* [St Paul’s School](http://www.stpaulsschool.org.uk/)
+* [St. Paul’s School](http://www.stpaulsschool.org.uk/)
+* [State University of New York, The](http://www.suny.edu/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
 * [Stevenson University](http://www.stevenson.edu/)
 * [Stonehill College](http://www.stonehill.edu/)
