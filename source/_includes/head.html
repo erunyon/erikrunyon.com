@@ -1,6 +1,6 @@
 {% if page.description %}{% assign meta_description = page.description %}{% else %}{% assign meta_description = site.description %}{% endif %}
 {% if page.title %}{% capture meta_title %}{{ page.title }} | {{ site.title }}{% endcapture %}{% else %}{% assign meta_title = site.title %}{% endif %}
-{% if page.image %}{% capture meta_image %}{{ site.url }}/{{ page.image }}{% endcapture %}{% else %}{% capture meta_image %}{{ site.url }}"/css/images/webclip-144.png" %}{% endcapture %}{% endif %}
+{% if page.image %}{% capture meta_image %}{{ site.url }}/{{ page.image }}{% endcapture %}{% else %}{% capture meta_image %}{{ site.url }}/css/images/webclip-144.png{% endcapture %}{% endif %}
 <!DOCTYPE html>
 <html lang="en">
 <head>

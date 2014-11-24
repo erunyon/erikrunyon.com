@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://weedygarden.net
-domain: weedygarden.net
+url: http://erikrunyon.com
+domain: erikrunyon.com
 title: Erik Runyon
 subtitle: WeedyGarden
 author: Erik Runyon
@@ -17,7 +17,7 @@ description: Home of Erik Runyon. Director of Web Communications and web develop
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://weedygarden.net/atom.xml
+subscribe_rss: http://erikrunyon.com/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
