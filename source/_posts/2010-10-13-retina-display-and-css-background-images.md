@@ -4,7 +4,6 @@ author: Erik Runyon
 layout: post
 permalink: /2010/10/retina-display-and-css-background-images/
 categories:
-  - AgencyND
   - Mobile
   - Notre Dame
   - Web Development

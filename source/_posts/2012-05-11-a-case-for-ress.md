@@ -4,7 +4,6 @@ author: Erik Runyon
 layout: post
 permalink: /2012/05/a-case-for-ress/
 categories:
-  - AgencyND
   - Mobile
   - Notre Dame
   - Web Development

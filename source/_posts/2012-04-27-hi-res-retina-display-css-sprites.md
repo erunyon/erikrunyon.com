@@ -4,7 +4,6 @@ author: Erik Runyon
 layout: post
 permalink: /2012/04/hi-res-retina-display-css-sprites/
 categories:
-  - AgencyND
   - Apple
   - CSS
   - Mobile

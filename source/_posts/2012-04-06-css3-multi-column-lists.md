@@ -4,7 +4,6 @@ author: Erik Runyon
 layout: post
 permalink: /2012/04/css3-multi-column-lists/
 categories:
-  - AgencyND
   - CSS
   - Web Development
 ---

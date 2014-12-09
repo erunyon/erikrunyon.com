@@ -4,7 +4,6 @@ author: Erik Runyon
 layout: post
 permalink: /2011/01/consuming-remote-xml-as-jsonp/
 categories:
-  - AgencyND
   - Mobile
   - PHP
   - Web Development

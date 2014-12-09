@@ -4,7 +4,6 @@ author: Erik Runyon
 layout: post
 permalink: /2012/04/ios5-position-fixed-bug/
 categories:
-  - AgencyND
   - Apple
   - Mobile
   - Notre Dame

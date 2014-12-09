@@ -4,7 +4,6 @@ author: Erik Runyon
 layout: post
 permalink: /2011/12/emergency-notifications-getting-the-word-out-at-notre-dame/
 categories:
-  - AgencyND
   - Mobile
   - Notre Dame
   - Web Development
