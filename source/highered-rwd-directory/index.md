@@ -174,7 +174,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## M
 
 * [Manchester, The University of](http://www.manchester.ac.uk/)
-* [Maranatha Baptist Bible College](http://www.mbbc.edu/)
+* [Maranatha Baptist University](http://www.mbu.edu/)
 * [Marian University](http://www.marianuniversity.edu/)
 * [Marquette University](http://www.marquette.edu/)
 * [Mary Hardin-Baylor, University of](http://www.umhb.edu/)
