@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2014-11-26**
+**Updated 2014-12-21**
 
 ## A
 
@@ -55,6 +55,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Calvin College](http://www.calvin.edu/)
 * [Cambridge, University of](http://www.cam.ac.uk/)
 * [Cameron University](http://www.cameron.edu/)
+* [Capella University](http://www.capella.edu/)
 * [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
 * [Central Arkansas, University of](http://uca.edu)
 * [Central College](http://www.central.edu/) _*[Hybrid](#hybrid)_
@@ -113,8 +114,10 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## F
 
-* [Florida International University](http://fiu.edu)
 * [Fairfield University](http://www.fairfield.edu/)
+* [Florida International University](http://fiu.edu)
+* [Fordham University](http://www.fordham.edu/)
+* [Franklin & Marshall College](http://www.fandm.edu/)
 * [Freed-Hardeman University](http://www.fhu.edu/)
 * [Fulton-Montgomery Community College](http://www.fmcc.edu/)
 
