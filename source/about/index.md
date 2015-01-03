@@ -5,9 +5,11 @@ layout: default
 ---
 # About
 
-I am the Director of Web Communications and a web developer with Marketing Communications at the [University of Notre Dame](http://www.nd.edu). The opinions on this site are my own and do not necessarily represent the views of the University of Notre Dame.
+I am the Director of Web Communications and a web developer with [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](http://www.nd.edu). The opinions on this site are my own and do not necessarily represent the views of the University of Notre Dame.
 
 ## Upcoming Presentations
+
+- **Taking the Web Offline**, [Breaking Development](http://bdconf.com/events/nashville/), June 2015
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
