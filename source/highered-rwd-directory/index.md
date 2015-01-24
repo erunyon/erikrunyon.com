@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2014-12-21**
+**Updated 2015-01-24**
 
 ## A
 
@@ -42,14 +42,17 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Briar Cliff University](http://www.briarcliff.edu/)
 * [Bridgwater College](http://www.bridgwater.ac.uk/)
 * [British Columbia, The University of](http://www.ubc.ca) _*[Hybrid](#hybrid)_
+* [Brown University](http://www.brown.edu/)
 * [Bob Jones University](http://bju.edu)
 * [Boise State University](http://www.boisestate.edu/) _*[Adaptive](#adaptive)_
 * [Bowling Green State University](http://www.bgsu.edu/)
 * [Bucknell University](http://www.bucknell.edu/) _*[Adaptive](#adaptive)_
+* [Bucks County Community College](http://www.bucks.edu/)
 
 ## C
 
-* [California State University Channel Islands](http://www.csuci.edu/)
+* [California State University, Channel Islands](http://www.csuci.edu/)
+* [California State University, Northridge](http://www.csun.edu/)
 * [California, University of, Irvine](http://www.uci.edu/)
 * [California, San Diego, University of](http://www.ucsd.edu/)
 * [Calvin College](http://www.calvin.edu/)
@@ -124,6 +127,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## G
 
 * [Gettysburg College](http://www.gettysburg.edu/)
+* [George Fox University](http://www.georgefox.edu/)
 * [Georgetown College](http://www.georgetowncollege.edu/) _*[Adaptive](#adaptive)_
 * [Georgia Southern University](http://www.georgiasouthern.edu/)
 * [Glamorgan, University of](http://www.glam.ac.uk/)
@@ -137,6 +141,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Harvard University](http://www.harvard.edu/) _*[Adaptive](#adaptive)_
 * [Haverford College](http://www.haverford.edu/) _*[Hybrid](#hybrid)_
 * [Hendrix College](http://www.hendrix.edu)
+* [Heriot-Watt University Edinburgh](http://www.hw.ac.uk/)
 * [Herzing University](http://herzing.edu/)
 
 ## I
@@ -171,6 +176,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Lewis-Clark State College](http://www.lcsc.edu/)
 * [Lewis University](http://lewisu.edu/)
 * [Lipscomb University](http://www.lipscomb.edu/)
+* [Loughborough University](http://www.lboro.ac.uk/)
 * [Louisiana College](http://www.lacollege.edu/) _*[Adaptive](#adaptive)_
 * [Lynn University](http://www.lynn.edu/)
 
