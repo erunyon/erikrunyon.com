@@ -9,6 +9,7 @@ I am the Director of Web Communications and a web developer with [Marketing Comm
 
 ## Upcoming Presentations
 
+- **Title TBD**, [Front End Design Conference](http://frontenddesignconference.com/), May 2015
 - **Taking the Web Offline**, [Breaking Development](http://bdconf.com/events/nashville/), June 2015
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
