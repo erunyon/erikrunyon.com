@@ -70,8 +70,9 @@ I have been notified of other articles pertaining to carousels. [Contact me](/co
 * [**Are homepage carousels effective?**](http://yorkwebteam.blogspot.co.uk/2013/03/are-homepage-carousels-effective-aka.html) Added 2013-04-15
 * [**Should you use an auto-advancing carousel on your home page?**](http://www.lauradhamilton.com/should-you-use-an-auto-advancing-carousel-on-your-home-page) Added 2013-09-20
 * [Why You Should Not Use Image Carousels on Your Website](http://www.smileycat.com/miaow/archives/006605.php) Added 2014-10-07
-* [Image Carousel Click-through Rate Analysis](http://www.smileycat.com/miaow/archives/006606.php) Added 2014-10-07
+* [**Image Carousel Click-through Rate Analysis**](http://www.smileycat.com/miaow/archives/006606.php) Added 2014-10-07
 * [**Designing Effective Carousels: Create a Fanciful Amusement, Not a House of Horrors**: Kara Pernice](http://www.nngroup.com/articles/designing-effective-carousels/) Added 2014-08-23
+* [**An Exploration Of Carousel Usage On Mobile E-Commerce Websites**](http://www.smashingmagazine.com/2015/02/09/carousel-usage-exploration-on-mobile-e-commerce-websites/) Added 2015-02-16
 
  [1]: /images/2013/nd-feature-click-through.png "ND.edu Feature Click-through Rates"
  [2]: /images/2013/click-through-rates.png "Feature Click-through Rates for four ND properties"
