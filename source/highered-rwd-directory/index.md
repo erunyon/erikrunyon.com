@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-02-20**
+**Updated 2015-04-04**
 
 ## A
 
@@ -143,6 +143,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Hendrix College](http://www.hendrix.edu)
 * [Heriot-Watt University Edinburgh](http://www.hw.ac.uk/)
 * [Herzing University](http://herzing.edu/)
+* [High Point University](http://www.highpoint.edu/)
 
 ## I
 
@@ -249,6 +250,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Regent College](http://www.regent-college.edu/)
 * [Rhode Island, University of](http://uri.edu)
 * [Rice University](http://www.rice.edu)
+* [Richland College](http://richlandcollege.edu/)
 * [Roberts Wesleyan College](http://www.roberts.edu/)
 * [Rochester, University of](http://www.rochester.edu/)
 * [Rocky Mountain College of Art and Design](http://www.rmcad.edu/) _*[Hybrid](#hybrid)_
@@ -285,6 +287,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Stevenson University](http://www.stevenson.edu/)
 * [Stonehill College](http://www.stonehill.edu/)
 * [Suffolk University](http://www.suffolk.edu/)
+* [SUNY Cortland](http://www2.cortland.edu/)
 * [Surrey, University of](http://www.surrey.ac.uk/)
 
 ## T
