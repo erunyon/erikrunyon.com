@@ -5,11 +5,11 @@ layout: default
 ---
 # About
 
-I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](http://www.nd.edu). The opinions on this site are my own and do not necessarily represent the views of the University of Notre Dame.
+I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](http://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of the University of Notre Dame.
 
 ## Upcoming Presentations
 
-- **Title TBD**, [Front End Design Conference](http://frontenddesignconference.com/), May 2015
+- **The Modern Web's &lt;img&gt; Problem**, [Front End Design Conference](http://frontenddesignconference.com/), May 2015
 - **Taking the Web Offline**, [Breaking Development](http://bdconf.com/events/nashville/), June 2015
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
