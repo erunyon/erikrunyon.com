@@ -7,6 +7,8 @@ published: true
 ---
 I had the privilege to present at [Front End Design Conference](http://frontenddesignconference.com/) this year. Below are the description and relevant links from the presentation.<!-- more -->
 
+<img src="/images/2015/fedc-small.jpg" srcset="/images/2015/fedc-600w.jpg 600w, /images/2015/fedc-1200w.jpg 1200w" sizes="75vw" alt="Front-End Design Conference: Palladium Theater">
+
 ## The modern web's &lt;img&gt; problem
 We can all agree that web performance is a serious problem that warrants our time and effort. Recent reports indicate that the average website is now over 2MB, with images accounting for over 70% of that weight. But fear not, there are many approaches to alleviating our image problem. We'll look at several real-world examples of how to deal with image overload, as well as some recent additions to modern browsers that will help us in our fight against one-size-fits-all image bloat.
 
