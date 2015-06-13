@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-04-04**
+**Updated 2015-06-12**
 
 ## A
 
@@ -59,6 +59,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Cambridge, University of](http://www.cam.ac.uk/)
 * [Cameron University](http://www.cameron.edu/)
 * [Capella University](http://www.capella.edu/)
+* [Case Western Reserve University](http://www.case.edu/)
 * [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
 * [Central Arkansas, University of](http://uca.edu)
 * [Central College](http://www.central.edu/) _*[Hybrid](#hybrid)_
@@ -81,6 +82,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Concordia College](http://www.concordiacollege.edu/) _*[Adaptive](#adaptive)_
 * [Concordia University Irvine](http://www.cui.edu/)
 * [Connecticut State Colleges & Universities](http://ct.edu/)
+* [Connecticut, University of](http://uconn.edu/)
 * [Cornell University](http://www.cornell.edu/)
 * [Crowley's Ridge College](http://www.crc.edu/) _*[Adaptive](#adaptive)_
 
@@ -152,6 +154,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Indiana University - South Bend](https://www.iusb.edu/)
 * [Indiana Wesleyan University](http://www.indwes.edu/)
 * [Iowa, The University of](http://www.uiowa.edu/)
+* [Iowa State University](http://www.iastate.edu/)
 * [Irvine, California, University of](http://uci.edu/)
 
 ## J
@@ -272,6 +275,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Simpson College](http://simpson.edu/) _*[Adaptive](#adaptive)_
 * [Singapore Management University](http://www.smu.edu.sg/) _*[Adaptive](#adaptive)_
 * [Skidmore College](http://skidmore.edu)
+* [Slippery Rock University](http://www.sru.edu/)
 * [South Carolina, University of](http://www.sc.edu/)
 * [South Dakota State University](http://www.sdstate.edu/) _*[Adaptive](#adaptive)_
 * [South Florida, University of](http://www.usf.edu/)
@@ -299,6 +303,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Tennessee, Knoxville, University of](http://www.utk.edu/)
 * [Tennessee, Martin, University of](http://utm.edu/)
 * [Texas A&M International University](http://www.tamiu.edu/)
+* [Texas at Austin, The University of](http://www.utexas.edu/)
 * [Tougaloo College](http://www.tougaloo.edu/)
 * [Trinity University](http://trinity.edu/)
 
