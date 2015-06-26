@@ -163,6 +163,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Jackson State University](http://www.jsums.edu/)
 * [Jefferson Community College](http://www.sunyjefferson.edu/) _*[Adaptive](#adaptive)_
 * [Jefferson State University of New York](http://www.sunyjefferson.edu/) _*[Adaptive](#adaptive)_
+* [Johns Hopkins University](https://www.jhu.edu/)
 * [Juilliard School, The](http://www.juilliard.edu/) _*[Adaptive](#adaptive)_
 
 ## K
