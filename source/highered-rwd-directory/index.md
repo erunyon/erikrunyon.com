@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-06-12**
+**Updated 2015-06-26**
 
 ## A
 
@@ -116,6 +116,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Embry-Riddle Aeronautical University - Daytona Beach Campus](http://daytonabeach.erau.edu/)
 * [Embry-Riddle Aeronautical University - Prescott Arizona Campus](http://prescott.erau.edu/)
 * [Embry-Riddle Aeronautical University - Worldwide Campus](http://worldwide.erau.edu/)
+* [Evergreen State College, The](http://evergreen.edu/)
 
 ## F
 
@@ -171,6 +172,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## L
 
+* [Lambton College](http://www.lambtoncollege.ca/) _*[Adaptive](#adaptive)_
 * [Lake County, College of](http://www.clcillinois.edu/)
 * [Lancaster University](http://www.lancs.ac.uk/)
 * [La Trobe University](http://www.latrobe.edu.au/)
@@ -281,6 +283,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [South Florida, University of](http://www.usf.edu/)
 * [South Wales, The University of](http://www.southwales.ac.uk/)
 * [Southeast Missouri State University](http://www.semo.edu/) _*[Adaptive](#adaptive)_
+* [Southern Illinios University](http://siu.edu/)
 * [Southern Indiana, University of](http://www.usi.edu/)
 * [Southern Methodist University ](http://smu.edu)
 * [Southern State Community College](http://sscc.edu/)
