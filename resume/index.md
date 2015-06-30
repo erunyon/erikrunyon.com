@@ -8,7 +8,7 @@ bodyclass: "resume"
 ## Career
 **Technical Director: Marketing Communications**<br>
 *University of Notre Dame*<br>
-March 2015-Present
+April 2015 - Present
 
 Manages technical leadership during projects with both internal team members and clients, establishes development plans, and advises and educates regarding all facets of the development process. This requires hands-on coding and programming of both front-end and back-end web applications, database management, server maintenance and system optimization. This includes, but is not limited to, the university CMS (Conductor), [www.ND.edu](http://www.nd.edu/), [Map](http://map.nd.edu/), and [Blogs](http://blogs.nd.edu/). Evaluates, develops, and assists in the implementation of technical solutions, processes and integrations that impact communications for the entire university. Contributes to the professional development of other developers both inside and outside of department through mentoring and education.
 
