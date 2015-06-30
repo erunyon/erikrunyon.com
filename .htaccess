@@ -23,7 +23,9 @@ AddOutputFilterByType DEFLATE text/html text/css application/javascript
   # Feed tracking
   RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
   RewriteCond %{HTTP_USER_AGENT} !uri\.lv [NC]
-  RewriteRule ^atom.xml$ http://feeds.uri.lv/weedygarden [R=302,NC,L]
+  RewriteRule ^feed.xml$ http://feeds.uri.lv/weedygarden [R=302,NC,L]
+
+  Redirect 301 atom.xml feed.xml
 
   # Don't allow index.html
   RewriteCond %{REQUEST_URI} index\.html
@@ -38,5 +40,3 @@ AddOutputFilterByType DEFLATE text/html text/css application/javascript
   RewriteCond %{HTTP_HOST} ^www.erikrunyon.com [NC]
   RewriteRule ^(.*)$ http://erikrunyon.com/$1 [L,R=301,NC]
 </IfModule>
-
-Redirect 301 atom.xml feed.xml
