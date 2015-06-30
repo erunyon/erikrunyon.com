@@ -19,7 +19,7 @@ excerpt_separator: <!-- more -->
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://erikrunyon.com/atom.xml
+subscribe_rss: http://erikrunyon.com/feed.xml
 
 # SASS
 sass:
