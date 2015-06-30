@@ -38,6 +38,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
+    jekyll-sitemap (0.8.1)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
     kramdown (1.7.0)
@@ -90,6 +91,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-sitemap
   octopress
   octopress-autoprefixer
   rdiscount

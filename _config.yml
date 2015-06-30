@@ -31,4 +31,5 @@ disqus_show_comment_count: true
 
 # Gems
 gems:
+  - jekyll-sitemap
   - octopress-autoprefixer
