@@ -1,6 +1,8 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    autoprefixer-rails (2.2.0.20140804)
+      execjs
     blankslate (2.1.2.4)
     celluloid (0.16.0)
       timers (~> 4.0.0)
@@ -53,6 +55,10 @@ GEM
       octopress-hooks (~> 2.0)
       redcarpet (~> 3.0)
       titlecase
+    octopress-autoprefixer (1.0.1)
+      autoprefixer-rails (~> 2.2)
+      jekyll (>= 2.0)
+      octopress-hooks (~> 2.0)
     octopress-deploy (1.2.7)
       colorator
     octopress-escape-code (2.0.6)
@@ -85,4 +91,5 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   octopress
+  octopress-autoprefixer
   rdiscount

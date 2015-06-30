@@ -23,8 +23,12 @@ subscribe_rss: http://erikrunyon.com/atom.xml
 # SASS
 sass:
   sass_dir: css
-  style: :compressed
+  style: :compressed # expanded, compact, compressed
 
 # Disqus Comments
 disqus_short_name: weedygarden
 disqus_show_comment_count: true
+
+# Gems
+gems:
+  - octopress-autoprefixer
