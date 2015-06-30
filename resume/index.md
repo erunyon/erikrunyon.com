@@ -6,24 +6,36 @@ bodyclass: "resume"
 # Resumé
 
 ## Career
+**Technical Director: Marketing Communications**<br>
+*University of Notre Dame*<br>
+March 2015-Present
+
+Manages technical leadership during projects with both internal team members and clients, establishes development plans, and advises and educates regarding all facets of the development process. This requires hands-on coding and programming of both front-end and back-end web applications, database management, server maintenance and system optimization. This includes, but is not limited to, the university CMS (Conductor), [www.ND.edu](http://www.nd.edu/), [Map](http://map.nd.edu/), and [Blogs](http://blogs.nd.edu/). Evaluates, develops, and assists in the implementation of technical solutions, processes and integrations that impact communications for the entire university. Contributes to the professional development of other developers both inside and outside of department through mentoring and education.
+
+Functions as technical lead for cross-functional team, which includes project planning, coordination with other project leads, evaluating progress of tasks and completed work. This often requires meeting and working with the Managing Director of Marketing Communication, Strategic Content Team, and Marketing Communications directors as well as leadership from other departments, units, or university leadership. Collaborates with functional units to analyze business objectives and directions, facilitates business requirements definition, and recommends business processes/technical solutions that provide the best return on investment to the organization. Provides consulting services to technical and functional staff on business/system related issues.
+
 **Director of Web Communications: OPAC**<br>
 *University of Notre Dame*<br>
-March 2013-Present<br>
+March 2013-2015
+
 The Director of Web Communications leads the web and interactive services division of Marketing Communications: Web. This includes supervising web developers and designers and providing direction for all web projects produced by the department. The director consults with groups on campus for various web projects and initiatives, giving advice on implementation and marketing/communications.
 
 **Manager of Interactive Development/Web Developer**<br>
 *University of Notre Dame*<br>
-2011-2013<br>
+2011-2013
+
 Manage University Communications developers, including reviews, setting goals, and day-to-day work. Build and maintain a variety of key university properties. Advocate mobile and RWD development. Set web technology standards for the university.
 
 **Web Developer**<br>
 *University of Notre Dame*<br>
-2007-2011<br>
+2007-2011
+
 Responsible for building client sites, custom applications (PHP/Ruby on Rails) and utilities. Build and maintain mobile web applications. Set web technology standards for the department. Ensure code quality and final product for all department web properties.
 
 **Web Developer**<br>
 *Interlink Companies*, Elkhart, IN<br>
-2004-2007<br>
+2004-2007
+
 Manage projects from start to finish including coordination of designers, developers and clients. Plan and implement large PHP portal systems for the RV and related industries.
 
 **Graphic Designer/Programmer/IT**<br>
