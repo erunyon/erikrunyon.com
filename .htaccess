@@ -16,6 +16,7 @@ ErrorDocument 404 /404.html
 # Gzip
 AddOutputFilterByType DEFLATE text/html text/css application/javascript
 
+RedirectMatch 301 atom.xml feed.xml
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
@@ -24,8 +25,6 @@ AddOutputFilterByType DEFLATE text/html text/css application/javascript
   RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
   RewriteCond %{HTTP_USER_AGENT} !uri\.lv [NC]
   RewriteRule ^feed.xml$ http://feeds.uri.lv/weedygarden [R=302,NC,L]
-
-  Redirect 301 atom.xml feed.xml
 
   # Don't allow index.html
   RewriteCond %{REQUEST_URI} index\.html
