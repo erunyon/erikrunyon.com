@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% assign index = true %}
+<div class="blog-index">
+  {% for page in paginator.posts %}
+    <article class="entry excerpt">
+      {% include article.html %}
+    </article>
+  {% endfor %}
+  <ul class="pagination">
+    {% if paginator.next_page %}<li><a class="prev" href="/page{{ paginator.next_page }}/">&larr; Older</a></li>{% endif %}
+    <!--<li><a class="archives" href="/archives/">Archives</a></li>-->
+    {% if paginator.previous_page %}<li><a class="next" href="/page{{ paginator.previous_page }}/">Newer &rarr;</a></li>{% endif %}
+  </ul>
+</div>
