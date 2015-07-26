@@ -6,5 +6,6 @@
 .pygments-cache
 _site
 _deploy
+_drafts
 _config.yml
 _deploy.yml
