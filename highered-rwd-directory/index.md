@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-06-26**
+**Updated 2015-07-27**
 
 ## A
 
@@ -147,6 +147,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Heriot-Watt University Edinburgh](http://www.hw.ac.uk/)
 * [Herzing University](http://herzing.edu/)
 * [High Point University](http://www.highpoint.edu/)
+* [Houston, University of](http://www.uh.edu/)
 
 ## I
 
@@ -309,6 +310,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Texas A&M International University](http://www.tamiu.edu/)
 * [Texas at Austin, The University of](http://www.utexas.edu/)
 * [Tougaloo College](http://www.tougaloo.edu/)
+* [Trinity Baptist College](http://www.tbc.edu/)
 * [Trinity University](http://trinity.edu/)
 
 ## U
@@ -316,6 +318,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [UCLA](http://ucla.edu/)
 * [UNC Charlotte](http://uncc.edu)
 * [Union College](http://www.unionky.edu/)
+* [University College London](http://www.ucl.ac.uk/)
 * [Utah, The University of](http://www.utah.edu/)
 * [Utah Valley University](http://www.uvu.edu/)
 
