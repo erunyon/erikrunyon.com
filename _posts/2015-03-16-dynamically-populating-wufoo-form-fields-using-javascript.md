@@ -5,7 +5,7 @@ date: 2015-03-16
 categories: [Web Development, Javascript]
 published: true
 ---
-Wufoo is a great form service. Not only is the build interface quick and easy to understand, it works well for statically hosted sites such as this. However, unlike the traditional embedded forms we all know, it's not readibly obvious how to dynamically modify field data such as a username, or some info about the visitors environment. Luckily they provide a couple of different ways to do this.<!-- more-->
+Wufoo is a great form service. Not only is the build interface quick and easy to understand, it works well for statically hosted sites such as this. However, unlike the traditional embedded forms we all know, it's not readibly obvious how to dynamically modify field data such as a username, or some info about the visitors environment. Luckily they provide a couple of different ways to do this.<!-- more -->
 
 I've had two different use-cases where I've needed to populate hidden fields in a Wufoo form.
 
