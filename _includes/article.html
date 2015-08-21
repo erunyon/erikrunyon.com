@@ -14,7 +14,7 @@
   {% endunless %}
   {% if index == true %}
     <div class="entry-content entry-excerpt">{{ page.excerpt }}</div>
-    <footer><a href="{{ root_url }}{{ page.url }}">{{ site.excerpt_link }}</a></footer>
+    <footer><a href="{{ root_url }}{{ page.url }}">{{ site.excerpt_link }} &ldquo;{{ page.title }}&rdquo; &rarr;</a></footer>
   {% else %}
     <div class="entry-content">{{ content }}</div>
   {% endif %}
