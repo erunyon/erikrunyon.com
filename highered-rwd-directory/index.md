@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-07-27**
+**Updated 2015-08-30**
 
 ## A
 
@@ -51,6 +51,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## C
 
+* [California Baptist University](http://www.calbaptist.edu/)
 * [California State University, Channel Islands](http://www.csuci.edu/)
 * [California State University, Northridge](http://www.csun.edu/)
 * [California, University of, Irvine](http://www.uci.edu/)
@@ -147,6 +148,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Heriot-Watt University Edinburgh](http://www.hw.ac.uk/)
 * [Herzing University](http://herzing.edu/)
 * [High Point University](http://www.highpoint.edu/)
+* [Hope College](http://www.hope.edu/)
 * [Houston, University of](http://www.uh.edu/)
 
 ## I
@@ -271,6 +273,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Saint Joseph, University of](http://www.usj.edu/)
 * [Scranton, The University of](http://www.scranton.edu/)
 * [Seminole State College](http://www.seminolestate.edu/)
+* [Seton Hall University](https://www.shu.edu/)
 * [Sewanee](http://www.sewanee.edu/)
 * [Sheridan College](http://www.sheridancollege.ca/)
 * [Shimer College](http://www.shimer.edu/)
@@ -309,6 +312,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Tennessee, Martin, University of](http://utm.edu/)
 * [Texas A&M International University](http://www.tamiu.edu/)
 * [Texas at Austin, The University of](http://www.utexas.edu/)
+* [Texas at San Antonio, University of](http://www.utsa.edu/)
 * [Tougaloo College](http://www.tougaloo.edu/)
 * [Trinity Baptist College](http://www.tbc.edu/)
 * [Trinity University](http://trinity.edu/)
