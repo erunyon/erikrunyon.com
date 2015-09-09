@@ -9,12 +9,11 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
-- **Taking the Web Offline**, [Frontend Conference Zurich](http://frontendconf.ch/), August 2015
-
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations
 
+- **[Taking the Web Offline](/2015/08/fec-zurich/)**, [Frontend Conference Zurich](http://frontendconf.ch/), August 2015
 - **[Taking the Web Offline](/2015/06/bdconf/)**, [Breaking Development](http://bdconf.com/events/nashville/), June 2015
 - **[The Modern Web's &lt;img&gt; Problem](/2015/05/frontend-design-conf/)**, [Front End Design Conference](http://frontenddesignconference.com/), May 2015
 - **[Taking the Web Offline](/2014/10/highedweb-2014/)**, [HighEdWeb 2014](http://2014.highedweb.org/), Oct 2014 (Best of Track winner)

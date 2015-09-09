@@ -6,6 +6,7 @@ bodyclass: "resume"
 # Resumé
 
 ## Career
+
 **Technical Director: Marketing Communications**<br>
 *University of Notre Dame*<br>
 April 2015 - Present
@@ -16,7 +17,7 @@ Functions as technical lead for cross-functional team, which includes project pl
 
 **Director of Web Communications: OPAC**<br>
 *University of Notre Dame*<br>
-March 2013-2015
+2013-2015
 
 The Director of Web Communications leads the web and interactive services division of Marketing Communications: Web. This includes supervising web developers and designers and providing direction for all web projects produced by the department. The director consults with groups on campus for various web projects and initiatives, giving advice on implementation and marketing/communications.
 
@@ -73,6 +74,9 @@ Associate of Arts, 1995
 - [Conductor](http://conductor.nd.edu/) (Multi-site CMS)
 
 ## Speaking
+- [Frontend Conference Zurich](http://frontendconf.ch/), August 2015
+- [Breaking Development](http://bdconf.com/events/nashville/), June 2015
+- [Front End Design Conference](http://frontenddesignconference.com/), May 2015
 - [HighEdWeb 2014](http://2014.highedweb.org/), Oct 2014 (Best of Track winner)
 - [HighEdWeb Michigan](http://mi.highedweb.org/), May, 2014
 - [RWD Summit](http://environmentsforhumans.com/2014/responsive-web-design-summit/), April 2014
