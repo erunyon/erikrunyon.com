@@ -11,13 +11,14 @@
   </nav>
 
   <header id="header" class="site-header" role="banner">
-    <h1><a href="/">{{ site.title }}</a></h1>
-    {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
+    {% if bodyclass == 'home' %}<h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+    {% else %}<p class="site-title"><a href="/">{{ site.title }}</a></p>{% endif %}
+    {% if site.subtitle %}<p class="site-subtitle">{{ site.subtitle }}</p>{% endif %}
   </header>
 
-  <div id="content" class="content" role="main">
+  <main id="content" class="content" role="main">
     {{ content | expand_urls: root_url }}
-  </div>
+  </main>
 
   <aside class="sidebar" role="complementary">
     {% include navigation.html %}

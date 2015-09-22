@@ -2,14 +2,12 @@
  * 1. Common Styles
  ************************************************************************************/
 * {box-sizing:border-box;}
-@-ms-viewport {width:device-width; zoom:1;}
-@-o-viewport {width:device-width; zoom:1;}
 @viewport {width:device-width; zoom:1;}
 
 html {width:100%; margin:0; padding:0; font-size:100%; overflow-y:scroll; text-size-adjust:100%; font-smoothing:antialiased;}
 body {width:100%; margin:0; padding:0; color:#333; font:1em/1.5em "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif; background:#fff url(/css/images/leaves-right.jpg) top right no-repeat; background-size:60% auto;}
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary {display:block;}
-audio, canvas, video {display:inline-block; *display:inline; *zoom:1;}
+audio, canvas, video {display:inline-block;}
 audio:not([controls]) {display:none; height:0;}
 [hidden] {display:none;}
 p {margin:0 0 1em;}
@@ -69,9 +67,9 @@ hr {clear:both; width:100%;}
    ----------------------------------------------------*/
 .entry {margin:0 0 3em;}
   .blog-archives .entry {margin:0 0 1.5em 1.5em;}
-  h1.entry-title {margin:0 0 0.25em; font-size:1.8em; line-height:1em; font-weight:normal; color:#21759B;}
-    h1.entry-title a {text-decoration:none; color:$link_color;}
-      h1.entry-title a:visited {color:$link_color;}
+  .entry-title {margin:0 0 0.25em; font-size:1.8em; line-height:1em; font-weight:normal; color:#21759B;}
+    .entry-title a {text-decoration:none; color:$link_color;}
+      .entry-title a:visited {color:$link_color;}
   .entry footer {clear:both;}
 
 .byline {margin:0 0 1em; font-size:1em; font-family:Helvetica, Verdana, Arial, sans-serif;
@@ -106,7 +104,7 @@ code span.method {color:#2c85cc;}
 .css .urls {color:green;}
 
 .columnlists .content ul {margin:1em 0; padding-left:1em;}
-.columnlists .content li {display:inline-block; *display:inline; *zoom:1; width:100%; padding-left:2em; text-indent:-2em;}
+.columnlists .content li {display:inline-block; width:100%; padding-left:2em; text-indent:-2em;}
 .columnlists .content li:before {content:'\2022'; margin-right:0.75em; font-weight:bold; font-size:1.3em;}
 .columnlists .content li li {display:block;}
 .columnlists .content li li:before {content:'\B7';}
@@ -120,7 +118,7 @@ acronym, abbr, span.caps {font-size:0.9em; letter-spacing:.07em;}
 }
 
 .pagination {margin:0 0 3em; padding:0; list-style:none; font-weight:bold;
-  li {display:inline-block; *display:inline; *zoom:1; margin:0 1em 0 0;}
+  li {display:inline-block; margin:0 1em 0 0;}
 }
 
 .social-links {margin:0; padding:0; list-style:none;

@@ -33,6 +33,7 @@
 
   .wrapper {font-size:100%;}
   .site-header a {border:none;}
+    .site-title {margin:0;}
 
   .content {width:100%; margin:10px 0; padding:10px 0; border-color:gray; border-style:solid; border-width:1px 0;}
   .content a:link:after {content:" [" attr(href) "] "; font-size:90%;}

@@ -1,6 +1,6 @@
   {% unless page.no_header %}
     <header>
-      {% if index == true %}<h1 class="entry-title"><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h1>
+      {% if index == true %}<h2 class="entry-title"><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h2>
       {% else %}<h1 class="entry-title">{{ page.title }}</h1>{% endif %}
       {% unless page.meta == false %}
         <p class="post-meta">
