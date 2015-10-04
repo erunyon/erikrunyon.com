@@ -5,7 +5,7 @@ layout: default
 ---
 # About
 
-I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](http://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of the University of Notre Dame.
+I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](http://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of the Notre Dame.
 
 ## Upcoming Presentations
 
