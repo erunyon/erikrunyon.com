@@ -11,6 +11,10 @@ HTTP/2, the successor to [SPDY](https://en.wikipedia.org/wiki/SPDY) is finally g
 
 HTTP/2 is [supported on NGINX as of version 1.9.5](http://nginx.org/en/CHANGES). To get it working on my dev environment, I followed the instructions on a couple of different sites (listed below), but needed to run both "`brew update`", and then "`brew reinstall --devel --with-spdy nginx`". When I tried to just install NGINX using the "`--devel`" command, I was greeted by a message stating that 1.8.0 was already installed.
 
+## Apache
+
+HTTP/2 support is now available in Apache httpd 2.4.17. A great write-up is available at [mod_h[ttp]2: how to h2 in apache](https://icing.github.io/mod_h2/howto.html).
+
 ## Gotchas
 
 Even though SSL is not enforced in the RFC, [all browsers that support HTTP/2 require it](https://www.nginx.com/blog/http2-r7/). So if you plan on going down the HTTP/2 route, be sure that SSL is an option, or already enabled on your site/app.
