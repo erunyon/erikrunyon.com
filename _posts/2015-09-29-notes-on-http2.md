@@ -21,6 +21,8 @@ Even though SSL is not enforced in the RFC, [all browsers that support HTTP/2 re
 
 ## Helpful Links
 
+- [HTTP/2: the Pros, the Cons, and What You Need to Know](http://www.sitepoint.com/http2-the-pros-the-cons-and-what-you-need-to-know/) - October 23, 2015
+- [Load Impact's HTTP/1 vs HTTP/2 test](http://http2.loadimpact.com/entry/)
 - [Setup nginx with HTTP/2 for local development OS X](http://tech.finn.no/2015/09/25/setup-nginx-with-http2-for-local-development/) - September 25, 2015
 - [Enable HTTP/2 in Nginx](https://ma.ttias.be/enable-http2-in-nginx/) - September 22, 2015
 - [HTTP/2 Now Fully Supported in NGINX Plus](https://www.nginx.com/blog/http2-r7/) - September 18, 2015
