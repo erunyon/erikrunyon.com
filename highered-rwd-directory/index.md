@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-10-02**
+**Updated 2015-11-16**
 
 ## A
 
@@ -78,7 +78,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Colorado Boulder, University of](http://colorado.edu)
 * [Colorado Christian University](http://www.ccu.edu/) _*[Adaptive](#adaptive)_
 * [Colorado College](http://coloradocollege.edu)
-* [Columbia College](http://www.columbiacollege.ca/)
+* [Columbia College (Missouri)](http://www.ccis.edu/)
+* [Columbia College (Canada)](http://www.columbiacollege.ca/)
 * [Columbia College Chicago](http://www.colum.edu/)
 * [Concordia College](http://www.concordiacollege.edu/) _*[Adaptive](#adaptive)_
 * [Concordia University Irvine](http://www.cui.edu/)
@@ -210,6 +211,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Missouri, University of](http://missouri.edu/) _*[Adaptive](#adaptive)_
 * [Missouri Baptist University](http://www.mobap.edu/) _*[Hybrid](#hybrid)_
 * [Mobile, University of](http://www.umobile.edu/)
+* [Monmouth University](http://monmouth.edu/)
 * [Montana State University](http://www.montana.edu/)
 * [Moore College of Art & Design](http://moore.edu/)
 * [Morningside College](http://morningside.edu/)
@@ -261,6 +263,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Rhode Island, University of](http://uri.edu)
 * [Rice University](http://www.rice.edu)
 * [Richland College](http://richlandcollege.edu/)
+* [Richmond, University of](http://www.richmond.edu/)
 * [Roberts Wesleyan College](http://www.roberts.edu/)
 * [Rochester, University of](http://www.rochester.edu/)
 * [Rocky Mountain College of Art and Design](http://www.rmcad.edu/) _*[Hybrid](#hybrid)_
