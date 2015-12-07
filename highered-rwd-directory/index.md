@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-11-16**
+**Updated 2015-12-07**
 
 ## A
 
@@ -56,10 +56,12 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [California State University, Northridge](http://www.csun.edu/)
 * [California, University of, Irvine](http://www.uci.edu/)
 * [California, San Diego, University of](http://www.ucsd.edu/)
+* [California, University of, Santa Cruz](http://www.ucsc.edu/)
 * [Calvin College](http://www.calvin.edu/)
 * [Cambridge, University of](http://www.cam.ac.uk/)
 * [Cameron University](http://www.cameron.edu/)
 * [Capella University](http://www.capella.edu/)
+* [Capital University](http://capital.edu/)
 * [Case Western Reserve University](http://www.case.edu/)
 * [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
 * [Central Arkansas, University of](http://uca.edu)
@@ -156,6 +158,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Illinois at Chicago, University of](http://www.uic.edu/)
 * [Illinois Springfield, University of](http://www.uis.edu/)
+* [Illinois State University](http://illinoisstate.edu/)
 * [Indiana University - Purdue University Indianapolis](http://www.iupui.edu/)
 * [Indiana University - South Bend](https://www.iusb.edu/)
 * [Indiana Wesleyan University](http://www.indwes.edu/)
@@ -351,6 +354,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Western Connecticut State University](http://www.wcsu.edu/)
 * [Western Michigan University](http://www.wmich.edu/)
 * [Whittier College](http://www.whittier.edu/)
+* [Wilfrid Laurier University](https://www.wlu.ca/)
 * [William Carey University](http://www.wmcarey.edu/) _*[Adaptive](#adaptive)_
 * [William & Mary](http://www.wm.edu/)
 * [Wilmington University](http://www.wilmu.edu/) _*[Adaptive](#adaptive)_
