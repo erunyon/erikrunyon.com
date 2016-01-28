@@ -11,7 +11,10 @@ twitter_username: erunyon
 github_username:  erunyon
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 permalink: /:year/:month/:title/
 paginate: 10
 excerpt_link: "continue reading"  # "Continue reading" link text at the bottom of excerpted articles
