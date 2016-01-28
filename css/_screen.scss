@@ -16,7 +16,7 @@
     .s2n,
     .s2n:visited {position:fixed; top:1em; right:1em; display:block; padding:0.25em 0.5em; border-radius:3px; color:#fff; text-shadow:0 1px 0 rgba(0,0,0,0.5); border:1px solid #31513c;
       background:#8bc360;
-      background:linear-gradient(to bottom,  #8bc360 0%,#3a6247 100%);
+      background:linear-gradient(to bottom, #8bc360 0%,#3a6247 100%);
     }
       .s2n:before {content:'☰'; margin-right:0.2em;}
 
@@ -85,7 +85,7 @@
  * 3. Media Queries
  ************************************************************************************/
 
-/* 580 */
+/* 580px */
 @media only screen and (min-width:36.25em) {
   .content .alignleft {margin:0 2em 1em 0; float:left;}
   .content .alignright {margin:0 0 1em 2em; float:right;}
