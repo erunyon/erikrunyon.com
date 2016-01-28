@@ -9,6 +9,8 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
+- [ConvergeSE](http://convergese.com/), April 2016
+
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations

@@ -38,3 +38,6 @@ AddOutputFilterByType DEFLATE text/html text/css application/javascript
   RewriteCond %{HTTP_HOST} ^www.erikrunyon.com [NC]
   RewriteRule ^(.*)$ http://erikrunyon.com/$1 [L,R=301,NC]
 </IfModule>
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
