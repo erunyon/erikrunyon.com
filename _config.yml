@@ -38,3 +38,4 @@ disqus_show_comment_count: true
 gems:
   - jekyll-sitemap
   - octopress-autoprefixer
+  - jekyll-paginate
