@@ -3,10 +3,10 @@ title: Erik Runyon
 subtitle: WeedyGarden
 author: Erik Runyon
 baseurl: ""
-url: "http://erikrunyon.com"
+url: "https://erikrunyon.com"
 email: erunyon@gmail.com
 description: Home of Erik Runyon. Techinical Director for Marketing Communications at the University of Notre Dame.
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 twitter_username: erunyon
 github_username:  erunyon
 
@@ -23,7 +23,7 @@ include: ['.htaccess']
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile']
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://erikrunyon.com/feed.xml
+subscribe_rss: https://erikrunyon.com/feed.xml
 
 # SASS
 sass:
