@@ -3,6 +3,9 @@ Redirect 301 /atom.xml /feed.xml
 
 ErrorDocument 404 /404.html
 
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
 # 1 YEAR
 <filesMatch ".(ico|pdf|flv)$">
   Header set Cache-Control "max-age=29030400, public"
@@ -38,6 +41,3 @@ AddOutputFilterByType DEFLATE text/html text/css application/javascript
   RewriteCond %{HTTP_HOST} ^www.erikrunyon.com [NC]
   RewriteRule ^(.*)$ http://erikrunyon.com/$1 [L,R=301,NC]
 </IfModule>
-
-RewriteCond %{HTTPS} off
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
