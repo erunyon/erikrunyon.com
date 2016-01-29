@@ -6,5 +6,4 @@ group :development do
   gem 'jekyll-paginate'
   gem 'octopress'
   gem 'octopress-autoprefixer'
-  gem 'rdiscount'
 end
