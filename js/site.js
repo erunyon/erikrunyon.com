@@ -12,7 +12,6 @@ jQuery(function($) {
 });
 
 jQuery(function($){
-
   // Table overflow
   $('table').wrap('<div class="tablewrap"></div>'); // requires .tablewrap styles
 
@@ -29,8 +28,19 @@ jQuery(function($){
       document.location.href = link;
     }, 100);
   });
-
 });
+
+// Time for some Service Worker fun
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js', {
+    scope: '/'
+  });
+  window.addEventListener('load', function () {
+    if (navigator.serviceWorker.controller) {
+      navigator.serviceWorker.controller.postMessage({ 'command': 'trimCaches' });
+    }
+  });
+}
 
 /*
  * Normalized hide address bar for iOS & Android

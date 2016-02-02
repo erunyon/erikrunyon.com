@@ -3,9 +3,12 @@ Redirect 301 /atom.xml /feed.xml
 
 ErrorDocument 404 /404.html
 
+# Force https on prod
+RewriteCond %{HTTP_HOST} ^erikrunyon\.com [NC]
 RewriteCond %{HTTPS} off
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
+# CACHING
 # 1 YEAR
 <filesMatch ".(ico|pdf|flv)$">
   Header set Cache-Control "max-age=29030400, public"
