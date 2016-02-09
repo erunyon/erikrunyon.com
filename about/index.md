@@ -10,6 +10,7 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 ## Upcoming Presentations
 
 - [ConvergeSE](http://convergese.com/), April 2016
+- **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
 

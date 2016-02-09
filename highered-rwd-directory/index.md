@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2015-12-07**
+**Updated 2016-02-09**
 
 ## A
 
@@ -190,6 +190,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Lesley University](http://www.lesley.edu/)
 * [Lewis-Clark State College](http://www.lcsc.edu/)
 * [Lewis University](http://lewisu.edu/)
+* [Liberty University](http://www.liberty.edu/)
 * [Lipscomb University](http://www.lipscomb.edu/)
 * [Loughborough University](http://www.lboro.ac.uk/)
 * [Louisiana College](http://www.lacollege.edu/) _*[Adaptive](#adaptive)_
@@ -279,6 +280,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [St. John's College](http://www.sjc.edu/)
 * [St. John's University](http://www.stjohns.edu/)
 * [Saint Joseph, University of](http://www.usj.edu/)
+* [Santa Fe College](http://www.sfcollege.edu/)
 * [Scranton, The University of](http://www.scranton.edu/)
 * [Seminole State College](http://www.seminolestate.edu/)
 * [Seton Hall University](https://www.shu.edu/)
