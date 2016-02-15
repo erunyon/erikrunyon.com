@@ -3,6 +3,7 @@ title: Erik Runyon
 subtitle: WeedyGarden
 author: Erik Runyon
 baseurl: ""
+port: 3333
 url: "https://erikrunyon.com"
 email: erunyon@gmail.com
 description: Home of Erik Runyon. Techinical Director for Marketing Communications at the University of Notre Dame.
