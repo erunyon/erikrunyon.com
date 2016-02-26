@@ -1,6 +1,6 @@
 'use strict';
 
-const version = '20160226v1::';
+const version = '20160226v3::';
 const staticCacheName = version + 'static';
 const pagesCacheName = version + 'pages';
 const imagesCacheName = version + 'images';
@@ -77,9 +77,11 @@ self.addEventListener('message', event => {
 self.addEventListener('fetch', event => {
   let request = event.request;
   let url = new URL(request.url);
+  let allowedOrigins = [location.origin];
 
-  // Only deal with requests to my own server
-  if (url.origin !== location.origin) {
+  // Check allowed sources
+  //if (url.origin !== location.origin) {
+  if( allowedOrigins.indexOf(url.origin) === -1){
     return;
   }
 
