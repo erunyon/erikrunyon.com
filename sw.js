@@ -1,143 +1,150 @@
-/* global self, caches, fetch, URL, Response */
 'use strict';
 
-var config = {
-  version: '20160201v2',
-  resourceCacheItems: [
-    '/css/images/leaves-right.jpg',
-    '/css/images/icons-social@2x.png',
-    '/css/site.css',
-    '/js/site.js'
-  ],
-  contentCacheItems: [
-    '/about/',
-    '/highered-rwd-directory/',
-    '/offline/',
-    '/'
-  ],
-  cachePathPattern: /^\/(?:(20[0-9]{2}|css|images|js)\/(.+)?)?$/,
-  offlineImage: '<svg role="img" aria-labelledby="offline-title"'
-    + ' viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">'
-    + '<title id="offline-title">Offline</title>'
-    + '<g fill="none" fill-rule="evenodd"><path fill="#D8D8D8" d="M0 0h400v300H0z"/>'
-    + '<text fill="#9B9B9B" font-family="Times New Roman,Times,serif" font-size="72" font-weight="bold">'
-    + '<tspan x="93" y="172">offline</tspan></text></g></svg>',
-  offlinePage: '/offline/'
-};
+const version = '20160226v1::';
+const staticCacheName = version + 'static';
+const pagesCacheName = version + 'pages';
+const imagesCacheName = version + 'images';
 
-function cacheName(key, opts){
-  return `${opts.version}-${key}`;
-}
-
-function addToCache(cacheKey, request, response){
-  if (response.ok) {
-    var copy = response.clone();
-    caches.open(cacheKey).then( cache => {
-      cache.put(request, copy);
+function updateStaticCache() {
+  return caches.open(staticCacheName)
+    .then( cache => {
+      // These items won't block the installation of the Service Worker
+      cache.addAll([
+        '/about/',
+        '/highered-rwd-directory/'
+      ]);
+      // These items must be cached for the Service Worker to complete installation
+      return cache.addAll([
+        '/css/images/leaves-right.jpg',
+        '/css/images/icons-social@2x.png',
+        '/css/site.css',
+        '/js/site.js',
+        '/',
+        '/offline'
+      ]);
     });
-  }
-  return response;
 }
 
-function fetchFromCache(event){
-  return caches.match(event.request).then(response => {
-    if (!response) {
-      throw Error(`${event.request.url} not found in cache`);
-    }
-    return response;
-  });
+function stashInCache(cacheName, request, response) {
+  caches.open(cacheName)
+    .then( cache => cache.put(request, response) );
 }
 
-function offlineResponse(resourceType, opts){
-  if (resourceType === 'image') {
-    return new Response(opts.offlineImage,
-      { headers: { 'Content-Type': 'image/svg+xml' } }
-    );
-  } else if (resourceType === 'content') {
-    return caches.match(opts.offlinePage);
-  }
-  return undefined;
+// Limit the number of items in a specified cache.
+function trimCache(cacheName, maxItems) {
+  caches.open(cacheName)
+    .then( cache => {
+      cache.keys()
+        .then(keys => {
+          if (keys.length > maxItems) {
+            cache.delete(keys[0])
+              .then(trimCache(cacheName, maxItems));
+          }
+        });
+    });
+}
+
+// Remove caches whose name is no longer valid
+function clearOldCaches() {
+  return caches.keys()
+    .then( keys => {
+      return Promise.all(keys
+        .filter(key => key.indexOf(version) !== 0)
+        .map(key => caches.delete(key))
+      );
+    });
 }
 
 self.addEventListener('install', event => {
-  function onInstall (event, opts) {
-    caches.open( cacheName('content', opts) ).then(cache => cache.addAll(opts.contentCacheItems));
-    return caches.open( cacheName('resources', opts) ).then(cache => cache.addAll(opts.resourceCacheItems));
-  }
-
-  event.waitUntil(
-    onInstall(event, config).then( () => self.skipWaiting() )
+  event.waitUntil(updateStaticCache()
+    .then( () => self.skipWaiting() )
   );
 });
 
 self.addEventListener('activate', event => {
-  function onActivate (event, opts) {
-    return caches.keys()
-      .then(cacheKeys => {
-        var oldCacheKeys = cacheKeys.filter(key => key.indexOf(opts.version) !== 0);
-        var deletePromises = oldCacheKeys.map(oldKey => caches.delete(oldKey));
-        return Promise.all(deletePromises);
-      });
-  }
-
-  event.waitUntil(
-    onActivate(event, config)
-      .then( () => self.clients.claim() )
+  event.waitUntil(clearOldCaches()
+    .then( () => self.clients.claim() )
   );
 });
 
+self.addEventListener('message', event => {
+  if (event.data.command == 'trimCaches') {
+    trimCache(pagesCacheName, 35);
+    trimCache(imagesCacheName, 20);
+  }
+});
+
 self.addEventListener('fetch', event => {
+  let request = event.request;
+  let url = new URL(request.url);
 
-  function shouldHandleFetch (event, opts) {
-    var request            = event.request;
-    var url                = new URL(request.url);
-    var criteria           = {
-      matchesPathPattern: !!(opts.cachePathPattern.exec(url.pathname)),
-      isGETRequest      : request.method === 'GET',
-      isFromMyOrigin    : url.origin === self.location.origin
-    };
-    if( (url.origin === self.location.origin) && opts.contentCacheItems.indexOf(url.pathname) !== -1 ){
-      return true;
-    } else {
-      var failingCriteria    = Object.keys(criteria).filter(criteriaKey => !criteria[criteriaKey]);
-      return !failingCriteria.length;
-    }
+  // Only deal with requests to my own server
+  if (url.origin !== location.origin) {
+    return;
   }
 
-  function onFetch(event, opts){
-    var request = event.request;
-    var acceptHeader = request.headers.get('Accept');
-    var resourceType = 'content';
-    var cacheKey;
-
-    if (acceptHeader.indexOf('text/html') !== -1) {
-      resourceType = 'content';
-    } else if (acceptHeader.indexOf('image') !== -1) {
-      resourceType = 'images';
-    } else {
-      resourceType = 'resources';
-    }
-
-    cacheKey = cacheName(resourceType, opts);
-
-    if (resourceType === 'content') {
-      event.respondWith(
-        fetch(request)
-          .then(response => addToCache(cacheKey, request, response))
-          .catch(() => fetchFromCache(event))
-          .catch(() => offlineResponse(resourceType, opts))
-      );
-    } else {
-      event.respondWith(
-        fetchFromCache(event)
-          .catch(() => fetch(request))
-            .then(response => addToCache(cacheKey, request, response))
-          .catch(() => offlineResponse(resourceType, opts))
-      );
-    }
+  // For non-GET requests, try the network first, fall back to the offline page
+  if (request.method !== 'GET') {
+    event.respondWith(
+      fetch(request)
+        .catch( () => caches.match('/offline') )
+    );
+    return;
   }
-  if (shouldHandleFetch(event, config)) {
-    onFetch(event, config);
+
+  // For HTML requests, try the network first, fall back to the cache, finally the offline page
+  if (request.headers.get('Accept').indexOf('text/html') !== -1) {
+    // Fix for Chrome bug: https://code.google.com/p/chromium/issues/detail?id=573937
+    if (request.mode != 'navigate') {
+      request = new Request(url, {
+        method: 'GET',
+        headers: request.headers,
+        mode: request.mode,
+        credentials: request.credentials,
+        redirect: request.redirect
+      });
+    }
+    event.respondWith(
+      fetch(request)
+        .then( response => {
+          // NETWORK
+          // Stash a copy of this page in the pages cache
+          let copy = response.clone();
+          stashInCache(pagesCacheName, request, copy);
+          return response;
+        })
+        .catch( () => {
+          // CACHE or FALLBACK
+          return caches.match(request)
+            .then( response => response || caches.match('/offline') );
+        })
+    );
+    return;
   }
+
+  // For non-HTML requests, look in the cache first, fall back to the network
+  event.respondWith(
+    caches.match(request)
+      .then(response => {
+        // CACHE
+        return response || fetch(request)
+          .then( response => {
+            // NETWORK
+            // If the request is for an image, stash a copy of this image in the images cache
+            if (request.headers.get('Accept').indexOf('image') !== -1) {
+              let copy = response.clone();
+              stashInCache(imagesCacheName, request, copy);
+            }
+            return response;
+          })
+          .catch( () => {
+            // OFFLINE
+            // If the request is for an image, show an offline placeholder
+            if (request.headers.get('Accept').indexOf('image') !== -1) {
+              return new Response('<svg role="img" aria-labelledby="offline-title" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><title id="offline-title">Offline</title><g fill="none" fill-rule="evenodd"><path fill="#D8D8D8" d="M0 0h400v300H0z"/><text fill="#9B9B9B" font-family="Helvetica Neue,Arial,Helvetica,sans-serif" font-size="72" font-weight="bold"><tspan x="93" y="172">offline</tspan></text></g></svg>', {headers: {'Content-Type': 'image/svg+xml'}});
+            }
+          });
+      })
+  );
 
 });
