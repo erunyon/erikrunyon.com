@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2016-02-09**
+**Updated 2016-03-02**
 
 ## A
 
@@ -159,6 +159,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Illinois at Chicago, University of](http://www.uic.edu/)
 * [Illinois Springfield, University of](http://www.uis.edu/)
 * [Illinois State University](http://illinoisstate.edu/)
+* [Indiana University Bloomington](https://www.indiana.edu/)
 * [Indiana University - Purdue University Indianapolis](http://www.iupui.edu/)
 * [Indiana University - South Bend](https://www.iusb.edu/)
 * [Indiana Wesleyan University](http://www.indwes.edu/)
@@ -252,6 +253,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## P
 
+* [Pennsylvania, University of](http://www.upenn.edu/)
 * [Penn State University](http://www.psu.edu) _*[Hybrid](#hybrid)_
 * [Pittsburgh, University of](http://pitt.edu/)
 * [Portsmouth, University of](http://www.port.ac.uk/)
