@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2016-03-02**
+**Updated 2016-03-10**
 
 ## A
 
@@ -211,6 +211,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Messiah College](http://www.messiah.edu/)
 * [Miami University](http://miamioh.edu/)
 * [Michigan, University of](http://umich.edu/)
+* [Minnesota, University of](http://www.umn.edu/)
 * [Mississippi College](http://www.mc.edu/)
 * [Mississippi, University of](http://www.olemiss.edu/) _*[Hybrid](#hybrid)_
 * [Missouri, University of](http://missouri.edu/) _*[Adaptive](#adaptive)_
@@ -322,6 +323,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Tennessee, Chattanooga, University of](http://www.utc.edu/)
 * [Tennessee, Knoxville, University of](http://www.utk.edu/)
 * [Tennessee, Martin, University of](http://utm.edu/)
+* [Texas A&M University - Central Texas](https://www.tamuct.edu/ )
 * [Texas A&M International University](http://www.tamiu.edu/)
 * [Texas at Austin, The University of](http://www.utexas.edu/)
 * [Texas at San Antonio, University of](http://www.utsa.edu/)
