@@ -1,6 +1,6 @@
 'use strict';
 
-const version = '20160226v3::';
+const version = '20160312v1::';
 const staticCacheName = version + 'static';
 const pagesCacheName = version + 'pages';
 const imagesCacheName = version + 'images';
@@ -20,7 +20,7 @@ function updateStaticCache() {
         '/css/site.css',
         '/js/site.js',
         '/',
-        '/offline'
+        '/offline/'
       ]);
     });
 }
@@ -96,16 +96,6 @@ self.addEventListener('fetch', event => {
 
   // For HTML requests, try the network first, fall back to the cache, finally the offline page
   if (request.headers.get('Accept').indexOf('text/html') !== -1) {
-    // Fix for Chrome bug: https://code.google.com/p/chromium/issues/detail?id=573937
-    if (request.mode != 'navigate') {
-      request = new Request(url, {
-        method: 'GET',
-        headers: request.headers,
-        mode: request.mode,
-        credentials: request.credentials,
-        redirect: request.redirect
-      });
-    }
     event.respondWith(
       fetch(request)
         .then( response => {

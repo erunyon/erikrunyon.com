@@ -30,13 +30,12 @@ jQuery(function($){
   });
 });
 
-// Time for some Service Worker fun
 if('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/sw.js', {
     scope: '/'
   });
   window.addEventListener('load', function () {
-    if (navigator.serviceWorker.controller) {
+    if(navigator.serviceWorker.controller) {
       navigator.serviceWorker.controller.postMessage({ 'command': 'trimCaches' });
     }
   });
