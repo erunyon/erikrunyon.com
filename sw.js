@@ -1,6 +1,7 @@
+---
+---
 'use strict';
-
-const version = '20160312v1::';
+const version = '{{site.time | date: '%Y%m%d%H%M%S'}}::';
 const staticCacheName = version + 'static';
 const pagesCacheName = version + 'pages';
 const imagesCacheName = version + 'images';
