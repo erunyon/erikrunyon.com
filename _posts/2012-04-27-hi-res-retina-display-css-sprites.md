@@ -11,6 +11,8 @@ categories:
 ---
 My 2010 article about [hi-res background images][1] gave a pretty simple example of how to replace a background image with a 2x version for the fancy hi-res devices that are hitting the markets. In this example, I’ll show you how to do the same, but with an image sprite. And to wrap things up, I’ll leave you with a limitation of the technique.<!-- more -->
 
+**UPDATE:** Doing a sprite in this way was a very bad idea. Don't do it.
+
 If you’re the impatient type, you can jump right to the [demo page][2].
 
 The technique is fairly simple. If you have a current sprite file, you will need to double the dimensions of the file and replace the icons with 2x versions in the same layout as the 1x, just at double the distance from the images edge. If you load up the sprites from the example page, you will see in [the 1x file][3] that the gray-scale flag of Ireland is 500px down the page as represented by the following style:
