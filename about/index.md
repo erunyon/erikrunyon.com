@@ -9,7 +9,6 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
-- **Web Storage & Service Workers**, [RWD Summit](http://environmentsforhumans.com/2016/responsive-web-design-summit/), March 2016
 - **At Your Service - The Next Generation of Offline Websites**, [ConvergeSE](http://convergese.com/), April 2016
 - **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
 
@@ -17,6 +16,7 @@ If you're interested in having me present at your conference, [please contact me
 
 ## Past Presentations
 
+- **Web Storage & Service Workers**, [RWD Summit](http://environmentsforhumans.com/2016/responsive-web-design-summit/), March 2016
 - **[Taking the Web Offline](/2015/08/fec-zurich/)**, [Frontend Conference Zurich](http://frontendconf.ch/), [Video](https://www.youtube.com/watch?v=V6YsCqUw_VU), August 2015
 - **[Taking the Web Offline](/2015/06/bdconf/)**, [Breaking Development](http://bdconf.com/events/nashville/), June 2015
 - **[The Modern Web's &lt;img&gt; Problem](/2015/05/frontend-design-conf/)**, [Front End Design Conference](http://frontenddesignconference.com/), May 2015
