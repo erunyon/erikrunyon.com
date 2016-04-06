@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2016-03-18**
+**Updated 2016-04-06**
 
 ## A
 
@@ -308,6 +308,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Southern State Community College](http://sscc.edu/)
 * [Spring Arbor University](http://www.arbor.edu/)
 * [St. Paul’s School](http://www.stpaulsschool.org.uk/)
+* [St. Thomas Aquinas College](http://www.stac.edu/)
 * [State University of New York, The](http://www.suny.edu/)
 * [Stetson University](http://www.stetson.edu/) _*[Adaptive](#adaptive)_
 * [Stevenson University](http://www.stevenson.edu/)
@@ -360,6 +361,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [West Virginia University](http://wvu.edu)
 * [Western Connecticut State University](http://www.wcsu.edu/)
 * [Western Michigan University](http://www.wmich.edu/)
+* [Western Nebraska Community College](http://www.wncc.edu/)
 * [Whittier College](http://www.whittier.edu/)
 * [Wilfrid Laurier University](https://www.wlu.ca/)
 * [William Carey University](http://www.wmcarey.edu/) _*[Adaptive](#adaptive)_
