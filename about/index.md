@@ -7,6 +7,14 @@ layout: default
 
 I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](http://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of Notre Dame.
 
+## Conference Resources
+
+[Headshot photo](/images/erik-runyon-headshot.jpg)
+
+### Bio
+
+[Erik Runyon](https://erikrunyon.com/), Technical Director for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/), has been developing websites for fun and profit since 1995, and joined the university in 2007. Erik enjoys chatting and writing about web performance, accessibility, mobile support, and RWD.
+
 ## Upcoming Presentations
 
 - **At Your Service - The Next Generation of Offline Websites**, [ConvergeSE](http://convergese.com/), April 2016
