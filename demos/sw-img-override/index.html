@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Service Worker Image Override</title>
+<style>
+  button {margin-bottom:2rem; font-size:36px;}
+</style>
+</head>
+<body>
+<button id="load">Load image</button>
+<div id="images">
+  <img src="https://placekitten.com/200/300">
+  <img src="https://placekitten.com/250/300">
+  <img src="https://placekitten.com/300/300">
+</div>
+<script>
+
+document.querySelector('#load').addEventListener('click', function(e){
+  var rand = (Math.floor(Math.random() * 200) + 200);
+  var img = document.createElement("img");
+
+  img.src = 'https://placekitten.com/' + rand + '/300';
+  document.getElementById('images').appendChild(img);
+  e.preventDefault();
+}, false);
+
+if('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
+
+</script>
+</body>
+</html>
