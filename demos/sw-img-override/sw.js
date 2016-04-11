@@ -21,7 +21,7 @@ self.addEventListener('fetch', event => {
   if(request.headers.get('Accept').indexOf('image') !== -1){
     let rand = (Math.floor(Math.random() * 200) + 200);
     event.respondWith(
-      fetch( 'https://www.placecage.com/' + rand + '/300', {mode: 'no-cors'} )
+      fetch( 'https://www.placecage.com/c/' + rand + '/300', {mode: 'no-cors'} )
     );
   }
 

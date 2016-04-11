@@ -19,7 +19,7 @@ for(i=0; i<=2; i++){
 function loadImage(){
   var rand = (Math.floor(Math.random() * 200) + 200);
   var img = document.createElement("img");
-
+  console.log('Loading an image of width ' + rand);
   img.src = 'https://placekitten.com/' + rand + '/300';
   document.getElementById('images').appendChild(img);
 }
