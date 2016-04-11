@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2016-04-06**
+**Updated 2016-04-11**
 
 ## A
 
@@ -68,6 +68,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Central Arkansas, University of](http://uca.edu)
 * [Central College](http://www.central.edu/) _*[Hybrid](#hybrid)_
 * [Central Florida, University of](http://www.ucf.edu/) _*[Hybrid](#hybrid)_
+* [Central Michigan University](https://www.cmich.edu/)
 * [Chapman University](http://www.chapman.edu/)
 * [Chicago, University of](http://uchicago.edu)
 * [Christ College](http://christcollege.ca/)
@@ -126,6 +127,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## F
 
 * [Fairfield University](http://www.fairfield.edu/)
+* [Ferris State University](http://www.ferris.edu/)
 * [Florida International University](http://fiu.edu)
 * [Fordham University](http://www.fordham.edu/)
 * [Franklin & Marshall College](http://www.fandm.edu/)
@@ -236,6 +238,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Nichols College](http://www.nichols.edu/)
 * [NC State University](http://www.ncsu.edu/)
 * [Northeastern Illinois University](http://neiu.edu/)
+* [Northwestern Michigan University](http://www.nmu.edu/)
 * [Northern Iowa, University of](http://www.uni.edu/) _*[Adaptive](#adaptive)_
 * [Notre Dame, University of](http://nd.edu/)
 
@@ -288,6 +291,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Scranton, The University of](http://www.scranton.edu/)
 * [Seminole State College](http://www.seminolestate.edu/)
 * [Seton Hall University](https://www.shu.edu/)
+* [Seton Hill University](https://www.setonhill.edu/)
 * [Sewanee](http://www.sewanee.edu/)
 * [Sheridan College](http://www.sheridancollege.ca/)
 * [Shimer College](http://www.shimer.edu/)
