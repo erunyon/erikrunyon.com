@@ -5,7 +5,7 @@ layout: default
 ---
 # About
 
-I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](http://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of Notre Dame.
+I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of Notre Dame.
 
 ## Conference Resources
 
@@ -17,12 +17,11 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
-- **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
-
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations
 
+- **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
 - **At Your Service - The Next Generation of Offline Websites**, [ConvergeSE](http://convergese.com/), April 2016
 - **Web Storage & Service Workers**, [RWD Summit](http://environmentsforhumans.com/2016/responsive-web-design-summit/), March 2016
 - **[Taking the Web Offline](/2015/08/fec-zurich/)**, [Frontend Conference Zurich](http://frontendconf.ch/), [Video](https://www.youtube.com/watch?v=V6YsCqUw_VU), August 2015
