@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2016-05-05**
+**Updated 2016-05-06**
 
 ## A
 
@@ -55,6 +55,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [California State University, Channel Islands](http://www.csuci.edu/)
 * [California State University, Chico](http://www.csuchico.edu/)
 * [California State University, Northridge](http://www.csun.edu/)
+* [California, University of, Berkeley](http://www.berkeley.edu/)
 * [California, University of, Irvine](http://www.uci.edu/)
 * [California, San Diego, University of](http://www.ucsd.edu/)
 * [California, University of, Santa Cruz](http://www.ucsc.edu/)
