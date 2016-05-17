@@ -17,6 +17,8 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
+- **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb 2016](http://2016.highedweb.org/), Oct 2016
+
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations

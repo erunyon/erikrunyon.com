@@ -72,7 +72,6 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Central Michigan University](https://www.cmich.edu/)
 * [Chapman University](http://www.chapman.edu/)
 * [Chicago, University of](http://uchicago.edu)
-* [Christ College](http://christcollege.ca/)
 * [Churchill College](https://www.chu.cam.ac.uk/)
 * [Cincinnati, University of](http://www.uc.edu/)
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
