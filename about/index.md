@@ -23,6 +23,7 @@ If you're interested in having me present at your conference, [please contact me
 
 ## Past Presentations
 
+- **Beyond Offline with Service Workers**, [Local Variables](http://www.meetup.com/localvariables/), May 2016
 - **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
 - **At Your Service - The Next Generation of Offline Websites**, [ConvergeSE](http://convergese.com/), April 2016
 - **Web Storage & Service Workers**, [RWD Summit](http://environmentsforhumans.com/2016/responsive-web-design-summit/), March 2016
