@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/). Thanks to [Doug Gapinski](http://twitter.com/thedougco) for assisting in starting the list.
 
-**Updated 2016-05-06**
+**Updated 2016-05-31**
 
 ## A
 
@@ -70,6 +70,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Central College](http://www.central.edu/) _*[Hybrid](#hybrid)_
 * [Central Florida, University of](http://www.ucf.edu/) _*[Hybrid](#hybrid)_
 * [Central Michigan University](https://www.cmich.edu/)
+* [Century College](https://www.century.edu/)
 * [Chapman University](http://www.chapman.edu/)
 * [Chicago, University of](http://uchicago.edu)
 * [Churchill College](https://www.chu.cam.ac.uk/)
