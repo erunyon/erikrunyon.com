@@ -4,6 +4,7 @@ GEM
     autoprefixer-rails (6.3.1)
       execjs
       json
+    closure-compiler (1.1.12)
     colorator (0.1)
     execjs (2.6.0)
     ffi (1.9.10)
@@ -61,6 +62,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  closure-compiler
   jekyll
   jekyll-archives
   jekyll-paginate
