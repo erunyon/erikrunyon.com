@@ -6,11 +6,11 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ meta_title }}</title>
   <meta name="author" content="{{ site.author }}">
   <meta name="description" content="{{ meta_description }}">
   {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="canonical" href="{{ canonical }}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@erunyon">
@@ -22,6 +22,7 @@
   <meta property="og:url" content="{{ canonical }}">
   <meta property="og:image" content="{{ meta_image }}">
   <meta property="og:locale" content="en_US">
+  <link rel="manifest" href="/manifest.json">
   <link href="{{ root_url }}/favicon.png" rel="icon">
   <link rel="apple-touch-icon" href="/css/images/webclip-57.png">
   <link rel="apple-touch-icon" sizes="72x72" href="/css/images/webclip-72.png">

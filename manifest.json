@@ -1,0 +1,27 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "name": "Erik Runyon",
+  "short_name": "Erik Runyon",
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "icons": [{
+    "src": "/css/images/webclip-57.png",
+    "sizes": "57x57",
+    "type": "image/png"
+  },{
+    "src": "/css/images/webclip-72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "/css/images/webclip-114.png",
+    "sizes": "114x114",
+    "type": "image/png"
+  }, {
+    "src": "/css/images/webclip-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
