@@ -9,7 +9,7 @@ Today [Luke Wroblewski asked](https://twitter.com/lukew/status/43917275221840691
 
 <img src="/images/2014/social-stats-lukew.png" alt="@LukeW tweet asking for stats">
 
-The numbers below are pulled from a total of seven sites, including [ND.edu](http://www.nd.edu/). Since I track external link clicks on all projects, it was pretty easy to get the stats. For the purpose of these numbers, I'm only counting page views that have the social media links on them, which typically is just the homepage. For most sites, the links are presented fairly prominently using icons and large links. Pretty easy for the visitor to find. So without further ado, the numbers broken out by service:
+The numbers below are pulled from a total of seven sites, including [ND.edu](https://www.nd.edu/). Since I track external link clicks on all projects, it was pretty easy to get the stats. For the purpose of these numbers, I'm only counting page views that have the social media links on them, which typically is just the homepage. For most sites, the links are presented fairly prominently using icons and large links. Pretty easy for the visitor to find. So without further ado, the numbers broken out by service:
 
 - **Twitter**: 0.370%
 - **Facebook**: 0.059%

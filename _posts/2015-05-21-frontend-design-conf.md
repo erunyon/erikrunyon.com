@@ -27,7 +27,7 @@ We can all agree that web performance is a serious problem that warrants our tim
 - [BBC News Online](https://en.wikipedia.org/wiki/BBC_News_Online)
 - [US election brings BBC News website traffic high](http://www.digitalspy.com/media/news/a437075/us-election-brings-bbc-news-website-traffic-high.html)
 - [BBC News: We’ve made it.](http://responsivenews.co.uk/post/114413142693/weve-made-it)
-- [University of Notre Dame](http://www.nd.edu/)
+- [University of Notre Dame](https://www.nd.edu/)
 - [WTF Mobile Web](http://wtfmobileweb.com)
 - [WebPagetest](http://webpagetest.org)
 - [Responsive Images Community Group](http://responsiveimages.org)

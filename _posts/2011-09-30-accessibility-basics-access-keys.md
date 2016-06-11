@@ -29,6 +29,7 @@ There are other ways to advertise access keys which I won’t get into here (see
 
 So which keys should you use you ask? That’s a great question. There’s nothing in the HTML spec indicating which keys/values should be used, but there are sets that have become widely adopted around the web. According to the UK Government accessibility guidelines, you should use the following:
 
+<div class="tablewrap">
 <table>
   <caption><abbr>UK</abbr> Government Shortcuts</caption> <tr>
     <th>
@@ -149,13 +150,12 @@ So which keys should you use you ask? That’s a great question. There’s nothi
     </td>
   </tr>
 </table>
+</div>
 
 I’m ok with this list, although I think it’s missing important access keys, as well as including others that I haven’t needed in, well, ever. I typically try to include access keys to the homepage (“1”), content (I use “c”), navigation (“s”) and search (“4”).
 
 <div class="note">
-  <h4>
-    Resources
-  </h4>
+  <h4>Resources</h4>
 
   <ul>
     <li>

@@ -5,7 +5,7 @@ date: 2015-07-26
 categories: [Web Development, Teaching]
 published: true
 ---
-This past Spring I once again taught an [Into to Web Development class](/2014/01/lessons-learned-from-my-first-semester-of-teaching/) at the [University of Notre Dame](http://www.nd.edu/). While the class structure didn't change too much other than updating for the various changes in web development that occured over the past 1.5 years, the way I had students turn in assignments changed quite a bit.<!-- more -->
+This past Spring I once again taught an [Into to Web Development class](/2014/01/lessons-learned-from-my-first-semester-of-teaching/) at the [University of Notre Dame](https://www.nd.edu/). While the class structure didn't change too much other than updating for the various changes in web development that occured over the past 1.5 years, the way I had students turn in assignments changed quite a bit.<!-- more -->
 
 Last time I taught the class, each student uploaded projects to their university assigned webfile space (a web accessible directory where code can be stored and viewed). While this worked ok, I really wanted to get the students into source control much sooner than last time, which was near the end of the semester.
 
