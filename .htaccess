@@ -14,11 +14,11 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
   Header set Cache-Control "max-age=29030400, public"
 </filesMatch>
 # 1 WEEK
-<filesMatch ".(jpg|jpeg|png|gif|swf|css)$">
+<filesMatch ".(jpg|jpeg|png|gif|swf|css|js)$">
   Header set Cache-Control "max-age=604800, public"
 </filesMatch>
 # 2 DAYS
-<filesMatch ".(html|htm|xml|txt|xsl|js)$">
+<filesMatch ".(html|htm|xml|txt|xsl)$">
   Header set Cache-Control "max-age=172800, must-revalidate"
 </filesMatch>
 
