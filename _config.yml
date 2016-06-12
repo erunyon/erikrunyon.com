@@ -28,7 +28,7 @@ subscribe_rss: https://erikrunyon.com/feed.xml
 
 # SASS
 sass:
-  sass_dir: css
+  sass_dir: _includes/css
   style: :compressed # expanded, compact, compressed
 
 # Disqus Comments
