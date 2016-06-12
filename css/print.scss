@@ -1,6 +1,5 @@
-/*************************************************************************************
- * 4. Print Styles
- ************************************************************************************/
+---
+---
 @media print {
   * {margin:0; padding:0;}
   html {height:100%; background-color:#fff;}
@@ -26,6 +25,7 @@
   .alignnone {margin-right:5px; margin-bottom:0 !important;}
 
   #nav,
+  .pagination,
   .sidebar,
   .skip-links,
   .social-links {display:none;}
