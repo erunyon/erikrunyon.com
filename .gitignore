@@ -9,3 +9,5 @@ _deploy
 _drafts
 _config.yml
 _deploy.yml
+utilities/analytics.js
+utilities/track.js
