@@ -12,13 +12,13 @@ function updateStaticCache() {
       // These items won't block the installation of the Service Worker
       cache.addAll([
         '/about/',
+        '/contact/',
         '/highered-rwd-directory/'
       ]);
       // These items must be cached for the Service Worker to complete installation
       return cache.addAll([
-        '/css/images/leaves-right.jpg',
-        '/css/images/icons-social@2x.png',
-        '/css/site.css',
+        '/images/theme/leaves-right.jpg',
+        '/images/theme/icons-social@2x.png',
         '/js/site.js',
         '/',
         '/offline/'
