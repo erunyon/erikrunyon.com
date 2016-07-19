@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/).
 
-**Updated 2016-06-10**
+**Updated 2016-07-19**
 
 ## A
 
@@ -52,6 +52,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## C
 
 * [California Baptist University](http://www.calbaptist.edu/)
+* [California Lutheran University](http://www.callutheran.edu/)
 * [California State University, Channel Islands](http://www.csuci.edu/)
 * [California State University, Chico](http://www.csuchico.edu/)
 * [California State University, Northridge](http://www.csun.edu/)
@@ -289,6 +290,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [St. John's College](http://www.sjc.edu/)
 * [St. John's University](http://www.stjohns.edu/)
 * [Saint Joseph, University of](http://www.usj.edu/)
+* [St. Mary's University](https://www.stmarytx.edu/)
 * [San Diego, University of](http://www.sandiego.edu/)
 * [Santa Fe College](http://www.sfcollege.edu/)
 * [Scranton, The University of](http://www.scranton.edu/)
@@ -322,6 +324,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Stonehill College](http://www.stonehill.edu/)
 * [Suffolk University](http://www.suffolk.edu/)
 * [SUNY Cortland](http://www2.cortland.edu/)
+* [SUNY Oneonta](http://suny.oneonta.edu/)
 * [Surrey, University of](http://www.surrey.ac.uk/)
 
 ## T
@@ -383,6 +386,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## Y
 
 * [Yeshiva University](http://www.yu.edu/)
+* [York College of Pennsylvania](http://www.ycp.edu/)
 
 <h2 id="hybrid">Hybrid</h2>
 
