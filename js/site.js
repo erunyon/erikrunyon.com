@@ -49,6 +49,27 @@
   }
 })();
 
+// Track app installs
+window.addEventListener('beforeinstallprompt', function(event) {
+  // Tracks that the user saw a prompt.
+  ga('send', 'event', {
+    eventCategory: 'installprompt',
+    eventAction: 'fired'
+  });
+
+  event.userChoice.then(function(choiceResult) {
+    // Tracks the users choice.
+    ga('send', 'event', {
+      eventCategory: 'installprompt',
+      // `choiceResult.outcome` will be 'accepted' or 'dismissed'.
+      eventAction: choiceResult.outcome,
+      // `choiceResult.platform` will be 'web' or 'android' if the prompt was
+      // accepted, or '' if the prompt was dismissed.
+      eventLabel: choiceResult.platform
+    });
+  });
+});
+
 if('serviceWorker' in navigator) {
   navigator.serviceWorker.register('/sw.js', {
     scope: '/'
