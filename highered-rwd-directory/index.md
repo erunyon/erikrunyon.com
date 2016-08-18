@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/).
 
-**Updated 2016-07-19**
+**Updated 2016-08-17**
 
 ## A
 
@@ -21,6 +21,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [American University of Paris, The](http://www.aup.edu/)
 * [Amherst College](http://amherst.edu/)
 * [Ancilla College](http://www.ancilla.edu/)
+* [Andrews University](https://www.andrews.edu/)
 * [Arizona State University](http://www.asu.edu/)
 * [Arkansas State University](http://www.astate.edu/)
 * [A.T. Still University](http://www.atsu.edu/)
@@ -79,6 +80,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Claremont McKenna College](http://www.claremontmckenna.edu/)
 * [Clarkson University](http://www.clarkson.edu/) _*[Adaptive](#adaptive)_
 * [Clemson University](http://www.clemson.edu/)
+* [Coastal Carolina University](http://www.coastal.edu/)
 * [Colby College](http://www.colby.edu/)
 * [Coleg Cambria](http://www.cambria.ac.uk/)
 * [Colgate University](http://www.colgate.edu)
@@ -217,6 +219,8 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Messiah College](http://www.messiah.edu/)
 * [Miami University](http://miamioh.edu/)
 * [Michigan, University of](http://umich.edu/)
+* [Michigan State University](https://msu.edu/)
+* [Michigan Technological University](http://www.mtu.edu/)
 * [Minnesota, University of](http://www.umn.edu/)
 * [Mississippi College](http://www.mc.edu/)
 * [Mississippi, University of](http://www.olemiss.edu/) _*[Hybrid](#hybrid)_
@@ -339,6 +343,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Texas A&M International University](http://www.tamiu.edu/)
 * [Texas at Austin, The University of](http://www.utexas.edu/)
 * [Texas at San Antonio, University of](http://www.utsa.edu/)
+* [Texas State University](http://www.txstate.edu/)
 * [Tougaloo College](http://www.tougaloo.edu/)
 * [Trinity Baptist College](http://www.tbc.edu/)
 * [Trinity University](http://trinity.edu/)
