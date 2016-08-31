@@ -57,6 +57,7 @@
     .social-links li {margin:0.25rem 0;}
   }
   .search {border:1px solid #dadada;}
+  .site-search label {position:absolute; overflow:hidden; width:1px; height:1px; margin:-1px; padding:0; border:0; clip:rect(0 0 0 0);}
 
   .social-links {
     i {display:inline-block; vertical-align:top; width:16px; height:16px; margin-right:2px; background:url('/images/theme/icons-social@2x.png') 0 0 no-repeat; background-size:142px 16px;}
