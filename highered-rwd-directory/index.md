@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/).
 
-**Updated 2016-08-18**
+**Updated 2016-10-07**
 
 ## A
 
@@ -52,6 +52,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 ## C
 
+* [Cabrini University](https://www.cabrini.edu/)
 * [California Baptist University](http://www.calbaptist.edu/)
 * [California Lutheran University](http://www.callutheran.edu/)
 * [California State University, Channel Islands](http://www.csuci.edu/)
@@ -143,6 +144,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 
 * [Gettysburg College](http://www.gettysburg.edu/)
 * [George Fox University](http://www.georgefox.edu/)
+* [George Washington University, The](https://www.gwu.edu/)
 * [Georgetown College](http://www.georgetowncollege.edu/) _*[Adaptive](#adaptive)_
 * [Georgia Southern University](http://www.georgiasouthern.edu/)
 * [Glamorgan, University of](http://www.glam.ac.uk/)
@@ -244,6 +246,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Nicholls State University](http://www.nicholls.edu/) _*[Adaptive](#adaptive)_
 * [Nichols College](http://www.nichols.edu/)
 * [NC State University](http://www.ncsu.edu/)
+* [North Carolina School of the Arts, University of](http://www.uncsa.edu/)
 * [Northeastern Illinois University](http://neiu.edu/)
 * [Northwestern Michigan University](http://www.nmu.edu/)
 * [Northern Iowa, University of](http://www.uni.edu/) _*[Adaptive](#adaptive)_
