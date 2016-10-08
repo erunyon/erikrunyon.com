@@ -97,7 +97,7 @@ self.addEventListener('fetch', event => {
   if (request.method !== 'GET') {
     event.respondWith(
       fetch(request)
-        .catch( () => caches.match('/offline') )
+        .catch( () => caches.match('/offline/') )
     );
     return;
   }
@@ -116,7 +116,7 @@ self.addEventListener('fetch', event => {
         .catch( () => {
           // CACHE or FALLBACK
           return caches.match(request)
-            .then( response => response || caches.match('/offline') );
+            .then( response => response || caches.match('/offline/') );
         })
     );
     return;
