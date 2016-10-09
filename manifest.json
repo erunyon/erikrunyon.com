@@ -4,7 +4,7 @@
   "name": "Erik Runyon",
   "short_name": "Erik Runyon",
   "start_url": "/",
-  "display": "fullscreen",
+  "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "icons": [{
