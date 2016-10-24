@@ -83,6 +83,7 @@ Below is a small selection of the hundreds of site's I've helped build while at 
 
 ## Speaking
 
+- [HighEdWeb 2016](http://2016.highedweb.org/), Oct 2016
 - [Local Variables](http://www.meetup.com/localvariables/), May 2016
 - [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
 - [ConvergeSE](http://convergese.com/), April 2016

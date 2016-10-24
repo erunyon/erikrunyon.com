@@ -5,7 +5,7 @@ layout: default
 ---
 # About
 
-I am the Technical Director and a web developer for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of Notre Dame.
+I am the Technical Director and a web developer for [Marketing Communications](https://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). The opinions on this site are my own and do not necessarily represent the views of Notre Dame.
 
 ## Conference Resources
 
@@ -13,16 +13,17 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ### Bio
 
-[Erik Runyon](https://erikrunyon.com/), Technical Director for [Marketing Communications](http://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/), has been developing websites for fun and profit since 1995, and joined the university in 2007. Erik enjoys chatting and writing about web performance, accessibility, mobile support, and RWD.
+[Erik Runyon](https://erikrunyon.com/), Technical Director for [Marketing Communications](https://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/), has been developing websites for fun and profit since 1995, and joined the university in 2007. Erik enjoys chatting and writing about web performance, accessibility, mobile support, and RWD.
 
 ## Upcoming Presentations
 
-- **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb 2016](http://2016.highedweb.org/), Oct 2016
+None at this time.
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations
 
+- **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb 2016](http://2016.highedweb.org/), Oct 2016
 - **Beyond Offline with Service Workers**, [Local Variables](http://www.meetup.com/localvariables/), May 2016
 - **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
 - **At Your Service - The Next Generation of Offline Websites**, [ConvergeSE](http://convergese.com/), April 2016

@@ -1,15 +1,15 @@
-  {% unless page.no_header %}
-    <header>
-      {% if index == true %}<h2 class="entry-title"><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h2>
-      {% else %}<h1 class="entry-title">{{ page.title }}</h1>{% endif %}
-      {% unless page.meta == false %}
-        <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-      {% endunless %}
-    </header>
-  {% endunless %}
-  {% if index == true %}
-    <div class="entry-content entry-excerpt">{{ page.excerpt }}</div>
-    <footer><a href="{{ root_url }}{{ page.url }}">{{ site.excerpt_link }} &ldquo;{{ page.title }}&rdquo; &rarr;</a></footer>
-  {% else %}
-    <div class="entry-content">{{ content }}</div>
-  {% endif %}
+{% unless page.no_header %}
+  <header>
+    {% if index == true %}<h2 class="entry-title"><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h2>
+    {% else %}<h1 class="entry-title">{{ page.title }}</h1>{% endif %}
+    {% unless page.meta == false %}
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    {% endunless %}
+  </header>
+{% endunless %}
+{% if index == true %}
+  <div class="entry-content entry-excerpt">{{ page.excerpt }}</div>
+  <footer><a href="{{ root_url }}{{ page.url }}">{{ site.excerpt_link }} &ldquo;{{ page.title }}&rdquo; &rarr;</a></footer>
+{% else %}
+  <div class="entry-content">{{ content }}</div>
+{% endif %}
