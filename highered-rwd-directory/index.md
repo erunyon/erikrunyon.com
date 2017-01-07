@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/).
 
-**Updated 2016-10-07**
+**Updated 2017-01-07**
 
 ## A
 
@@ -67,6 +67,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Cameron University](http://www.cameron.edu/)
 * [Capella University](http://www.capella.edu/)
 * [Capital University](http://capital.edu/)
+* [Carnegie Mellon University](http://www.cmu.edu)
 * [Case Western Reserve University](http://www.case.edu/)
 * [Cedarville University](http://www.cedarville.edu/) _*[Adaptive](#adaptive)_
 * [Central Arkansas, University of](http://uca.edu)
@@ -272,6 +273,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Penn State University](http://www.psu.edu) _*[Hybrid](#hybrid)_
 * [Pittsburgh, University of](http://pitt.edu/)
 * [Portsmouth, University of](http://www.port.ac.uk/)
+* [Purdue University](http://www.purdue.edu)
 
 ## Q
 
