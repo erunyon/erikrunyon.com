@@ -2,11 +2,11 @@
 layout: default
 bodyclass: home
 ---
-
 {% assign index = true %}
 <div class="blog-index">
   {% for page in paginator.posts %}
-    <article class="entry excerpt">
+    {% if page.categories contains 'Snippet' %}{% assign snippet = 'snippet' %}{% else %}{% assign snippet = '' %}{% endif %}
+    <article class="entry excerpt {{ snippet }}">
       {% include article.html %}
     </article>
   {% endfor %}

@@ -77,6 +77,12 @@ hr {clear:both; width:100%;}
 }
 .read-more:after {content:' ⋟';}
 .meta {margin:1em 0; font-style:italic;}
+.snippet {padding:1rem; border-radius:3px; background-color:#f1f1f1;
+  .entry-title,
+  footer {display:none;}
+  .post-meta {margin:0; font-size:0.9rem;}
+  .entry-content p:last-child {margin-bottom:0;}
+}
 
 pre	{overflow:auto; width:98%; margin:0 0 20px; padding:10px; background:#f9f9f9; border:1px solid #ccc; border-width:1px 0; font-family:monospace;}
 code {font:1.2em 'Courier New', Courier, Fixed;
