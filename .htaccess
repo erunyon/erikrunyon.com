@@ -29,7 +29,7 @@ AddOutputFilterByType DEFLATE text/html text/css application/javascript
   # Feed tracking
   RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
   RewriteCond %{HTTP_USER_AGENT} !uri\.lv [NC]
-  RewriteRule ^feed.xml$ http://feeds.uri.lv/weedygarden [R=302,NC,L]
+  RewriteRule ^feed.xml$ http://feedpress.me/weedygarden [R=302,NC,L]
 
   # Don't allow index.html
   RewriteCond %{REQUEST_URI} index\.html
