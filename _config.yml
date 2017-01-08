@@ -24,7 +24,7 @@ include: ['.htaccess']
 exclude: [node_modules, 'README.md', 'Gemfile.lock', 'Gemfile']
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: https://erikrunyon.com/feed.xml
+feed_rss: https://erikrunyon.com/feed.xml
 snippets_rss: https://erikrunyon.com/snippets.xml
 
 # SASS
