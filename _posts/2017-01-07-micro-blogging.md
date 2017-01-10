@@ -15,7 +15,7 @@ Inspired by [Manton Reece](http://www.manton.org) and his [Indie Microblogging K
 
 ## Changes to Come
 
-Very soon I'll be building in micro-blogging functionality. This will include an in-line view for these shorter posts. I'll also be setting up a separate feed, which can then be used to feed Twitter (probably using [IFTTT](https://ifttt.com/)). Since I use Jekyll, this should be fairly easy to do. I'll post the details of the how later.
+Very soon I'll be building in micro-blogging functionality. This will include an in-line view for these shorter posts. I'll also be setting up a separate feed, which can then be used to feed Twitter using [IFTTT](https://ifttt.com/), which in turn feeds into Facebook.
 
 This new feature will not completely take over my social network posting. I'm sure I'll still be posting directly to Facebook and Twitter, but I'll try and stick to the new workflow as much as possible.
 
