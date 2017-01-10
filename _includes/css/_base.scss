@@ -77,7 +77,7 @@ hr {clear:both; width:100%;}
 }
 .read-more:after {content:' ⋟';}
 .meta {margin:1em 0; font-style:italic;}
-.snippet {padding:1rem; border-radius:3px; background-color:#f1f1f1;
+.snippet {padding:1rem; border-radius:3px; background-color:#fbfbc0; border:1px solid #eee; box-shadow:rgba(0,0,0,0.1) 1px 1px 1rem;
   .entry-title,
   footer {display:none;}
   .post-meta {margin:0; font-size:0.9rem;}
