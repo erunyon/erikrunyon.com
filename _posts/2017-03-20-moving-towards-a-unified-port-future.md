@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving Towards a Unified Port Future"
-date: 2017-03-15
+date: 2017-03-20
 categories: Apple
 ---
 In late 2016, Apple released an update to its popular MacBook Pro. Two key features were the replacement of the functions keys by the Touch Bar, and the simplification of the available ports. Gone are MagSafe, SD card readers, USB Type A, and HDMI. In their place you'll find four Thunderbolt 3 ports and one audio port. There were both proponents and detractors for both of these changes, and often much angrier than I think they should be.<!-- more -->
