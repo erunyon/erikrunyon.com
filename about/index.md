@@ -17,7 +17,7 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
-None at this time.
+- **Improving Web Performance in a Mobile World**, [Digital Summit Detroit 2017](https://detroit.digitalsummit.com/agenda/main-conference/), Sept 2017
 
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
