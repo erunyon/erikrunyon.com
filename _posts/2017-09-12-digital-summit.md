@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Summit Detroit 2017"
-date: 2018-09-12
+date: 2017-09-12
 categories: [Web Development, Conference]
 ---
 My presentation for [Digital Summit Detroit 2017](https://detroit.digitalsummit.com/) in Detroit was about the importance of web performance in a mobile world.
