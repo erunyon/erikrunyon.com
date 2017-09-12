@@ -44,6 +44,7 @@ After this session, you’ll be able to:
 - [WPT - Notre Dame/USC](https://www.webpagetest.org/video/compare.php?tests=170908_M1_6ec87cb28bf547650f30c712abd43c59,170908_FY_6a8d7009b323f6125b2a81eb2bfc0c5a)
 - [WPT - Michigan/Ohio State](https://www.webpagetest.org/video/compare.php?tests=170906_ZN_13b144141fd9da4cf2f19563c500150b,170906_DK_55c45e56305694e2629bd6cd268b3631)
 - [WPT - Jets/Sharks](https://www.webpagetest.org/video/compare.php?tests=170906_CG_bb57a080acdf7c8c602c59a6ce8c383b,170906_ES_930c8b19fc3a912ed11f0e019274b22a)
+- [WPT - Lions/Tigers/Bears](https://www.webpagetest.org/video/compare.php?tests=170912_QR_afad316434633c483a1cb5ac444d7e4b,170912_CC_ca3d301d379081b1e78afa0cb67c4ec9,170912_8Y_6fdcb2327e1445e7a53f4d95a4db31c3)
 - [WPT - Hatsfields/McCoys](https://www.webpagetest.org/video/compare.php?tests=170906_MP_87a7b4cca0766377bfa9272efac40584,170906_4Y_8ab98f87bc562205809b3b927ae9ed01)
 
 ## Additional Resources
