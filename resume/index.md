@@ -11,7 +11,7 @@ bodyclass: "resume"
 *University of Notre Dame*<br>
 April 2015 - Present
 
-Manages technical leadership during projects with both internal team members and clients, establishes development plans, and advises and educates regarding all facets of the development process. This requires hands-on coding and programming of both front-end and back-end web applications, database management, server maintenance and system optimization. This includes, but is not limited to, the university CMS (Conductor), [www.ND.edu](https://www.nd.edu/), [Map](http://map.nd.edu/), and [Blogs](http://blogs.nd.edu/). Evaluates, develops, and assists in the implementation of technical solutions, processes and integrations that impact communications for the entire university. Contributes to the professional development of other developers both inside and outside of department through mentoring and education.
+Manages technical leadership during projects with both internal team members and clients, establishes development plans, and advises and educates regarding all facets of the development process. This requires hands-on coding and programming of both front-end and back-end web applications, database management, server maintenance and system optimization. This includes, but is not limited to, the university CMS (Conductor), [www.ND.edu](https://www.nd.edu/), [Map](https://map.nd.edu/), and [the Wordpress Network](http://sites.nd.edu/). Evaluates, develops, and assists in the implementation of technical solutions, processes and integrations that impact communications for the entire university. Contributes to the professional development of other developers both inside and outside of department through mentoring and education.
 
 Functions as technical lead for cross-functional team, which includes project planning, coordination with other project leads, evaluating progress of tasks and completed work. This often requires meeting and working with the Managing Director of Marketing Communication, Strategic Content Team, and Marketing Communications directors as well as leadership from other departments, units, or university leadership. Collaborates with functional units to analyze business objectives and directions, facilitates business requirements definition, and recommends business processes/technical solutions that provide the best return on investment to the organization. Provides consulting services to technical and functional staff on business/system related issues.
 
@@ -83,6 +83,7 @@ Below is a small selection of the hundreds of site's I've helped build while at 
 
 ## Speaking
 
+- [Digital Summit Detroit 2017](https://detroit.digitalsummit.com/agenda/main-conference/), Sept 2017
 - [HighEdWeb 2016](http://2016.highedweb.org/), Oct 2016
 - [Local Variables](http://www.meetup.com/localvariables/), May 2016
 - [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016

@@ -17,12 +17,11 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
-- **Improving Web Performance in a Mobile World**, [Digital Summit Detroit 2017](https://detroit.digitalsummit.com/agenda/main-conference/), Sept 2017
-
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations
 
+- **Improving Web Performance in a Mobile World**, [Digital Summit Detroit 2017](https://detroit.digitalsummit.com/agenda/main-conference/), Sept 2017
 - **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb 2016](http://2016.highedweb.org/), Oct 2016
 - **Beyond Offline with Service Workers**, [Local Variables](http://www.meetup.com/localvariables/), May 2016
 - **At Your Service - The Next Generation of Offline Websites**, [HighEdWeb Michigan](http://mi16.highedweb.org/), May 2016
