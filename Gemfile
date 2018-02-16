@@ -7,5 +7,5 @@ group :development do
   gem 'jekyll-archives'
   gem 'octopress'
   gem 'octopress-autoprefixer'
-  gem 'closure-compiler'
+  # gem 'closure-compiler'
 end
