@@ -5,7 +5,7 @@
   "short_name": "Erik Runyon",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#ffffff",
+  "theme_color": "#004da3",
   "background_color": "#ffffff",
   "icons": [{
     "src": "/images/theme/webclip-57.png",
@@ -26,6 +26,10 @@
   }, {
     "src": "/images/theme/webclip-192.png",
     "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "/images/theme/webclip-512.png",
+    "sizes": "512x512",
     "type": "image/png"
   }]
 }
