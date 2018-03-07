@@ -226,6 +226,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Michigan, University of](http://umich.edu/)
 * [Michigan State University](https://msu.edu/)
 * [Michigan Technological University](http://www.mtu.edu/)
+* [Middlebury](http://www.middlebury.edu/)
 * [Minnesota, University of](http://www.umn.edu/)
 * [Mississippi College](http://www.mc.edu/)
 * [Mississippi, University of](http://www.olemiss.edu/) _*[Hybrid](#hybrid)_
@@ -249,6 +250,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 * [Nicholls State University](http://www.nicholls.edu/) _*[Adaptive](#adaptive)_
 * [Nichols College](http://www.nichols.edu/)
 * [NC State University](http://www.ncsu.edu/)
+* [North Carolina at Chapel Hill, University of](https://www.unc.edu/)
 * [North Carolina School of the Arts, University of](http://www.uncsa.edu/)
 * [Northeastern Illinois University](http://neiu.edu/)
 * [Northwestern Michigan University](http://www.nmu.edu/)
