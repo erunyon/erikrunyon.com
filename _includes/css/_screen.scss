@@ -1,7 +1,7 @@
 /*************************************************************************************
  * 2. Screen Styles
  ************************************************************************************/
-@media screen,projection {
+@media screen {
   body {background:#fff url('/images/theme/leaves-right.jpg') top right no-repeat; background-size:60% auto;}
   blockquote {margin:0 0 1rem; padding:0.25rem 1rem; border-left:1px solid #333;}
 
@@ -38,7 +38,7 @@
 
   /* CONTENT
   ----------------------------------------------------*/
-  .content {width:100%; margin:15px 0;}
+  .content {}
   .content img {clear:both; display:block; margin:1em auto; max-width:100%;}
 
   .rwd-directory li em {color:#999; vertical-align:bottom;}
@@ -46,7 +46,7 @@
 
   /* SIDEBAR
   ----------------------------------------------------*/
-  .sidebar {width:100%; padding:1em; border-top:1px solid #dadada; color:#777;
+  .sidebar {padding-top:1.4rem; border-top:1px solid #dadada; color:#777;
     section {margin:10px 0; padding:10px 0;}
     h2 {margin:0 0 .25em 0; font-size:1.3em; line-height:1.4; text-transform:uppercase; color:#666;}
     a {color:#555;}
@@ -108,16 +108,17 @@
 
   .columnlists .content ul {columns:2em 2;}
 
-  .wrapper {max-width:1200px; margin:5em 6%; height:1%;}
+  .wrapper {display:grid; grid-gap:var(--grid-gap); grid-template-columns:minmax(min-content, 800px) 300px; max-width:1200px; margin:5em 6%; height:1%;}
   .skip-links { border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px; }
   .skip-links:active, .skip-links:focus { clip:auto; height:auto; margin:0; overflow:visible; position:static; width:auto; }
 
-  .site-header {margin:0 0 4em;
+  .site-header { margin:0 0 3em;
     .site-title {margin:0; padding:0;}
   }
-
-  .content {float:left; width:65%; margin:0 5% 0 0; padding:0;}
-  .sidebar {float:right; width:30%; padding:0.75em 0 0 1em; color:#777; border:none; background-color:rgba(255, 255, 255, 0.8);}
+  .site-header,
+  .site-footer {grid-column:1/-1;}
+  .content {grid-column:1/2;}
+  .sidebar {grid-column:2/3; grid-row:2/3; padding-left:4rem; color:#777; border:none; background-color:rgba(255, 255, 255, 0.8);}
   .site-footer {text-align:left;}
     .org a {display:inline-block; margin:0 0.25em;}
 }
