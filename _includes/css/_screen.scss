@@ -3,7 +3,9 @@
  ************************************************************************************/
 @media screen {
   body {background:#fff url('/images/theme/leaves-right.jpg') top right no-repeat; background-size:60% auto;}
-  blockquote {margin:0 0 1rem; padding:0.25rem 1rem; border-left:3px solid #999;}
+  blockquote {margin:0 0 1rem; padding:0.25rem 1rem; border-left:3px solid #999;
+    code {padding:1px 5px; font-size:1rem; border:1px solid #aaa; border-radius:3px; background:#eee;}
+  }
 
   /* WRAPPER
   ----------------------------------------------------*/
@@ -31,7 +33,7 @@
   /* HEADER
   ----------------------------------------------------*/
   .site-header {margin:0 0 2em;
-    .site-title {margin:0; color:#002b5b; font-size:2.6em; font-weight:normal; line-height:1.1em; text-rendering:optimizeLegibility; text-shadow:0 1px 1px rgba(255,255,255,0.5); font-family:Lato, "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
+    .site-title {margin:0; color:#002b5b; font-size:2.6em; font-weight:normal; line-height:1.1em; text-rendering:optimizeLegibility; text-shadow:0 1px 1px rgba(255,255,255,0.5); font-family:var(--title-font-stack);}
     .site-title a {text-decoration:none; border:0 none; color:#1f4919;}
     .site-subtitle {margin:0 0 0 0.3em; font-size:0.9em; font-family:"Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;}
   }
