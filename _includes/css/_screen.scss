@@ -3,7 +3,7 @@
  ************************************************************************************/
 @media screen {
   body {background:#fff url('/images/theme/leaves-right.jpg') top right no-repeat; background-size:60% auto;}
-  blockquote {margin:0 0 1rem; padding:0.25rem 1rem; border-left:1px solid #333;}
+  blockquote {margin:0 0 1rem; padding:0.25rem 1rem; border-left:3px solid #999;}
 
   /* WRAPPER
   ----------------------------------------------------*/
@@ -107,6 +107,9 @@
   body {background-size:80% auto;}
 
   .columnlists .content ul {columns:2em 2;}
+  .entry {margin-bottom:4em;
+    header {margin-bottom:0.5rem;}
+  }
 
   .wrapper {display:grid; grid-gap:var(--grid-gap); grid-template-columns:minmax(min-content, 800px) 300px; max-width:1200px; margin:5em 6%; height:1%;}
   .skip-links { border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px; }

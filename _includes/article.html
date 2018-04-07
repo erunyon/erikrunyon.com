@@ -1,6 +1,11 @@
 {% unless page.no_header %}
   <header>
-    {% if index == true %}<h2 class="entry-title"><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h2>
+    {% if index == true %}
+      {% if page.categories contains 'Snippet' and page.external.size > 0 %}
+        <h2 class="entry-title external"><a href="{{ page.external }}">{{ page.title }}</a></h2>
+      {% else %}
+        <h2 class="entry-title"><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h2>
+      {% endif %}
     {% else %}<h1 class="entry-title">{{ page.title }}</h1>{% endif %}
     {% unless page.meta == false %}
       <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>

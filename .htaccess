@@ -25,22 +25,22 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 # Gzip
 AddOutputFilterByType DEFLATE text/html text/css application/javascript
 
-<IfModule mod_rewrite.c>
-  # Feed tracking
-  RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
-  RewriteCond %{HTTP_USER_AGENT} !uri\.lv [NC]
-  RewriteRule ^feed.xml$ http://feedpress.me/weedygarden [R=302,NC,L]
+RedirectMatch permanent ^/page1/(.*) /
 
-  # Don't allow index.html
-  RewriteCond %{REQUEST_URI} index\.html
-  RewriteRule ^(.*)index\.html$ /$1 [R=301,L]
+# Feed tracking
+RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+RewriteCond %{HTTP_USER_AGENT} !uri\.lv [NC]
+RewriteRule ^feed.xml$ http://feedpress.me/weedygarden [R=302,NC,L]
 
-  # Redirect weedygarden
-  RewriteCond %{HTTP_HOST} ^weedygarden.net$ [OR]
-  RewriteCond %{HTTP_HOST} ^www.weedygarden.com$
-  RewriteRule (.*)$ http://erikrunyon.com/$1 [R=301,L]
+# Don't allow index.html
+RewriteCond %{REQUEST_URI} index\.html
+RewriteRule ^(.*)index\.html$ /$1 [R=301,L]
 
-  # Force non www
-  RewriteCond %{HTTP_HOST} ^www.erikrunyon.com [NC]
-  RewriteRule ^(.*)$ http://erikrunyon.com/$1 [L,R=301,NC]
-</IfModule>
+# Redirect weedygarden
+RewriteCond %{HTTP_HOST} ^weedygarden.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www.weedygarden.com$
+RewriteRule (.*)$ http://erikrunyon.com/$1 [R=301,L]
+
+# Force non www
+RewriteCond %{HTTP_HOST} ^www.erikrunyon.com [NC]
+RewriteRule ^(.*)$ http://erikrunyon.com/$1 [L,R=301,NC]
