@@ -84,7 +84,8 @@ hr {clear:both; width:100%;}
 .meta {margin:1em 0; font-style:italic;}
 .snippet {
   .entry-title {font-size:1.4rem;}
-  .external a:after {content:' ⬈'; vertical-align:text-top;}
+  .external a {padding-right:1.5rem; background:url('/images/theme/external.svg') center right no-repeat; background-size:16px auto;}
+  // .external a:after {content:' ➚ ➙ ➦ '; font-size:1.6rem; vertical-align:baseline;}
   .entry-content p:last-child {margin-bottom:0;}
   footer {display:none;}
 }

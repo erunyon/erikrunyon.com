@@ -19,6 +19,7 @@ function updateStaticCache() {
       return cache.addAll([
         '/images/theme/leaves-right.jpg',
         '/images/theme/icons-social@2x.png',
+        '/images/theme/external.svg',
         '/js/site.js',
         '/',
         '/offline/'
