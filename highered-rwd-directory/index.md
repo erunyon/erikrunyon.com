@@ -7,7 +7,7 @@ bodyclass: "columnlists rwd-directory"
 
 This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Adaptive](#adaptive)) HigherEd homepages (no department or sub sites). If you know of any that are missing from the list, [please let me know](/contact/).
 
-**Updated 2017-11-16**
+**Updated 2018-05-31**
 
 ## A
 
@@ -299,6 +299,7 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## S
 
 * [Sacred Heart University](http://www.sacredheart.edu/)
+* [Saint Louis University](http://www.slu.edu/)
 * [St. Edward's University in Austin, Texas](https://www.stedwards.edu/)
 * [St. John's College](http://www.sjc.edu/)
 * [St. John's University](http://www.stjohns.edu/)
