@@ -17,6 +17,9 @@ I am the Technical Director and a web developer for [Marketing Communications](h
 
 ## Upcoming Presentations
 
+- **Performance Still Matters**, [HighEdWeb 2018](https://2018.highedweb.org/schedule/#code-UAD10), Oct 2018
+- **Modern CSS Layouts** (workshop), [HighEdWeb 2018](https://2018.highedweb.org/session/modern-css-layouts/), Oct 2018
+
 If you're interested in having me present at your conference, [please contact me](/contact/).
 
 ## Past Presentations
