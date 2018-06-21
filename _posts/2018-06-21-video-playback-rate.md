@@ -15,4 +15,4 @@ Many conferences such as [Smashing Magazine](https://vimeo.com/smashingmagazine/
 
 <p><code class="javascript">document.querySelector('video').playbackRate = <em>1.5</em></code></p>
 
-Adjust the numeric value at the end to whatever speed you find comprehensible. You can even use this to fine-tune YouTube's playback rate in case their provided values aren't exactly what you need.
+Adjust the numeric value at the end (1 == default, 2 == 2x) to whatever speed you find comprehensible. You can even use this to fine-tune YouTube's playback rate in case their provided values aren't exactly what you need.
