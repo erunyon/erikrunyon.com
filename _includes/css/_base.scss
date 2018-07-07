@@ -91,7 +91,7 @@ hr {clear:both; width:100%;}
 }
 
 pre	{overflow:auto; width:98%; margin:0 0 20px; padding:10px; background:#f9f9f9; border:1px solid #ccc; border-width:1px 0; font-family:monospace;}
-code {font:1.2em 'Courier New', Courier, Fixed;
+code {display:block; overflow-y:auto; word-break:break-word; font:1.2em 'Courier New', Courier, Fixed;
   span.brackets {font-weight:bold;}
   span.comment {float:none; border:none; color:#999;}
   span.keywords,
