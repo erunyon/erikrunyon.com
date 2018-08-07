@@ -37,7 +37,7 @@ disqus_short_name: weedygarden
 disqus_show_comment_count: true
 
 # Gems
-gems:
+plugins:
   - jekyll-sitemap
   - octopress-autoprefixer
   - jekyll-paginate
