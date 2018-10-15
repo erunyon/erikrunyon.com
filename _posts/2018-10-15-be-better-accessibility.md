@@ -7,4 +7,4 @@ external: https://seesparkbox.com/foundry/website_accessibility_through_responsi
 ---
 > Everything is broken. And it’s broken because we broke it.
 
-Accessibility isn't something we should do because we might get sued. It's something we do because it's the right thing.
+Accessibility isn't something we should do because we might get sued. It's something we do because it's right.
