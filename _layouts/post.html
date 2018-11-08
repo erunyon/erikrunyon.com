@@ -3,9 +3,13 @@ layout: default
 single: true
 bodyclass: post
 ---
-
 <article class="entry hentry">
   {% include article.html %}
+
+  {% if page.external.size > 0 %}
+    <p class="external"><a href="{{ page.external }}">Read more &gt;</a></p>
+  {% endif %}
+
   <footer>
     <p class="meta">
       {% include post/author.html %}
