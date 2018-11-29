@@ -6,4 +6,4 @@ categories: [Snippet, Web Development, perf]
 external: https://ethanmarcotte.com/wrote/not-the-device/
 ---
 
-Ethan Marcotte discusses viewing the web on a watch, and why the terms “mobile,” “tablet,” and “desktop” should generally be avoided when designing for the web.
+Ethan Marcotte's thoughts on viewing the web on a watch, and why the terms “mobile,” “tablet,” and “desktop” should generally be avoided when designing for the web.
