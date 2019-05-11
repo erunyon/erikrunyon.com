@@ -71,7 +71,7 @@ Associate of Arts, 1995
 
 Below is a small selection of the hundreds of site's I've helped build while at Notre Dame.
 
-- [www.ND.edu](http://www.ND.edu/) 2012
+- [www.ND.edu](http://www.ND.edu/) 2012, 2019
   - [Solidarity Through Sandwiches](http://www.nd.edu/features/solidarity-through-sandwiches/) 2015 feature story
   - [The Art of Truth](http://www.nd.edu/features/maxim-kantor/) 2015 feature story
 - [map.ND.edu](http://map.ND.edu/) 2009
@@ -83,6 +83,8 @@ Below is a small selection of the hundreds of site's I've helped build while at 
 
 ## Speaking
 
+- [HighEdWeb 2018](https://2018.highedweb.org/session/performance-still-matters/), Oct 2018
+- [HighEdWeb 2018](https://2018.highedweb.org/session/modern-css-layouts/), (workshop) Oct 2018
 - [Digital Summit Detroit 2017](https://detroit.digitalsummit.com/agenda/main-conference/), Sept 2017
 - [HighEdWeb 2016](http://2016.highedweb.org/), Oct 2016
 - [Local Variables](http://www.meetup.com/localvariables/), May 2016
