@@ -21,6 +21,7 @@ If you're interested in having me present at your conference, [please contact me
 
 ## Past Presentations
 
+- **Why and how to set a performance budget for your higher ed website**, [Higher Ed Websites Conference 2019](http://higheredexperts.com/edu/course/higher-ed-websites-conference/), Jun 2019
 - **Performance Still Matters**, [HighEdWeb 2018](https://2018.highedweb.org/session/performance-still-matters/), Oct 2018
 - **Modern CSS Layouts** (workshop), [HighEdWeb 2018](https://2018.highedweb.org/session/modern-css-layouts/), Oct 2018
 - **Improving Web Performance in a Mobile World**, [Digital Summit Detroit 2017](https://detroit.digitalsummit.com/agenda/main-conference/), Sept 2017
