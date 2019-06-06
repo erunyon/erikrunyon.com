@@ -80,7 +80,7 @@
     img {clear:both; display:block; margin:1em auto; max-width:100%;}
     .date {font-weight:bold;}
     a {display:block; width:100%;}
-    b {display:block; color:$link_color; font-weight:bold; font-size:1.4em; line-height:1.1em;}
+    b {display:block; color:var(--link-color); font-weight:bold; font-size:1.4em; line-height:1.1em;}
   }
 
   /* FOOTER
@@ -91,7 +91,6 @@
     .social-links li {display:inline-block; margin:0.25rem 1rem 0.25rem 0; padding:0;}
   }
   .org a {display:block;}
-
 }
 
 /*************************************************************************************
@@ -137,4 +136,22 @@
   .post-header h2 {font-size:2.2em;}
   .post p {max-width:40rem;}
   .social-links a {padding:0.2rem;}
+}
+
+@media(prefers-color-scheme:dark){
+  :root {
+    --link-color:#fff;
+  }
+  body {color:#eee; background-color:#333; background-blend-mode:multiply;}
+  .post-meta,
+  a,
+  a:visited,
+  a:hover,
+  a:active,
+  .sidebar a,
+  .sidebar a:hover,
+  .site-header .site-title a {color:#eee;}
+  .sidebar {background:none;}
+  .snippet .external a,
+  .social-links i {background-blend-mode:multiply;}
 }
