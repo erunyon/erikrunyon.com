@@ -21,6 +21,7 @@ If you're interested in having me present at your conference, [please contact me
 
 ## Past Presentations
 
+- **Improving Web Performance in a Mobile World**, [Huddle 2019](https://huddle2019.nd.edu/), July 2019
 - **Why and how to set a performance budget for your higher ed website**, [Higher Ed Websites Conference 2019](http://higheredexperts.com/edu/course/higher-ed-websites-conference/), Jun 2019
 - **Performance Still Matters**, [HighEdWeb 2018](https://2018.highedweb.org/session/performance-still-matters/), Oct 2018
 - **Modern CSS Layouts** (workshop), [HighEdWeb 2018](https://2018.highedweb.org/session/modern-css-layouts/), Oct 2018
