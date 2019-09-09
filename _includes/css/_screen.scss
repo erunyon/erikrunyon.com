@@ -148,10 +148,12 @@
   a:visited,
   a:hover,
   a:active,
+  .entry-title,
   .sidebar a,
   .sidebar a:hover,
   .site-header .site-title a {color:#eee;}
   .sidebar {background:none;}
   .snippet .external a,
   .social-links i {background-blend-mode:multiply;}
+  h1, h2, h3, h4, h5, h6 {color:#eee; text-shadow:none;}
 }
