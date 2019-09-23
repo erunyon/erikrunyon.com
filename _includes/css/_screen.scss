@@ -151,7 +151,12 @@
   .entry-title,
   .sidebar a,
   .sidebar a:hover,
-  .site-header .site-title a {color:#eee;}
+  .site-header .site-title a {color:#fff;}
+  .entry-title a,
+  .entry-title a:visited,
+  .entry-content a,
+  footer a {color:#8bc360;}
+  .site-title {text-shadow:none;}
   .sidebar {background:none;}
   .snippet .external a,
   .social-links i {background-blend-mode:multiply;}
