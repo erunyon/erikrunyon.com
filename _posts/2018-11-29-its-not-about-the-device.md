@@ -2,7 +2,7 @@
 layout: post
 title: "It’s Not About the Device."
 date: 2018-11-29
-categories: [Snippet, Web Development, perf]
+categories: [Snippet, Web Development, Performance]
 external: https://ethanmarcotte.com/wrote/not-the-device/
 ---
 

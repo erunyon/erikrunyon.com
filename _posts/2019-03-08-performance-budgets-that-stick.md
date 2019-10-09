@@ -2,7 +2,7 @@
 layout: post
 title: "Performance Budgets That Stick"
 date: 2019-03-08T09:20:00-05:00
-categories: [Snippet, Web Development, perf]
+categories: [Snippet, Web Development, Performance]
 external: https://timkadlec.com/remembers/2019-03-07-performance-budgets-that-stick/
 ---
 

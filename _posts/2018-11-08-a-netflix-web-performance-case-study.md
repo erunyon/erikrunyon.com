@@ -2,7 +2,7 @@
 layout: post
 title: "A Netflix Web Performance Case Study"
 date: 2018-11-08
-categories: [Snippet, Web Development, perf]
+categories: [Snippet, Web Development, Performance]
 external: https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Teenager’s UX: Designing for Teens"
 date: 2019-04-09
-categories: [Snippet, Web Development, perf]
+categories: [Snippet, Web Development, Performance]
 external: https://www.nngroup.com/articles/usability-of-websites-for-teenagers/
 ---
 The Nielsen Norman Group performed a study of teenagers and how they use the web. Some interesting notes:
