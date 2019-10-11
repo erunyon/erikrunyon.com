@@ -345,7 +345,6 @@ This is a non-exhaustive list of Responsive (including [Hybrid](#hybrid) and [Ad
 ## T
 
 * [Temple University](http://www.temple.edu/)
-* [Temple University, Japan Campus](http://www.tuj.ac.jp/)
 * [Tennessee, Chattanooga, University of](http://www.utc.edu/)
 * [Tennessee, Knoxville, University of](http://www.utk.edu/)
 * [Tennessee, Martin, University of](http://utm.edu/)
