@@ -7,6 +7,8 @@
     code {padding:1px 5px; font-size:1rem; border:1px solid #aaa; border-radius:3px; background:#eee;}
   }
 
+  .callout {padding:1rem; border:2px solid #333; background:#ebebeb;}
+
   /* WRAPPER
   ----------------------------------------------------*/
   .wrapper {margin:4em 1em 0;}
@@ -44,8 +46,9 @@
     img {clear:both; display:block; margin:1em auto; max-width:100%;}
   }
 
-  .rwd-directory li em {color:#999; vertical-align:bottom;}
-    .rwd-directory li em a {color:inherit;}
+  .rwd-directory li em {color:#999; vertical-align:bottom;
+    a {color:inherit;}
+  }
 
   /* SIDEBAR
   ----------------------------------------------------*/
@@ -136,6 +139,7 @@
   .post-header h2 {font-size:2.2em;}
   .post p {max-width:40rem;}
   .social-links a {padding:0.2rem;}
+  .md-2 {display:grid; grid-template-columns:1fr 1fr; gap:1rem;}
 }
 
 // @media(prefers-color-scheme:dark){
