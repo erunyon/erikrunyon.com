@@ -41,7 +41,7 @@ plugins:
   - jekyll-sitemap
   - octopress-autoprefixer
   - jekyll-paginate
-  - jekyll-archives
+  #- jekyll-archives
 
 jekyll-archives:
   enabled: categories
