@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Fastest Homepages in HigherEd"
+title: "The Fastest Homepages in Higher Ed"
 date: 2019-12-03
 categories: [HigherEd,Web Development,Performance]
 bodyclass: "top10"
