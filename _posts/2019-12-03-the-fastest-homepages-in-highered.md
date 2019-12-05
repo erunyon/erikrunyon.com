@@ -34,6 +34,10 @@ Rather than determining the rankings from a single metric, scores are based on t
 
 Before we get to the results, I would point out that [Wasthenaw Community College](http://www.wccnet.edu/) would have made the list but it does not meet the "mobile friendly" criteria. I bring it up to point out that modern web practices don't necessarily equate to faster. There are plenty of non-responsive sites in my source list, but WCC was fast enough to warrant mention.
 
+### Update 2019-12-05
+
+Two days after posting, WCC released a complete overhaul of their site. The version mentioned above [can be viewed on archive.org](https://web.archive.org/web/20190829212037/http://www.wccnet.edu/). The new version would not qualify.
+
 ## The Results
 
 While the results below are for mobile sites, it does not necessarily mean the sites are also fast at larger sizes. To that end, I also include desktop stats for each. The "Mobile Stats" and "Desktop Stats" titles for each site link to the WebPageTest results in case you want to get into the weeds of each one.
