@@ -2,7 +2,7 @@
 layout: post
 title: "Google Switching to Mobile First Indexing for the Whole Web"
 date: 2020-03-05
-categories: [Snippet, Web Development, Performance]
+categories: [Snippet, Search, Mobile]
 external: https://webmasters.googleblog.com/2020/03/announcing-mobile-first-indexing-for.html
 ---
 If you still had any questions regarding the importance of mobile support.
