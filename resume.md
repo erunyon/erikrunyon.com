@@ -7,7 +7,7 @@ bodyclass: "resume"
 
 ## Career
 
-**Technical Director: Marketing Communications**<br>
+### Technical Director: Marketing Communications
 *University of Notre Dame*<br>
 April 2015 - Present
 
@@ -15,47 +15,48 @@ Manages technical leadership during projects with both internal team members and
 
 Functions as technical lead for cross-functional team, which includes project planning, coordination with other project leads, evaluating progress of tasks and completed work. This often requires meeting and working with the Managing Director of Marketing Communication, Strategic Content Team, and Marketing Communications directors as well as leadership from other departments, units, or university leadership. Collaborates with functional units to analyze business objectives and directions, facilitates business requirements definition, and recommends business processes/technical solutions that provide the best return on investment to the organization. Provides consulting services to technical and functional staff on business/system related issues.
 
-**Director of Web Communications: OPAC**<br>
+### Director of Web Communications: OPAC
 *University of Notre Dame*<br>
 2013-2015
 
 The Director of Web Communications leads the web and interactive services division of Marketing Communications: Web. This includes supervising web developers and designers and providing direction for all web projects produced by the department. The director consults with groups on campus for various web projects and initiatives, giving advice on implementation and marketing/communications.
 
-**Manager of Interactive Development/Web Developer**<br>
+### Manager of Interactive Development/Web Developer
 *University of Notre Dame*<br>
 2011-2013
 
 Manage University Communications developers, including reviews, setting goals, and day-to-day work. Build and maintain a variety of key university properties. Advocate mobile and RWD development. Set web technology standards for the university.
 
-**Web Developer**<br>
+### Web Developer
 *University of Notre Dame*<br>
 2007-2011
 
 Responsible for building client sites, custom applications (PHP/Ruby on Rails) and utilities. Build and maintain mobile web applications. Set web technology standards for the department. Ensure code quality and final product for all department web properties.
 
-**Web Developer**<br>
+### Web Developer
 *Interlink Companies*, Elkhart, IN<br>
 2004-2007
 
 Manage projects from start to finish including coordination of designers, developers and clients. Plan and implement large PHP portal systems for the RV and related industries.
 
-**Graphic Designer/Programmer/IT**<br>
+### Graphic Designer/Programmer/IT
 *Quality Engineered Products* Elkhart, IN<br>
 2002-2004
 
-**Graphic Designer/Programmer/IT**<br>
+### Graphic Designer/Programmer/IT
 *VLM International*, Osceola, IN<br>
 1998-2002
 
-**Audio Engineer**<br>
+### Audio Engineer
 *Media Station*, Ann Arbor, MI<br>
 1998
 
 ## Education
-**University of Michigan**<br>
+
+### University of Michigan
 BFA Media and Performing Arts Technology, 1998
 
-**Glen Oaks Community College**<br>
+### Glen Oaks Community College
 Associate of Arts, 1995
 
 ## Technical Skills
