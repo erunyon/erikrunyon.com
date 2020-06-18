@@ -29,7 +29,7 @@ a:focus {outline:thin dotted;}
 ::selection {background:#0058cf; color:#fff; text-shadow:none;}
 strong, b {font-weight:bold;}
 em, i {font-style:italic;}
-h1,h2,h3,h4,h5,h6 {margin:1.5em 0 0.5em; line-height:1.1em; color:#002b5b; font-weight:lighter; text-shadow:0 1px rgba(255,255,255,0.6); text-rendering:optimizeLegibility; font-family:var(--title-font-stack);}
+h1,h2,h3,h4,h5,h6 {margin:1.5em 0 0.5em; line-height:1.1em; color:#002b5b; font-weight:300; text-shadow:0 1px rgba(255,255,255,0.6); text-rendering:optimizeLegibility; font-family:var(--title-font-stack);}
 h1 a,h2 a {text-decoration:none; color:#333;}
 h1 a:visited,h2 a:visited,h3 a:visited,h4 a:visited,h5 a:visited,h6 a:visited {color:#444;}
 h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover {text-decoration:underline;}
