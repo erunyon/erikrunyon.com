@@ -84,6 +84,7 @@ Below is a small selection of the hundreds of site's I've helped build while at 
 
 ## Speaking
 
+- [HighEdWeb 2020](https://2020.highedweb.org/), October 2020
 - [Huddle 2019](https://huddle2019.nd.edu/), July 2019
 - [Higher Ed Websites Conference 2019](http://higheredexperts.com/edu/course/)
 - [HighEdWeb 2018](https://2018.highedweb.org/session/performance-still-matters/), Oct 2018
