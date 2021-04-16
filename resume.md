@@ -84,6 +84,8 @@ Below is a small selection of the hundreds of site's I've helped build while at 
 
 ## Speaking
 
+- [DrupalCon North America 2021 - Higher Education Summit
+](https://events.drupal.org/drupalcon2021/summit/higher-ed), April 2021
 - [HighEdWeb 2020](https://2020.highedweb.org/), October 2020
 - [Huddle 2019](https://huddle2019.nd.edu/), July 2019
 - [Higher Ed Websites Conference 2019](http://higheredexperts.com/edu/course/)
