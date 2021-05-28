@@ -67,20 +67,7 @@ Associate of Arts, 1995
 - Ruby
 - Ruby on Rails
 - MySQL
-
-## Projects
-
-Below is a small selection of the hundreds of site's I've helped build while at Notre Dame.
-
-- [www.ND.edu](http://www.ND.edu/) 2007, 2011, 2012, 2019
-  - [Solidarity Through Sandwiches](http://www.nd.edu/features/solidarity-through-sandwiches/) 2015 feature story
-  - [The Art of Truth](http://www.nd.edu/features/maxim-kantor/) 2015 feature story
-- [map.ND.edu](http://map.ND.edu/) 2009
-- [Conductor](http://conductor.nd.edu/) (Multi-site CMS)
-- [Campus Crossroads Project](http://crossroads.nd.edu/) 2014
-- [Building South Bend](http://buildingsouthbend.nd.edu/) 2014
-- [Notre Dame Marketing Communications](http://marcomm.nd.edu/) 2014
-- [Notre Dame Commencement](http://commencement.nd.edu/) 2016
+- Postgres
 
 ## Speaking
 
