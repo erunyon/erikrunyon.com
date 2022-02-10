@@ -11,6 +11,7 @@ bodyclass: "resume"
 - PHP
 - Ruby/Ruby on Rails
 - MySQL, Postgres, Redis
+
 ## Career
 
 ### Technical Director: Marketing Communications
