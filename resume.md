@@ -5,6 +5,13 @@ bodyclass: "resume"
 ---
 # Resumé
 
+## Tech
+- HTML, CSS
+- Javascript (vanilla, Stimulus, jQuery)
+- PHP
+- Ruby/Ruby on Rails
+- MySQL, Postgres, Redis
+
 ## Career
 
 ### Technical Director: Marketing Communications
@@ -58,16 +65,6 @@ BFA Media and Performing Arts Technology, 1998
 
 ### Glen Oaks Community College
 Associate of Arts, 1995
-
-## Technical Skills
-- HTML
-- CSS
-- Javascript
-- PHP
-- Ruby
-- Ruby on Rails
-- MySQL
-- Postgres
 
 ## Speaking
 
