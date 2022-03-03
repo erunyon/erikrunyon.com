@@ -71,6 +71,7 @@ Associate of Arts, 1995
 
 ## Speaking
 
+- [HighEdWeb 2021](https://2021.highedweb.org/), October 2021
 - [DrupalCon North America 2021 - Higher Education Summit
 ](https://events.drupal.org/drupalcon2021/summit/higher-ed), April 2021
 - [HighEdWeb 2020](https://2020.highedweb.org/), October 2020
