@@ -21,6 +21,7 @@ If you're interested in having me present at your conference, [please contact me
 
 ## Past Presentations
 
+- **Getting to Know Google's Core Web Vitals**, [HighEdWeb 2021](https://2021.highedweb.org/), October 2021
 - **Moderator for the Web performance round table**, [DrupalCon North America 2021 - Higher Education Summit](https://events.drupal.org/drupalcon2021/summit/higher-ed), April 2021
 - **Evaluating and Fixing Website Performance**, [HighEdWeb 2020](https://2020.highedweb.org/), October 2020
 - **Improving Web Performance in a Mobile World**, [Huddle 2019](https://huddle2019.nd.edu/), July 2019
