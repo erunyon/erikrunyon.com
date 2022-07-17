@@ -70,7 +70,7 @@
   }
   .search {border:1px solid #dadada;}
   .site-search {
-    fieldset {display:flex; flex-flow:row;}
+    fieldset {display:flex;}
     label {position:absolute; overflow:hidden; width:1px; height:1px; margin:-1px; padding:0; border:0; clip:rect(0 0 0 0);}
     .search {margin:0 0.25rem 0 0; border:1px solid #333; border-radius:3px;}
     button {color:#333; background:#eee; border:1px solid #333; border-radius:3px;}

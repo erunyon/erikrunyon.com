@@ -12,13 +12,11 @@ function updateStaticCache() {
       // These items won't block the installation of the Service Worker
       cache.addAll([
         '/about/',
-        '/contact/',
-        '/highered-rwd-directory/'
+        '/contact/'
       ]);
       // These items must be cached for the Service Worker to complete installation
       return cache.addAll([
         '/images/theme/leaves-right.jpg',
-        '/images/theme/icons-social@2x.png',
         '/images/theme/external.svg',
         '/js/site.js',
         '/',
@@ -81,10 +79,8 @@ self.addEventListener('fetch', event => {
   let url = new URL(request.url);
   let allowedOrigins = [location.origin];
   let ignoredFiles = ['analytics.js', 'track.js', 'track.gif'];
-  //console.log('REQUEAT', request, url);
 
   // Check allowed sources
-  //if (url.origin !== location.origin) {
   if(allowedOrigins.indexOf(url.origin) === -1){
     return;
   }
