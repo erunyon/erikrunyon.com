@@ -7,5 +7,6 @@ group :development do
   gem 'jekyll-archives'
   gem 'octopress'
   gem 'octopress-autoprefixer'
+  gem 'jekyll-sass-converter', '~> 2.0'
   # gem 'closure-compiler'
 end
