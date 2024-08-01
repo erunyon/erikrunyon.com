@@ -17,7 +17,7 @@ I am the Technical Director and developer for [Marketing Communications](https:/
 
 ## Upcoming Presentations
 
-If you're interested in having me present at your conference, [please contact me](/contact/).
+- **CSS is Awesome**, [HighEdWeb 2024](https://events.highedweb.org/heweb24/session/2154395/css-is-awesome), September 2024
 
 ## Past Presentations
 
