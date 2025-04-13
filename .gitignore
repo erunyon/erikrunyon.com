@@ -5,6 +5,7 @@
 .jekyll-cache
 .preview-mode
 .pygments-cache
+.tool-versions
 _site
 _deploy
 _drafts

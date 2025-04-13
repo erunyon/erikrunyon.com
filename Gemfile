@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 
 group :development do
   gem 'jekyll'
@@ -6,7 +6,5 @@ group :development do
   gem 'jekyll-paginate'
   gem 'jekyll-archives'
   gem 'octopress'
-  gem 'octopress-autoprefixer'
   gem 'jekyll-sass-converter', '~> 2.0'
-  # gem 'closure-compiler'
 end

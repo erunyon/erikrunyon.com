@@ -30,7 +30,7 @@ snippets_rss: https://erikrunyon.com/snippets.xml
 # SASS
 sass:
   sass_dir: _includes/css
-  style: :compressed # expanded, compact, compressed
+  style: compressed # expanded, compact, compressed
 
 # Disqus Comments
 disqus_short_name: weedygarden
@@ -39,9 +39,7 @@ disqus_show_comment_count: true
 # Gems
 plugins:
   - jekyll-sitemap
-  - octopress-autoprefixer
   - jekyll-paginate
-  #- jekyll-archives
 
 jekyll-archives:
   enabled: categories
