@@ -15,6 +15,10 @@ I am the Technical Director and developer for [Marketing Communications](https:/
 
 [Erik Runyon](https://erikrunyon.com/), Technical Director for [Marketing Communications](https://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/), has been developing websites for fun and profit since 1995, and joined the university in 2007. Erik enjoys chatting and writing about web standards, performance, and accessibility. Not necessarily in that order.
 
+## Upcoming Presentations
+
+- **Roll for sanity: Surviving the ever-expanding web feature bestiary**, [Digital Collegium 2025](https://events.digicol.org/digicol25/session/3090295/roll-for-sanity-surviving-the-ever-expanding-web-feature-bestiary), September 2025
+
 ## Past Presentations
 
 - **CSS is Awesome**, [HighEdWeb 2024](https://events.highedweb.org/heweb24/session/2154395/css-is-awesome), September 2024
