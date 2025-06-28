@@ -6,8 +6,7 @@ bodyclass: "resume"
 # Resumé
 
 ## Tech
-- HTML, CSS
-- Javascript (vanilla, Stimulus, jQuery)
+- HTML, CSS, Javascript
 - PHP
 - Ruby/Ruby on Rails
 - MySQL, Postgres, Redis
