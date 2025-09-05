@@ -121,7 +121,7 @@
     header {margin-bottom:0.5rem;}
   }
 
-  .wrapper {display:grid; grid-gap:var(--grid-gap) 3rem; grid-template-columns:1fr 140px; max-width:1200px; margin:5rem 6%; height:1%;}
+  .wrapper {display:grid; grid-gap:var(--grid-gap) 3rem; grid-template-columns:1fr 140px; max-width:1200px; margin:5rem auto; height:1%;}
   .skip-links { border:0; clip:rect(0 0 0 0); height:1px; margin:-1px; overflow:hidden; padding:0; position:absolute; width:1px; }
   .skip-links:active, .skip-links:focus { clip:auto; height:auto; margin:0; overflow:visible; position:static; width:auto; }
 
