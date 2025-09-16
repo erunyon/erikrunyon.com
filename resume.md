@@ -13,7 +13,7 @@ bodyclass: "resume"
 
 ## Career
 
-### Technical Director: Marketing Communications
+### Technical Director: ND Creative
 *University of Notre Dame*<br>
 April 2015 - Present
 

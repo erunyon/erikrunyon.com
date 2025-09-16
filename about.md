@@ -5,7 +5,7 @@ layout: default
 ---
 # About
 
-I am the Technical Director and developer for [Marketing Communications](https://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/). The opinions on this site are my own and most certainly do not represent the views of Notre Dame.
+I am the Technical Director and developer with the [Web Team](https://creative.nd.edu/web/) at the [University of Notre Dame](https://www.nd.edu/). The opinions on this site are my own and most certainly do not represent the views of Notre Dame.
 
 ## Conference Resources
 
@@ -13,7 +13,7 @@ I am the Technical Director and developer for [Marketing Communications](https:/
 
 ### Bio
 
-[Erik Runyon](https://erikrunyon.com/), Technical Director for [Marketing Communications](https://marcomm.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/), has been developing websites for fun and profit since 1995, and joined the university in 2007. Erik enjoys chatting and writing about web standards, performance, and accessibility. Not necessarily in that order.
+[Erik Runyon](https://erikrunyon.com/), Technical Director for [ND Creative](https://creative.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/), has been developing websites for fun and profit since 1995, and joined the university in 2007. Erik enjoys chatting and writing about web standards, performance, and accessibility. Not necessarily in that order.
 
 ## Upcoming Presentations
 
