@@ -15,12 +15,9 @@ I am the Technical Director and developer with the [Web Team](https://creative.n
 
 [Erik Runyon](https://erikrunyon.com/), Technical Director for [ND Creative](https://creative.nd.edu/) at the [University of Notre Dame](https://www.nd.edu/), has been developing websites for fun and profit since 1995, and joined the university in 2007. Erik enjoys chatting and writing about web standards, performance, and accessibility. Not necessarily in that order.
 
-## Upcoming Presentations
-
-- **Roll for sanity: Surviving the ever-expanding web feature bestiary**, [Digital Collegium 2025](https://events.digicol.org/digicol25/session/3090295/roll-for-sanity-surviving-the-ever-expanding-web-feature-bestiary), September 2025
-
 ## Past Presentations
 
+- **Roll for sanity: Surviving the ever-expanding web feature bestiary**, [Digital Collegium 2025](https://events.digicol.org/digicol25/session/3090295/roll-for-sanity-surviving-the-ever-expanding-web-feature-bestiary), September 2025
 - **CSS is Awesome**, [HighEdWeb 2024](https://events.highedweb.org/heweb24/session/2154395/css-is-awesome), September 2024
 - **Getting to Know Google's Core Web Vitals**, [HighEdWeb 2021](https://2021.highedweb.org/), October 2021
 - **Moderator for the Web performance round table**, [DrupalCon North America 2021 - Higher Education Summit](https://events.drupal.org/drupalcon2021/summit/higher-ed), April 2021

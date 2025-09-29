@@ -6,6 +6,7 @@
 .preview-mode
 .pygments-cache
 .tool-versions
+.well-known
 _site
 _deploy
 _drafts
