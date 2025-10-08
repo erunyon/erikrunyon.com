@@ -2,7 +2,7 @@
 layout: post
 title: Lighting an Ikea Billy Bookcase
 date: 2025-04-13
-categories: ['DIY']
+categories: [DIY]
 ---
 This past December I had the opportunity to put together my first proper home office. One aspect of the office is a bookshelf to corral all my books and memorabilia that up to this point have been scattered around the house. For this project I utilized three Ikea Billy bookcases, but to make the project really shine, I added LED lighting. Let's go over the products and process I followed to set this up.
 <!-- more -->
