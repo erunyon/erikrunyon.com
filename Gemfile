@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'bigdecimal'
+
 group :development do
   gem 'jekyll'
   gem 'jekyll-sitemap'
