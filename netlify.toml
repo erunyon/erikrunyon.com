@@ -4,3 +4,26 @@
 
 [build.environment]
   NODE_VERSION = "24"
+
+# Browser caching for static assets that are rarely replaced in place.
+# Everything else (HTML, feeds, sw.js, manifest.json, /js/*) keeps Netlify's
+# default revalidation, since those URLs aren't fingerprinted.
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/files/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/favicon.ico"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+[[headers]]
+  for = "/favicon.png"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
