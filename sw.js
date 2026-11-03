@@ -78,15 +78,9 @@ self.addEventListener('fetch', event => {
   let request = event.request;
   let url = new URL(request.url);
   let allowedOrigins = [location.origin];
-  let ignoredFiles = ['analytics.js', 'track.js', 'track.gif'];
 
   // Check allowed sources
   if(allowedOrigins.indexOf(url.origin) === -1){
-    return;
-  }
-
-  // Ignore some local files
-  if(ignoredFiles.indexOf(url.pathname.split('/').pop()) != -1){
     return;
   }
 
