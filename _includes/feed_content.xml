@@ -1,0 +1,14 @@
+{%- comment -%}
+  Post body for a feed item. Feed readers don't resolve root-relative
+  URLs, so make src="/…" and href="/…" absolute. Protocol-relative
+  URLs (//host/…) are put back as they were.
+{%- endcomment -%}
+{%- assign root = site.url | append: site.baseurl -%}
+{%- assign src_abs = 'src="' | append: root | append: '/' -%}
+{%- assign href_abs = 'href="' | append: root | append: '/' -%}
+{%- assign src_proto = src_abs | append: '/' -%}
+{%- assign href_proto = href_abs | append: '/' -%}
+{{- include.content
+  | replace: 'src="/', src_abs | replace: src_proto, 'src="//'
+  | replace: 'href="/', href_abs | replace: href_proto, 'href="//'
+  | xml_escape -}}
