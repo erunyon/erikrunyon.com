@@ -16,7 +16,7 @@ layout: null
     "title": {{ post.title | jsonify }},
     "summary": {{ post.seo_description | jsonify }},
     "content_text": {{ post.content | strip_html | strip_newlines | jsonify}},
-    "content_html": {{ post.content | strip_newlines | jsonify }},
+    "content_html": {{ post.content | absolute_urls | strip_newlines | jsonify }},
     "url": "{{ post.url | prepend: site.url }}",
     "date_published": "{{ post.date | date_to_xmlschema }}",
     "date_modified": "{{ post.date | date_to_xmlschema }}",
