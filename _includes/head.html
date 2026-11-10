@@ -1,4 +1,11 @@
-{% if page.description %}{% assign meta_description = page.description %}{% else %}{% assign meta_description = site.description %}{% endif %}
+{% comment %} A post's description defaults to its excerpt, cut to 160 characters on a word boundary. Set description: in front matter to override it. {% endcomment %}
+{% assign meta_description = page.description %}
+{% if meta_description == nil and page.collection == "posts" %}
+  {% assign meta_description = page.excerpt | strip_html | normalize_whitespace %}
+  {% if meta_description.size > 160 %}{% assign meta_description = meta_description | truncate: 160, "" | split: " " | pop | join: " " | append: "…" %}{% endif %}
+{% endif %}
+{% if meta_description == nil or meta_description == "" %}{% assign meta_description = site.description %}{% endif %}
+{% assign meta_description = meta_description | escape_once %}
 {% if page.title %}{% capture meta_title %}{{ page.title }} | {{ site.title }}{% endcapture %}{% else %}{% assign meta_title = site.title %}{% endif %}
 {% if page.image %}{% capture meta_image %}{{ site.url }}/{{ page.image }}{% endcapture %}{% else %}{% capture meta_image %}{{ site.url }}/images/theme/webclip-144.png{% endcapture %}{% endif %}
 {% capture canonical %}{{ site.url }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
